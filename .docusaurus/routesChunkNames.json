@@ -1,94 +1,51 @@
 {
-  "/__docusaurus/debug-587": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/en/markdown-page-5bb": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---docusaurus-debugeff-d75"
-    }
-  },
-  "/__docusaurus/debug/config-711": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugeff-d75"
-    }
-  },
-  "/__docusaurus/debug/content-96b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugeff-d75"
+      "plugin": "99a4c261"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "content": "393be207"
   },
-  "/__docusaurus/debug/globalData-e47": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/en/docs-2f7": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---docusaurus-debugeff-d75"
-    }
-  },
-  "/__docusaurus/debug/metadata-14d": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugeff-d75"
-    }
-  },
-  "/__docusaurus/debug/registry-462": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugeff-d75"
-    }
-  },
-  "/__docusaurus/debug/routes-b57": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugeff-d75"
-    }
-  },
-  "/markdown-page-75b": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---markdown-page-99-a-de2"
+      "plugin": "65ab4384"
     },
-    "content": "content---markdown-page-393-028"
+    "versionMetadata": "935f2afb"
   },
-  "/docs-23a": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/en/docs/category/license---gpl-514": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "40ff9aef"
+  },
+  "/en/docs/gpl/agplv3-e7f": {
+    "__comp": "17896441",
+    "content": "d47b3f0e"
+  },
+  "/en/docs/gpl/fdlv1.3-466": {
+    "__comp": "17896441",
+    "content": "bb4fb0df"
+  },
+  "/en/docs/gpl/gplv1-8a8": {
+    "__comp": "17896441",
+    "content": "0b51080d"
+  },
+  "/en/docs/gpl/gplv2-0e5": {
+    "__comp": "17896441",
+    "content": "bae7f6f7"
+  },
+  "/en/docs/gpl/gplv3-cca": {
+    "__comp": "17896441",
+    "content": "cf16664f"
+  },
+  "/en/docs/gpl/lgplv2.1-633": {
+    "__comp": "17896441",
+    "content": "6e2bf5d6"
+  },
+  "/en/-0eb": {
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---docs-65-a-2f7"
+      "plugin": "99a4c261"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
-  },
-  "/docs/category/license---gpl-46b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-license-gpldc-7-3fc"
-  },
-  "/docs/gpl/agplv3-2c2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-gpl-agplv-3-d-47-66c"
-  },
-  "/docs/gpl/fdlv1.3-086": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-gpl-fdlv-1-3-bb-4-bf9"
-  },
-  "/docs/gpl/gplv1-a14": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-gpl-gplv-10-b-5-2df"
-  },
-  "/docs/gpl/gplv2-21e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-gpl-gplv-2-bae-4df"
-  },
-  "/docs/gpl/gplv3-3b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-gpl-gplv-3-cf-1-5b5"
-  },
-  "/docs/gpl/lgplv2.1-cff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-gpl-lgplv-2-16-e-2-75a"
-  },
-  "/-add": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
-    "__context": {
-      "plugin": "plugin---markdown-page-99-a-de2"
-    },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

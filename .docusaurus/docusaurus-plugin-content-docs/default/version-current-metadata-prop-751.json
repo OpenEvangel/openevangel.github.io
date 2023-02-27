@@ -18,41 +18,41 @@
           {
             "type": "link",
             "label": "GNU GENERAL PUBLIC LICENSE",
-            "href": "/docs/gpl/gplv1",
+            "href": "/en/docs/gpl/gplv1",
             "docId": "gpl/gplv1"
           },
           {
             "type": "link",
             "label": "GNU通用公共许可证",
-            "href": "/docs/gpl/gplv2",
+            "href": "/en/docs/gpl/gplv2",
             "docId": "gpl/gplv2"
           },
           {
             "type": "link",
             "label": "GNU通用公共许可证",
-            "href": "/docs/gpl/gplv3",
+            "href": "/en/docs/gpl/gplv3",
             "docId": "gpl/gplv3"
           },
           {
             "type": "link",
             "label": "GNU LESSER GENERAL PUBLIC LICENSE",
-            "href": "/docs/gpl/lgplv2.1",
+            "href": "/en/docs/gpl/lgplv2.1",
             "docId": "gpl/lgplv2.1"
           },
           {
             "type": "link",
             "label": "GNU Affero 通用公共许可证",
-            "href": "/docs/gpl/agplv3",
+            "href": "/en/docs/gpl/agplv3",
             "docId": "gpl/agplv3"
           },
           {
             "type": "link",
             "label": "fdlv1.3",
-            "href": "/docs/gpl/fdlv1.3",
+            "href": "/en/docs/gpl/fdlv1.3",
             "docId": "gpl/fdlv1.3"
           }
         ],
-        "href": "/docs/category/license---gpl"
+        "href": "/en/docs/category/license---gpl"
       }
     ]
   },
