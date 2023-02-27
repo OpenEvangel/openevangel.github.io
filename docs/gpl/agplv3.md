@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+title: Affero GPL
 ---
 # GNU Affero 通用公共许可证
 
