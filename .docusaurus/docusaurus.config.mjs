@@ -8,7 +8,7 @@ export default {
   "tagline": "Open Source Library",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "organizationName": "openevangel.com",
   "projectName": "openevangel",
   "onBrokenLinks": "throw",
@@ -91,10 +91,6 @@ export default {
         {
           "title": "More",
           "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
             {
               "label": "GitHub",
               "href": "https://github.com/facebook/docusaurus"

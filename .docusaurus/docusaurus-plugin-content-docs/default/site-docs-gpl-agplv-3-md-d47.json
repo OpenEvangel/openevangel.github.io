@@ -6,7 +6,7 @@
   "source": "@site/docs/gpl/agplv3.md",
   "sourceDirName": "gpl",
   "slug": "/gpl/agplv3",
-  "permalink": "/docs/gpl/agplv3",
+  "permalink": "/en/docs/gpl/agplv3",
   "draft": false,
   "editUrl": "https://github.com/OpenEvangel/openevangel.github.io/docs/gpl/agplv3.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "GNU LESSER GENERAL PUBLIC LICENSE",
-    "permalink": "/docs/gpl/lgplv2.1"
+    "permalink": "/en/docs/gpl/lgplv2.1"
   },
   "next": {
     "title": "fdlv1.3",
-    "permalink": "/docs/gpl/fdlv1.3"
+    "permalink": "/en/docs/gpl/fdlv1.3"
   }
 }
