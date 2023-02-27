@@ -28,8 +28,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'zh-cn',
+    locales: ['zh-cn', 'en'],
   },
 
   presets: [
@@ -44,13 +44,13 @@ const config = {
           editUrl:
             'https://github.com/OpenEvangel/openevangel.github.io',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/OpenEvangel/openevangel.github.io',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/OpenEvangel/openevangel.github.io',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/gpl/gplv1',
               },
             ],
           },

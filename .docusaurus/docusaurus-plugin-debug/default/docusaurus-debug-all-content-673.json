@@ -12,12 +12,12 @@
           "path": "/docs",
           "tagsPath": "/docs/tags",
           "editUrl": "https://github.com/OpenEvangel/openevangel.github.io/docs",
-          "editUrlLocalized": "https://github.com/OpenEvangel/openevangel.github.io/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+          "editUrlLocalized": "https://github.com/OpenEvangel/openevangel.github.io/i18n/zh-cn/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/rich/repos/openevangel/openevangel.github.io/sidebars.js",
           "contentPath": "/home/rich/repos/openevangel/openevangel.github.io/docs",
-          "contentPathLocalized": "/home/rich/repos/openevangel/openevangel.github.io/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/home/rich/repos/openevangel/openevangel.github.io/i18n/zh-cn/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "gpl/agplv3",

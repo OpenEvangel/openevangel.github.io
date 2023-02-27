@@ -1,17 +1,25 @@
 {
-  "defaultLocale": "zh-Hans",
+  "defaultLocale": "zh-cn",
   "locales": [
-    "zh-Hans"
+    "zh-cn",
+    "en"
   ],
   "path": "i18n",
-  "currentLocale": "zh-Hans",
+  "currentLocale": "zh-cn",
   "localeConfigs": {
-    "zh-Hans": {
-      "label": "简体中文",
+    "zh-cn": {
+      "label": "中文（中国）",
       "direction": "ltr",
-      "htmlLang": "zh-Hans",
+      "htmlLang": "zh-cn",
       "calendar": "gregory",
-      "path": "zh-Hans"
+      "path": "zh-cn"
+    },
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en",
+      "calendar": "gregory",
+      "path": "en"
     }
   }
 }
