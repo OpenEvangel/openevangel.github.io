@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: GPL Version 2
 ---
 # GNU通用公共许可证
 

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+title: LGPL
 ---
 # GNU 宽松通用公共许可证
 

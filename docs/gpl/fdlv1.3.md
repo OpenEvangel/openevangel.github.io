@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+title: 自由文档许可证
 ---
 # GNU自由文档许可证
 

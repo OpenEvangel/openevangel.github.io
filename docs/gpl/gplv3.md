@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: GPL Version 3
 ---
 # GNU通用公共许可证
 

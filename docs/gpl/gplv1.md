@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: GPL Version 1
 ---
 # GNU通用公共许可证
 
