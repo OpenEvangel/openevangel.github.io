@@ -14,9 +14,10 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "zh-Hans",
+    "defaultLocale": "zh-cn",
     "locales": [
-      "zh-Hans"
+      "zh-cn",
+      "en"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -27,10 +28,6 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/rich/repos/openevangel/openevangel.github.io/sidebars.js",
-          "editUrl": "https://github.com/OpenEvangel/openevangel.github.io"
-        },
-        "blog": {
-          "showReadingTime": true,
           "editUrl": "https://github.com/OpenEvangel/openevangel.github.io"
         },
         "theme": {
@@ -70,7 +67,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/docs/gpl/gplv1"
             }
           ]
         },
