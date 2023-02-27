@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://openevangel.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -74,7 +74,7 @@ const config = {
             type: 'doc',
             docId: 'gpl/gplv1',
             position: 'left',
-            label: 'GPL许可证',
+            label: 'GPL',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -91,7 +91,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'GPL',
                 to: '/docs/gpl/gplv1',
               },
             ],
@@ -116,13 +116,13 @@ const config = {
           {
             title: 'More',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
+              {
+                label: '译道师',
+                href: 'https://github.com/lfapac-open-source-evangelist/translation',
+              },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/openevangel/openevangel.github.io',
               },
             ],
           },
