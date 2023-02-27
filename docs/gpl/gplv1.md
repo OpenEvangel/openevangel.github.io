@@ -6,9 +6,9 @@ title: GPL Version 1
 
 第1版，1989年2月
 
-    版权所有 (C) 1989 自由软件基金会
-    51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
-    任何人都可以复制和发布本许可证的完整副本，但不允许修改。
+版权所有 (C) 1989 自由软件基金会
+51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
 ## 译者声明
 
