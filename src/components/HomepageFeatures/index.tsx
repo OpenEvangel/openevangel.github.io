@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
@@ -10,33 +11,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '译道师',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        LF APAC 译道师团队作品。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '大咖专栏',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        开源大咖作品。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '专题',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <Link
+            className="button button--secondary button--lg"
+            to="/docs/gpl/gplv1">
+            开源专题
+        </Link>
     ),
   },
 ];

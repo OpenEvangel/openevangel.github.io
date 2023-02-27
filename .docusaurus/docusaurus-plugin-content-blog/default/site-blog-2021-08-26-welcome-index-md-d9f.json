@@ -1,11 +1,11 @@
 {
   "permalink": "/blog/welcome",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+  "editUrl": "https://github.com/OpenEvangel/openevangel.github.io/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
   "date": "2021-08-26T00:00:00.000Z",
-  "formattedDate": "August 26, 2021",
+  "formattedDate": "2021年8月26日",
   "tags": [
     {
       "label": "facebook",

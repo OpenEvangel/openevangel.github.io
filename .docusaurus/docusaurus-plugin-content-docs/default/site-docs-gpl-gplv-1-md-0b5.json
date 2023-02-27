@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gpl/gplv1",
+  "id": "gpl/gplv1",
+  "title": "GNU GENERAL PUBLIC LICENSE",
+  "description": "Version 1, February 1989",
+  "source": "@site/docs/gpl/gplv1.md",
+  "sourceDirName": "gpl",
+  "slug": "/gpl/gplv1",
+  "permalink": "/docs/gpl/gplv1",
+  "draft": false,
+  "editUrl": "https://github.com/OpenEvangel/openevangel.github.io/docs/gpl/gplv1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "License - GPL",
+    "permalink": "/docs/category/license---gpl"
+  },
+  "next": {
+    "title": "GNU通用公共许可证",
+    "permalink": "/docs/gpl/gplv2"
+  }
+}

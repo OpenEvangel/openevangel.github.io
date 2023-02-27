@@ -10,132 +10,87 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro"
-      },
-      {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "License - GPL",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
+            "label": "GNU GENERAL PUBLIC LICENSE",
+            "href": "/docs/gpl/gplv1",
+            "docId": "gpl/gplv1"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
+            "label": "GNU通用公共许可证",
+            "href": "/docs/gpl/gplv2",
+            "docId": "gpl/gplv2"
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
+            "label": "GNU通用公共许可证",
+            "href": "/docs/gpl/gplv3",
+            "docId": "gpl/gplv3"
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
+            "label": "GNU LESSER GENERAL PUBLIC LICENSE",
+            "href": "/docs/gpl/lgplv2.1",
+            "docId": "gpl/lgplv2.1"
           },
           {
             "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
+            "label": "GNU Affero 通用公共许可证",
+            "href": "/docs/gpl/agplv3",
+            "docId": "gpl/agplv3"
           },
           {
             "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "label": "fdlv1.3",
+            "href": "/docs/gpl/fdlv1.3",
+            "docId": "gpl/fdlv1.3"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
-          }
-        ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/license---gpl"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+    "gpl/agplv3": {
+      "id": "gpl/agplv3",
+      "title": "GNU Affero 通用公共许可证",
+      "description": "第3版, 2017年11月19日",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "gpl/fdlv1.3": {
+      "id": "gpl/fdlv1.3",
+      "title": "fdlv1.3",
+      "description": "GNU Free Documentation License",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+    "gpl/gplv1": {
+      "id": "gpl/gplv1",
+      "title": "GNU GENERAL PUBLIC LICENSE",
+      "description": "Version 1, February 1989",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
+    "gpl/gplv2": {
+      "id": "gpl/gplv2",
+      "title": "GNU通用公共许可证",
+      "description": "第二版，1991年6月",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+    "gpl/gplv3": {
+      "id": "gpl/gplv3",
+      "title": "GNU通用公共许可证",
+      "description": "第3版，2007年6月29日",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "gpl/lgplv2.1": {
+      "id": "gpl/lgplv2.1",
+      "title": "GNU LESSER GENERAL PUBLIC LICENSE",
+      "description": "Version 2.1, February 1999",
       "sidebar": "tutorialSidebar"
     }
   }

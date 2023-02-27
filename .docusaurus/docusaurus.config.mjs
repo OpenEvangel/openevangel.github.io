@@ -4,19 +4,19 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Open Evangel",
+  "tagline": "Open Source Library",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "openevangel.com",
+  "projectName": "openevangel",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "zh-Hans",
     "locales": [
-      "en"
+      "zh-Hans"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -26,15 +26,15 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/richzhao/repo/openevangel.github.io/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/home/rich/repos/openevangel/openevangel.github.io/sidebars.js",
+          "editUrl": "https://github.com/OpenEvangel/openevangel.github.io"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/OpenEvangel/openevangel.github.io"
         },
         "theme": {
-          "customCss": "/Users/richzhao/repo/openevangel.github.io/src/css/custom.css"
+          "customCss": "/home/rich/repos/openevangel/openevangel.github.io/src/css/custom.css"
         }
       }
     ]
@@ -42,22 +42,17 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Open Evangel",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Open Evangel",
         "src": "img/logo.svg"
       },
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "gpl/gplv1",
           "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "label": "GPL许可证"
         },
         {
           "href": "https://github.com/facebook/docusaurus",

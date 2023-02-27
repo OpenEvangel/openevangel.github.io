@@ -1,14 +1,14 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "许可证",
+  "description": "GPL 系列许可证",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/docs/intro",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": "https://github.com/OpenEvangel/openevangel.github.io/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,8 +16,8 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+  "previous": {
+    "title": "fdlv1.3",
+    "permalink": "/docs/gpl/fdlv1.3"
   }
 }
