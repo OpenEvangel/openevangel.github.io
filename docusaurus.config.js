@@ -77,7 +77,7 @@ const config = {
             label: 'GPL',
           },
           {to: '/events', label: 'Events', position: 'left'},
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
