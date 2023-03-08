@@ -1,5 +1,11 @@
 zRich:
-  name: Zhao Zhenhua
+  name: 赵振华
   # title: Maintainer of Docusaurus
   url: https://github.com/zRich
   image_url: https://github.com/zRich.png
+
+lirui:
+  name: 李睿
+  # title: Maintainer of Docusaurus
+  url: https://github.com/ruilibuaa
+  image_url: https://github.com/ruilibuaa.png
