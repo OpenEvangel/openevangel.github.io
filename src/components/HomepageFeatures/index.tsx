@@ -14,9 +14,10 @@ const FeatureList: FeatureItem[] = [
     title: '译道师',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
-        LF APAC 译道师团队作品。
-      </>
+      <Link       
+        to="/yidaoshi" >
+          LF APAC 译道师团队作品。
+      </Link>
     ),
   },
   {
