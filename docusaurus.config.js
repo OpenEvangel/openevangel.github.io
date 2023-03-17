@@ -32,6 +32,15 @@ const config = {
     locales: ['zh-cn', 'en'],
   },
 
+  plugins: [
+    ['@docusaurus/plugin-content-blog',
+      {
+        id: 'yidaoshi',
+        routeBasePath: 'yidaoshi',
+        path: './yidaoshi',
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -76,8 +85,9 @@ const config = {
             position: 'left',
             label: 'GPL',
           },
-          {to: '/events', label: 'Events', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/yidaoshi', label: '译道师', position: 'left' },
+          { to: '/events', label: 'Events', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
