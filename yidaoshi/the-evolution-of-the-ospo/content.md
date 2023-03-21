@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
 title: 开源办公室演进
 tags: [译道师, OSPO]
 authors: [zRich, sunzhh02]
