@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+title: 开源办公室演进
+tags: [译道师, OSPO]
+authors: [zRich, sunzhh02]
+---
 # 开源办公室演进
 
 ## 基于彭博社、康卡斯特和保时捷的开源办公室成熟度模型特征
