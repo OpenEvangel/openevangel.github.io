@@ -31,15 +31,15 @@ Copyright &copy; 2008, 2014        Software Freedom Law Center.
 
 版权所有 &copy; 2008，2014软件自由法律中心。
 
-The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices [B](#_bookmark256)[--E](#_bookmark261)) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
+The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices [B][--E]) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
 
 版权持有者授予自由复制，修改，传播，适应和/或重新分发本作品（除附录B--E外），根据知识共享署名相同4.0国际许可协议的条款。该许可证的副本可在https://creativecommons.org/licenses/by-sa/4.0/legalcode找到。
 
-Appendices [B--E](#_bookmark261) include copies of the texts of various licenses published by the FSF, and they are all licensed under the license, "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.". However, those who seek to make modified versions of those licenses should note the [explanation given in the GPL FAQ.](https://www.gnu.org/licenses/gpl-faq.html#ModifyGPL)
+Appendices [B--E] include copies of the texts of various licenses published by the FSF, and they are all licensed under the license, "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.". However, those who seek to make modified versions of those licenses should note the [explanation given in the GPL FAQ.](https://www.gnu.org/licenses/gpl-faq.html#ModifyGPL)
 
 附录B--E包括由FSF发表的各种许可证的文本副本，它们都在许可证下许可，“每个人都被允许复制和分发本许可证文件的逐字副本，但不允许更改。”但是，那些试图制作修改版本的许可证的人应注意GPL FAQ中给出的解释。
 
-As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog/master/) for full documentation of all contributions, and Appendix [A](#_bookmark255) contains a list of third-party works from which some material herein was adapted.
+As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog/master/) for full documentation of all contributions, and Appendix [A] contains a list of third-party works from which some material herein was adapted.
 
 作为公共协作项目，本指南主要由通过其公共贡献过程接收到的许多贡献组成。请查看其Git日志以获取所有贡献的完整文档，附录A包含了一些本文所述材料的第三方作品列表。
 
@@ -138,7 +138,7 @@ A particular user has software freedom with respect to a particular program if t
 
 - 将修改后的软件副本分发给他人的自由。
 
-The focus on "a particular user" is particularly pertinent here. It is not uncommon for a subset of a specific program's user base to have these freedoms, while other users of the same version the program have none or only some of these freedoms. Section [12.2](#business-models) talks in detail about how this can unfortunately happen even if a program is released under the GPL.
+The focus on "a particular user" is particularly pertinent here. It is not uncommon for a subset of a specific program's user base to have these freedoms, while other users of the same version the program have none or only some of these freedoms. Section [12.2] talks in detail about how this can unfortunately happen even if a program is released under the GPL.
 
 对“特定用户”的关注在这里尤为重要。某个特定程序的用户群的一部分人拥有这些自由的情况并不少见，而同一版本程序的其他用户则没有或只有其中的一部分自由。第 [12.2](#商业模式) 章节详细讨论了这种情况，即使程序是基于GPL发布的。
 
@@ -223,7 +223,7 @@ Another common instance of commercial sharing is service-oriented distribution. 
 
 商业共享的另一个常见方式是面向服务的分发。例如，一些分发供应商通过特殊的网络服务提供即时安全和升级服务。这种分发方式不一定与软件自由相矛盾。
 
-(Section [12.2](#business-models) of this tutorial talks in detail about some common Free Software business models that take advantage of the freedom to share commercially.)
+(Section [12.2] of this tutorial talks in detail about some common Free Software business models that take advantage of the freedom to share commercially.)
 
 （本教程的[第12.2章](#商业模式)部分详细讨论了一些常见的利用商业实现自由软件的自由共享的业务模式。）
 
@@ -285,9 +285,9 @@ However, software, in its natural state without copyright, is Free Software. In 
 
 但是，在没有版权的自然状态下，软件是自由软件。在没有版权的虚拟世界中，规则会有所不同。在虚拟世界上，当你收到一个程序的源代码副本时，不会有默认的法律制度来限制你与他人共享、进行修改或重新分发这些修改后的版本。[^5]
 
-[^5]: Note that this is again an oversimplification; the complexities with this argument are discussed in Section [1.2.3.](#software-and-non-copyright-legal-regimes)
+[^5]: Note that this is again an oversimplification; the complexities with this argument are discussed in Section [1.2.3.]
 
-[^5]: 注意，这里又将情况给简化处理了；关于这一争论的复杂情况的讨论详见[1.2.3 章节](#software-and-non-copyright-legal-regimes)
+[^5]: 注意，这里又将情况给简化处理了；关于这一争论的复杂情况的讨论详见[1.2.3 章节]
 
 Software in the real world is copyrighted by default and is automatically covered by that legal system. However, it is possible to move software out of the domain of the copyright system. A copyright holder can often *disclaim* their copyright. (For example, under USA copyright law it is possible for a copyright holder to engage in
 conduct resulting in abandonment of copyright.) If copyright is disclaimed, the software is effectively no longer restricted by copyright law. Software not restricted by copyright is in the "public domain."
@@ -310,12 +310,12 @@ Carefully note that software truly in the public domain is *not* licensed in any
 
 请注意，真正属于公共领域的软件*未*以任何方式获得许可。关于软件“已获得公共领域许可”，或任何关于版权所有者明确允许采取受版权法管辖的行为的暗示说法，都是令人困惑的。
 
-Copyright holders who state that they are releasing their code into the public domain are effectively renouncing copyright controls on the work. The law gave the copyright holders exclusive controls over the work, and they chose to waive those controls. Software that is, in this sense, in the public domain is conceptualized by the developer as having no copyright and thus no license. The software freedoms discussed in Section [1.1](#the-free-software-definition) are all
+Copyright holders who state that they are releasing their code into the public domain are effectively renouncing copyright controls on the work. The law gave the copyright holders exclusive controls over the work, and they chose to waive those controls. Software that is, in this sense, in the public domain is conceptualized by the developer as having no copyright and thus no license. The software freedoms discussed in Section [1.1] are all
 granted because there is no legal system in play to take them away.
 
 如果版权所有者声明将其代码发布到公共领域，实际上他就放弃了对作品的版权控制。法律赋予版权所有者对作品的独占控制权，他们可以选择放弃这些控制权。从这个意义上说，处于公共领域的软件被开发人员认定为没有版权，因此也就没有许可证。第[1.1] 节（#the-free-software-definition）中讨论的软件自由都是被授予的，因为没有法律制度可以剥夺这些自由。
 
-Admittedly, a discussion of public domain software is an oversimplified example. Because copyright controls are usually automatically granted and because, in some jurisdictions, some copyright controls cannot be waived (see Section [1.2.4](#non-usa-copyright-regimes) for further discussion), many copyright holders sometimes incorrectly believe a work has been placed in the public domain. Second, due to aggressive lobbying by the entertainment industry, the "exclusive Right" of copyright, that was supposed to only exist for "Limited Times" according to the USA Constitution, appears to be infinite: simply purchased on the installment plan rather than in whole. Thus, we must assume no works of software will fall into the public domain merely due to the passage of time.
+Admittedly, a discussion of public domain software is an oversimplified example. Because copyright controls are usually automatically granted and because, in some jurisdictions, some copyright controls cannot be waived (see Section [1.2.4] for further discussion), many copyright holders sometimes incorrectly believe a work has been placed in the public domain. Second, due to aggressive lobbying by the entertainment industry, the "exclusive Right" of copyright, that was supposed to only exist for "Limited Times" according to the USA Constitution, appears to be infinite: simply purchased on the installment plan rather than in whole. Thus, we must assume no works of software will fall into the public domain merely due to the passage of time.
 
 诚然，对公共领域软件的讨论是一个过于简单化的例子。因为版权控制通常是自动授予的，并且在某些司法管辖区，某些版权控制不能被放弃（请参考第 [1.2.4] 节（#non-usa-copyright-regimes）以了解进一步的讨论），许多版权所有者有时会错误地认为作品已经发布到了公共领域。其次，由于娱乐业的积极游说，根据美国宪法规定，版权的“专有权”本应仅存在于“有限时间”，但看起来似乎是无限的：只是分期付款购买，而不是全部购买。因此，我们必须假设没有任何软件作品会因为时间的流逝而落入公共领域。
 
@@ -347,9 +347,9 @@ A legal mechanism is needed to redress this problem. FSF was in fact originally 
 
 因此，需要一个法律机制来解决这个问题。事实上，FSF最初主要是作为一个捍卫软件自由的法律实体而创建的，而捍卫软件自由是其现在工作的重要组成部分。特别是由于这种“拥抱、专有化和扩展”的循环，FSF有意识地选择对其自由软件进行版权保护，然后根据“copyleft”条款对其进行许可。许多人，包括Linux内核的开发人员，都选择遵循这种模式。
 
-Copyleft is a strategy of utilizing copyright law to pursue the policy goal of fostering and encouraging the equal and inalienable right to copy, share, modify and improve creative works of authorship. Copyleft (as a general term) describes any method that utilizes the copyright system to achieve the aforementioned goal. Copyleft as a concept is usually implemented in the details of a specific copyright license, such as the [GNU General Public License (GPL)](#_bookmark259) and the Creative Commons Attribution Share Alike License (the latter of which is the license of this work itself). Copyright holders of creative work can unilaterally implement these licenses for their own works to build communities that collaboratively share and improve those copylefted creative works.
+Copyleft is a strategy of utilizing copyright law to pursue the policy goal of fostering and encouraging the equal and inalienable right to copy, share, modify and improve creative works of authorship. Copyleft (as a general term) describes any method that utilizes the copyright system to achieve the aforementioned goal. Copyleft as a concept is usually implemented in the details of a specific copyright license, such as the [GNU General Public License (GPL)] and the Creative Commons Attribution Share Alike License (the latter of which is the license of this work itself). Copyright holders of creative work can unilaterally implement these licenses for their own works to build communities that collaboratively share and improve those copylefted creative works.
 
-Copyleft是一种利用版权法来实现政策目标的策略，意在促进和鼓励平等和不可剥夺的复制、共享、修改和改进原创作品的权利。Copyleft（作为一个通用术语）描述了利用版权系统实现上述目标的一些方法。Copyleft作为一个概念，通常在特定版权许可证的细节中体现，例如[GNU 通用公共许可 (GPL)](#_bookmark259) 和（Creative Commons Attribution Share Alike License）知识共享署名共享类似许可（后者是这个项目本身的许可证）。创意作品的版权持有者可以单方面为自己的作品实施这些许可，建立社区，共同分享和改进这些copyleft的创意作品。
+Copyleft是一种利用版权法来实现政策目标的策略，意在促进和鼓励平等和不可剥夺的复制、共享、修改和改进原创作品的权利。Copyleft（作为一个通用术语）描述了利用版权系统实现上述目标的一些方法。Copyleft作为一个概念，通常在特定版权许可证的细节中体现，例如[GNU 通用公共许可 (GPL)] 和（Creative Commons Attribution Share Alike License）知识共享署名共享类似许可（后者是这个项目本身的许可证）。创意作品的版权持有者可以单方面为自己的作品实施这些许可，建立社区，共同分享和改进这些copyleft的创意作品。
 
 Copyleft uses functional parts of the copyright system to achieve an unusual result (legal protection for free sharing). Copyleft modifies, or "hacks" copyright law, which is usually employed to strengthen the rights of authors or publishers, to strengthen instead the rights of users. Thus, Copyleft is a legal strategy and mechanism to defend, uphold and propagate software freedom. The basic technique of copyleft is as follows: copyright the software, license it under terms that give all the software freedoms, but use the copyright law controls to ensure that all who receive a copy of the software have equal rights and freedom. In essence, copyleft grants freedom, but forbids others to forbid that freedom to anyone else along the distribution and modification chains.
 
@@ -373,9 +373,9 @@ Anything which is "a work" or a "work based on a work" licensed under a strong c
 
 换句话说，较强的copyleft许可对“作品”的许可方式提出了更高的要求。是以“作品”为单位进行版权法认定的。从这个意义上说，许可证所指的“作品”是任何可以受版权保护或受版权法条款约束的东西。较强的copyleft许可证充分发挥了其作用。任何基于较强的copyleft许可的“作品”或“基于作品的作品”都必须遵守其要求，包括所有相应的源代码 [^6]。因此，copyleft许可证，特别是较强的许可证，旨在确保相同的许可证涵盖当地版权法认可的“基于作品的作品”的所有版本，从而确保实现与当前copyleft版权作品相关的所有用户、开发者、作者和读者的软件自由的特定战略目标。
 
-[^6]: Copyleft communities' use of the term "strong copyleft" is undoubtedly imprecise. For example, most will call the GNU GPL a "strong copyleft" license, even though the GPL itself has various exceptions, such as the [GPLv3's system library exception](#the-system-library-exception) written into the text of the license itself. Furthermore, the copyleft community continues to debate where the a license cross the line from "strong copyleft" to "license that fails to respect software freedom", although ultimately these debates are actually regarding whether the license fits [Free Software definition](#the-free-software-definition) at all.
+[^6]: Copyleft communities' use of the term "strong copyleft" is undoubtedly imprecise. For example, most will call the GNU GPL a "strong copyleft" license, even though the GPL itself has various exceptions, such as the [GPLv3's system library exception] written into the text of the license itself. Furthermore, the copyleft community continues to debate where the a license cross the line from "strong copyleft" to "license that fails to respect software freedom", although ultimately these debates are actually regarding whether the license fits [Free Software definition] at all.
 
-[^6]: Copyleft社区使用术语“强copyleft”无疑是不准确的。例如，大多数人会认为GNU GPL是“强copyleft”许可证，但其实GPL本身有多种例外情况，比如许可证文本中的[GPLv3的系统库例外情况](#the-system-library-exception)。此外，copyleft社区一直在争论许可证从“强copyleft”到“不尊重软件自由的许可证”之间的界限，尽管最终这些争论实际上是关于许可证是否符合 [自由软件的定义](#the-free-software-definition)
+[^6]: Copyleft社区使用术语“强copyleft”无疑是不准确的。例如，大多数人会认为GNU GPL是“强copyleft”许可证，但其实GPL本身有多种例外情况，比如许可证文本中的[GPLv3的系统库例外情况]。此外，copyleft社区一直在争论许可证从“强copyleft”到“不尊重软件自由的许可证”之间的界限，尽管最终这些争论实际上是关于许可证是否符合 [自由软件的定义]
 
 #### 1.2.3 Software and Non-Copyright Legal Regimes
 
@@ -389,11 +389,11 @@ The use, modification and distribution of software, like many endeavors, simulta
 
 - 软件自由社区中的人做了很多努力，希望能终止通过读取软件内容生成专利的行为（即跟软件思想相关的专利），但还是未能成功。因此，一个软件程序可能看起来不受限制，但有些人可能会读取该软件并生成专利，进而毁掉其他用户的一切。[^7]
 
-[^7]: See [6,](#_bookmark68) [7.5,](#gplv2-7-give-software-liberty-or-give-it-death) [9.14](#gplv3-11-explicit-patent-licensing) for more discussion on how
+[^7]: See [6,] [7.5,](#gplv2-7-give-software-liberty-or-give-it-death) [9.14](#gplv3-11-explicit-patent-licensing) for more discussion on how
 the patent system interacts with copyleft, and read Richard M. Stallman's essay, [*Let's Limit the Effect of Software Patents, Since
 We Can't Eliminate Them*](http://www.wired.com/opinion/2012/11/richard-stallman-software-patents/) for more information on the problems these patents present to society.
 
-[^7]: 有关专利制度如何与copyleft交互的更多讨论，请参见[第6章](#_bookmark68)、[第7.5节](#gplv2-7-give-software-liberty-or-give-it-death)和[第9.14节](#gplv3-11-explicit-patent-licensing)，也请阅读Richard M. Stallman的文章 [*如果无法消除软件专利的影响就限制它吧*](http://www.wired.com/opinion/2012/11/richard-stallman-software-patents)，了解有关这些专利给社会带来的问题的更多信息。
+[^7]: 有关专利制度如何与copyleft交互的更多讨论，请参见[第6章]、[第7.5节](#gplv2-7-give-software-liberty-or-give-it-death)和[第9.14节](#gplv3-11-explicit-patent-licensing)，也请阅读Richard M. Stallman的文章 [*如果无法消除软件专利的影响就限制它吧*](http://www.wired.com/opinion/2012/11/richard-stallman-software-patents)，了解有关这些专利给社会带来的问题的更多信息。
 
 Digital Restrictions Management (usually called *DRM* ) is often used to impose technological restrictions on users' ability to exercise software freedom that they might otherwise be granted.[^8] The simplest (and perhaps oldest) form of DRM, of course, is separating software source code (read by humans),
 from their compiled binaries (read only by computers). Furthermore, [17 USC 1201](http://www.law.cornell.edu/uscode/text/17/1201) often prohibits users legally from circumventing some of these DRM systems.
@@ -433,9 +433,9 @@ The previous section described the principles of software freedom, a brief intro
 
 上一节描述了软件自由的原则，简要介绍了阻止这些自由的一些机制，以及版权所有者授予用户软件自由的最简单的方式，允许用户使用受版权保护的软件作品。同时还介绍了*copyleft* 的概念：一种使用版权的许可机制，不仅可以授予用户软件自由，还可以维护这些权利，防止试图限制这些权利的人。
 
-Copyleft, as defined in [1.2.2,](#why-copyright-free-software) is a general term for this mechanism. The remainder of this text will discuss details of various real-world implementations of copyleft --most notably, the GPL.
+Copyleft, as defined in [1.2.2,] is a general term for this mechanism. The remainder of this text will discuss details of various real-world implementations of copyleft --most notably, the GPL.
 
-如[第1.2.2节](#why-copyright-free-software)的Copyleft定义，它是该机制的一个通用术语。本书的其他章节将会讨论现实世界中copyleft的一些实现方式 -- 最值得注意的就是GPL。
+如[第1.2.2节]的Copyleft定义，它是该机制的一个通用术语。本书的其他章节将会讨论现实世界中copyleft的一些实现方式 -- 最值得注意的就是GPL。
 
 This discussion begins first with some general explanation of what the GPL is able to do in software development communities. After that brief discussion in this section, deeper discussion of how GPL accomplishes this in practice follows in the next chapter.
 
@@ -526,7 +526,7 @@ We could imagine this society, but we could not imagine calling it "free." Wheth
 
 我们可以想象这样的社会，但我们无法假装称它为“自由”。无论这个社会中的激励是否会得到更好或更有效的分配，这样的社会都不能被称为自由。自由的理想，自由社会中的生活，需要的不仅仅是有效的应用。相反，公开和透明是建立法律体系的约束条件，而不是领导者需要时可以随意添加的选项。由软件代码支配的生活应该不会少。
 
-Code writing is not litigation. It is better, richer, more productive. But the law is an obvious instance of how creativity and incentives do not depend upon perfect control over the products created. Like jazz, or novels, or architecture, the law gets built upon the work that went before. This adding and changing is what creativity always is. And a free society is one that assures that its most important resources remain free in just this sense.[^10^](#_bookmark26)
+Code writing is not litigation. It is better, richer, more productive. But the law is an obvious instance of how creativity and incentives do not depend upon perfect control over the products created. Like jazz, or novels, or architecture, the law gets built upon the work that went before. This adding and changing is what creativity always is. And a free society is one that assures that its most important resources remain free in just this sense.[^10^]
 
 代码编写不是法律诉讼。它更好、更丰富、更有生产力。但创造力和激励是不依赖于对所创造产品的完美与否的，法律就是一个明显的例子。就像爵士乐、小说或建筑一样，法律是建立在之前的作品之上的。这种添加和改变就是创造力的本质所在。一个自由的社会就是确保其最重要的资源在某种意义上保持免费。[^10]
 
@@ -588,7 +588,7 @@ This simply stated clause is the fundamental innovation of copyleft. Specificall
 
 下游用户只有在将他们最初被赋予的修改版本的权限传递给他人时，才可能拥有修改作品的权限。
 
-These original program-specific proto-GPLs give an interesting window into the central ideas and devel- opment of copyleft. In particular, reviewing them shows how the text of the GPL we know has evolved to address more of the issues discussed earlier in § [1.2.3.](#software-and-non-copyright-legal-regimes)
+These original program-specific proto-GPLs give an interesting window into the central ideas and devel- opment of copyleft. In particular, reviewing them shows how the text of the GPL we know has evolved to address more of the issues discussed earlier in § [1.2.3.]
 
 这些起初特定于程序的原始GPL提供了一个了解著佐权的中心思想和发展的有趣窗口。此外，仔细研究它们可以看到我们熟悉的GPL文本是如何逐步演变以解决前面 [1.2.3.] 节中讨论过的更多问题的。
 
@@ -795,9 +795,9 @@ The GPL is often mistakenly criticized because it fails to give a definition of 
 
 GPL经常被错误地批评，因为它没有给出“衍生作品”或“组合作品”的定义。事实上，如果GPL试图定义这些术语，才是不正确且有问题的。著作权许可证实际上并不能控制著作权规则本身。这样的规则属于著作权法和法院（而不是使用这些系统的许可证）的管辖范围。
 
-Copyright law as a whole does not propose clear and straightforward guidelines for identifying the deriva- tive and/or combined works of software. However, no copyright license --- not even the GNU GPL --- can be blamed for this. Legislators and court opinions must give us guidance in borderline cases. Meanwhile, lawyers will likely based their conclusions on the application of rules made in the context of literary or artistic copyright to the different context of computer programming and by analyzing the (somewhat limited) case law and guidance available from various sources. (Chapter [14.1](#evaluate-license-applicability) discusses this issue in depth.)
+Copyright law as a whole does not propose clear and straightforward guidelines for identifying the deriva- tive and/or combined works of software. However, no copyright license --- not even the GNU GPL --- can be blamed for this. Legislators and court opinions must give us guidance in borderline cases. Meanwhile, lawyers will likely based their conclusions on the application of rules made in the context of literary or artistic copyright to the different context of computer programming and by analyzing the (somewhat limited) case law and guidance available from various sources. (Chapter [14.1] discusses this issue in depth.)
 
-著作权法整体并没有就识别软件的衍生作品和/或组合作品提出明确而直接的指导方针。然而，没有著作权许可证——甚至GNU GPL——才应该对此负责。立法者和法院必须在边界模糊的案件中为我们提供指导。与此同时，律师们可能会根据文学或艺术著作权背景下制定的规则在计算机编程的不同背景下的应用情况，以及通过分析（有限的）案例法和各种渠道获得的指导来得出结论。（第[14.1](#evaluate-license-applicability)节深入讨论了这个问题。）
+著作权法整体并没有就识别软件的衍生作品和/或组合作品提出明确而直接的指导方针。然而，没有著作权许可证——甚至GNU GPL——才应该对此负责。立法者和法院必须在边界模糊的案件中为我们提供指导。与此同时，律师们可能会根据文学或艺术著作权背景下制定的规则在计算机编程的不同背景下的应用情况，以及通过分析（有限的）案例法和各种渠道获得的指导来得出结论。（第[14.1]节深入讨论了这个问题。）
 
 ### 3.2 GPLv2 §1: Verbatim Copying
 
@@ -819,15 +819,15 @@ GPL disclaims all warranties that legally can be disclaimed (which is discussed 
 
 GPL放弃所有法律上可以放弃的担保（这将在后面的[8.3](#gplv2-11-no-warranty)节和[8.4).](#gplv2-12-limitation-of-liability)节中讨论）。用户通常很少期望他们的软件附带任何担保，因为通常所有的EULA和其他自由软件许可证也都放弃担保。然而，由于许多地方法律要求“明显的”免责声明，GPLv2 *§*1明确提到在重新分发时完整保留免责声明的重要性。
 
-Note finally that GPLv2 §1 creates groundwork for the important defense of commercial freedom. GPLv2 §1 clearly states that in the case of verbatim copies, one may make money. Re-distributors are fully permitted to charge for the re-distribution of copies of Free Software. In addition, they may provide the warranty protection that the GPL disclaims as an additional service for a fee. (See Section [12.2](#business-models) for more discussion on making a profit from Free Software redistribution.)
+Note finally that GPLv2 §1 creates groundwork for the important defense of commercial freedom. GPLv2 §1 clearly states that in the case of verbatim copies, one may make money. Re-distributors are fully permitted to charge for the re-distribution of copies of Free Software. In addition, they may provide the warranty protection that the GPL disclaims as an additional service for a fee. (See Section [12.2] for more discussion on making a profit from Free Software redistribution.)
 
-最后请注意，GPLv2 §1为捍卫商业自由奠定了基础。GPLv2 §1明确指出在逐字复制的情况下可以赚钱。重新分发者对自由软件副本的重新分发版进行收费是完全允许的。此外，他们还可以提供GPL拒绝的担保，将其作为附加服务进行收费。（有关从自由软件重新分发中获利的更多讨论，请参见第[12.2](#business-models)节。）
+最后请注意，GPLv2 §1为捍卫商业自由奠定了基础。GPLv2 §1明确指出在逐字复制的情况下可以赚钱。重新分发者对自由软件副本的重新分发版进行收费是完全允许的。此外，他们还可以提供GPL拒绝的担保，将其作为附加服务进行收费。（有关从自由软件重新分发中获利的更多讨论，请参见第[12.2]节。）
 
 ## CHAPTER 4 DERIVATIVE WORKS: STATUTE AND CASE LAW
 
 ## 第四章 衍生作品：法规和案例法
 
-As described in the [earlier general discussion of copylef](#why-copyright-free-software)t, strong copyleft licenses such as the GPL seek to uphold software freedom via the copyright system. This principle often causes theoretical or speculative dispute among lawyers, because "the work" --- the primary unit of consideration under most copyright rules -- is not a unit of computer programming. In order to determine whether a "routine" an "object", a "function", a "library" or any other unit of software is part of one "work" when combined with other GPL'd code, we must ask a question that copyright law will not directly answer in the same technical terms.
+As described in the [earlier general discussion of copylef]t, strong copyleft licenses such as the GPL seek to uphold software freedom via the copyright system. This principle often causes theoretical or speculative dispute among lawyers, because "the work" --- the primary unit of consideration under most copyright rules -- is not a unit of computer programming. In order to determine whether a "routine" an "object", a "function", a "library" or any other unit of software is part of one "work" when combined with other GPL'd code, we must ask a question that copyright law will not directly answer in the same technical terms.
 
 如前面关于copyleft的一般讨论所述，像GPL这样的强制copyleft许可证通过版权系统来维护软件自由。这一原则经常引起律师之间的理论或推测性争议，因为在大多数版权规则下，“作品”——最主要的考虑单位——并不是计算机编程的一个单位。为了确定一个“程序”，一个“对象”，一个“函数”，一个“库”或任何其他软件单位，当与其他GPL代码组合时是否是一个“作品”，我们必须提出一个版权法直接无法用同样的技术术语回答的问题。
 
@@ -1317,7 +1317,7 @@ GPLv2 4 is GPLv2's termination clause. Upon first examination, it seems strange 
 
 GPLv2 4 是 GPLv2 的终止条款。初看起来，一个旨在永久且不可撤销地捍卫用户和程序员自由的许可证竟然有这样的条款，似乎有些奇怪。然而，进一步的研究表明，不可撤销和此终止条款之间的区别变得清晰了。（有关 GPLv2 不可撤销的更广泛讨论，请参见7.4。）
 
-The GPL is irrevocable in the sense that once a copyright holder grants rights for someone to copy, modify and redistribute the software under terms of the GPL, they cannot later revoke that grant. Since the GPL has no provision allowing the copyright holder to take such a prerogative, the license is granted as long as the copyright remains in effect.[^7-1^] The copyright holders have the right to relicense the same work under different licenses (see Section [12.2](#business-models) of this tutorial), or to stop distributing the GPLv2'd version (assuming GPLv2 3(b) was never used), but they may not revoke the rights under GPLv2 already granted.
+The GPL is irrevocable in the sense that once a copyright holder grants rights for someone to copy, modify and redistribute the software under terms of the GPL, they cannot later revoke that grant. Since the GPL has no provision allowing the copyright holder to take such a prerogative, the license is granted as long as the copyright remains in effect.[^7-1^] The copyright holders have the right to relicense the same work under different licenses (see Section [12.2] of this tutorial), or to stop distributing the GPLv2'd version (assuming GPLv2 3(b) was never used), but they may not revoke the rights under GPLv2 already granted.
 
 GPL是不可撤销的，因为一旦版权持有人授予他人在GPL条款下复制、修改和重新分发软件的权利，他们就不能撤回该授权。由于GPL没有允许版权持有人采取这种特权的规定，因此只要版权仍然有效，许可证就会被授予。[^7-1^] 版权持有人有权在不同的许可证下重新许可同一作品（请参见本教程的第12.2节），或停止分发GPLv2版本（假设从未使用GPLv2 3(b)），但他们不能撤销已授予的GPLv2下的权利。
 
@@ -1337,7 +1337,7 @@ GPLv2 4使GPLv2可强制执行。如果许可证持有人未能遵守许可证�
 
 [^7-1^]: 在美国，由于不幸的立法，版权期限几乎是永久的，尽管宪法禁止永久版权。
 
-At that point, violating licensees must gain the forgiveness of the copyright holders to have their rights restored. Alternatively, the violators could negotiate another agreement, separate from GPL, with the copyright holder. Both are common practice, although Chapter [13.3](#understanding-whos-enforcing) explains further key differences between these two very different uses of GPL.
+At that point, violating licensees must gain the forgiveness of the copyright holders to have their rights restored. Alternatively, the violators could negotiate another agreement, separate from GPL, with the copyright holder. Both are common practice, although Chapter [13.3] explains further key differences between these two very different uses of GPL.
 
 在那时，违反许可证的人必须得到版权持有人的谅解，才能恢复他们的权利。或者，违规者可以与版权持有人另行协商一份与GPL无关的协议。尽管这两种做法都很常见，但第13.3章进一步解释了这两种非常不同的GPL用途之间的关键差异。
 
@@ -1429,11 +1429,11 @@ Nevertheless, for purposes of argument, we will assume that for some reason the 
 
 尽管如此，为了论证的目的，我们将假设某种原因导致 GPLv2 对贡献者不可执行[^7-5^]，或者可撤销的不可撤销许可证[^7-6^]。在这种情况下，承诺诱导可能意味着贡献者仍然无法对下游用户执行其版权。
 
-[^7-3^]: While this is legally true, as a practical matter, a failure of "complete, corresponding source" (CCS) provisioning by an upstream could make it effectively impossible for a downstream party to engage in a commercial redistribution pursuant to []{#_bookmark78 .anchor}[GPLv2 3(a--b).](#gplv2-3-producing-binaries) ( [18.2](#upstream-providers) in the Compliance Guide portion of this tutorial discussed related details.)
+[^7-3^]: While this is legally true, as a practical matter, a failure of "complete, corresponding source" (CCS) provisioning by an upstream could make it effectively impossible for a downstream party to engage in a commercial redistribution pursuant to []{#_bookmark78 .anchor}[GPLv2 3(a--b).](#gplv2-3-producing-binaries) ( [18.2] in the Compliance Guide portion of this tutorial discussed related details.)
 
 [^7-3^]: 虽然这在法律上是正确的，但实际上，上游方未能完全提供“完整、对应的源代码”(CCS)可能会使下游方在遵循GPLv2 3(a-b)（本教程中合规指南部分的18.2部分讨论了相关细节）的商业再分发方面变得实际上不可能。
 
-[^7-4^]: While nearly all attorneys and copyleft theorists are in agreement on this point, German copyleft legal expert [Till Jaeger](http://www.jbb.de/en/attorneys/till-jaeger/) vehemently disagrees. Jaeger's position is as follows: under German copyright law, a new copy of GPL'd software is a "fresh" license under GPL, and if compliance continues from that point further, the violator's permissions under copyright law are automatically restored, notwithstanding the strict termination provision in [GPLv2 4.](#gplv2-4-termination-on-violation) However, in practice, this issue is only salient with regard to [proprietary relicensing](#business-models) business models, since other copyright holders typically formally restore distributions rights once the only remaining compliance issue is "you lost copyright permission due to GPLv2 4". Therefore, the heated debates, which have raged between Jaeger and almost everyone else in the copyleft community for nearly a decade, []{#_bookmark79 .anchor}regard an almost moot and wholly esoteric legal detail.
+[^7-4^]: While nearly all attorneys and copyleft theorists are in agreement on this point, German copyleft legal expert [Till Jaeger](http://www.jbb.de/en/attorneys/till-jaeger/) vehemently disagrees. Jaeger's position is as follows: under German copyright law, a new copy of GPL'd software is a "fresh" license under GPL, and if compliance continues from that point further, the violator's permissions under copyright law are automatically restored, notwithstanding the strict termination provision in [GPLv2 4.](#gplv2-4-termination-on-violation) However, in practice, this issue is only salient with regard to [proprietary relicensing] business models, since other copyright holders typically formally restore distributions rights once the only remaining compliance issue is "you lost copyright permission due to GPLv2 4". Therefore, the heated debates, which have raged between Jaeger and almost everyone else in the copyleft community for nearly a decade, []{#_bookmark79 .anchor}regard an almost moot and wholly esoteric legal detail.
 
 [^7-4^]: 尽管几乎所有律师和共左派理论家都在这个观点上达成了一致，但德国共左派法律专家Till Jaeger强烈反对。Jaeger的观点如下：根据德国版权法，GPL软件的新副本是GPL下的“新”许可证，如果继续进行合规性，则侵权者根据版权法的许可将自动恢复，尽管在GPLv2 4。的严格终止规定下，这一观点在几乎所有共左派社区的Jaeger之间已经争论了将近十年的时间。然而，在实践中，这个问题只涉及专有重新许可业务模型，因为其他版权持有人通常会在唯一剩下的合规问题是“由于GPLv2 4而丧失版权许可”时正式恢复分发权利。因此，这些激烈的辩论几乎成为了一个不重要和完全偏僻的法律细节。
 
@@ -1624,7 +1624,7 @@ Those who wish to drink from the firehose and take a diachronic approach to GPLv
 
 ### 9.1 把GPLv3理解为GPLv2的升级版
 
-Ultimately, GPLv2 and GPLv3 co-exist as active licenses in regular use. As discussed in Chapter [2](#_bookmark27) GPLv1 was never regularly used alongside GPLv2. However, given GPLv2's widespread popularity and existing longevity by the time GPLv3 was published, it is not surprising that some licensors still prefer GPLv2-only or GPLv2-or-later. GPLv3 gained major adoption by many projects, old and new, but many projects have not upgraded due to (in some cases) mere laziness and (in other cases) policy preference for some of GPLv2's terms and/or policy opposition to GPLv3's terms.
+Ultimately, GPLv2 and GPLv3 co-exist as active licenses in regular use. As discussed in Chapter [2] GPLv1 was never regularly used alongside GPLv2. However, given GPLv2's widespread popularity and existing longevity by the time GPLv3 was published, it is not surprising that some licensors still prefer GPLv2-only or GPLv2-or-later. GPLv3 gained major adoption by many projects, old and new, but many projects have not upgraded due to (in some cases) mere laziness and (in other cases) policy preference for some of GPLv2's terms and/or policy opposition to GPLv3's terms.
 
 最终，GPLv2和GPLv3作为常规有效许可证共存。如第2章所述。GPL第1版从未与GPLv2一起常规使用。然而，鉴于GPLv2的广泛流行和GPLv3发布时的现有寿命，一些人许可人更喜欢采用仅GPLv2，或者，GPLv2或者后续版本就不足为奇了。
 
@@ -1748,7 +1748,7 @@ Note finally that not all defined terms in GPLv3 appear in GPLv3 0. Specifically
 
 ### 9.3 GPLv3 第1条：理解CCS
 
-Ensuring that users have the source code to the software they receive and the freedom to modify remains the paramount right embodied in the Free Software Definition (found in [1.1](#the-free-software-definition) of this tutorial). As such, GPLv3 1 is likely one of the most important sections of GPLv3, as it contains all the defined terms related to this important software freedom.
+Ensuring that users have the source code to the software they receive and the freedom to modify remains the paramount right embodied in the Free Software Definition (found in [1.1] of this tutorial). As such, GPLv3 1 is likely one of the most important sections of GPLv3, as it contains all the defined terms related to this important software freedom.
 
 确保用户拥有他们收到的软件的源代码和修改的自由仍然是自由软件定义（参见本教程的 1.1 ）中体现的首要权利。因此，GPLv3 条款一可能是 GPLv3 最重要的部分之一，因为它包含与这一重要软件自由相关的所有定义条款。
 
@@ -1764,7 +1764,7 @@ First, GPLv3 1 retains GPLv2's definition of "source code" and adds an explicit 
 
 #### 9.3.2 CCS的定义
 
-The definition of CCS,[^9-3](#_bookmark107) or, as GPLv3 officially calls it, "Corresponding Source" in GPLv3 1 4 is possibly the most complex definition in the license.
+The definition of CCS,[^9-3] or, as GPLv3 officially calls it, "Corresponding Source" in GPLv3 1 4 is possibly the most complex definition in the license.
 
 CCS 的定义[^9-3]，或 GPLv3 官方称之为 GPLv3 条款一 4 中的“对应源”可能是许可证中最复杂的定义。
 
@@ -1816,7 +1816,7 @@ GPLv3 2 can roughly be considered as an equivalent to GPLv2 0 (discussed in [3.1
 
 GPLv3 条款可以粗略地视为等同于 GPLv2 第0条（在本教程的 3.1 中讨论）。但是，这里也可以找到 GPLv3 中常见的改进方式。例如，GPLv3 条款二的第一句进一步推进了目标国际化。根据某些国家/地区的版权法，版权许可可能需要包括明确规定授予权利的期限。在包括美国在内的其他国家，这样的规定是不必要的，但却是允许的。GPLv3 条款二第1项还承认 GPL 下的被许可人享有版权合理使用权或适用法律下的同等权利。这些权利与自由相容而不冲突GPL 寻求保护的内容，而 GPL 不能也不应该限制它们。
 
-However, note that (sadly to some copyleft advocates) the unlimited freedom to run is confined to the *unmodified* Program. This confinement is unfortunately necessary since Programs that do not qualify as a User Product in GPLv3 6 (see [9.9.2](#user-products) in this tutorial) might have certain unfortunate restrictions on the freedom to run.[^9-4]
+However, note that (sadly to some copyleft advocates) the unlimited freedom to run is confined to the *unmodified* Program. This confinement is unfortunately necessary since Programs that do not qualify as a User Product in GPLv3 6 (see [9.9.2] in this tutorial) might have certain unfortunate restrictions on the freedom to run.[^9-4]
 
 然而，请注意（对某些 copyleft 拥护者而言令人遗憾的是）无限的运行自由仅限于未修改的程序。不幸的是，这种限制是必要的，因为在 GPLv3 条款六中不符合用户产品资格的程序（请参阅本教程中的 9.9.2）可能对运行自由有某些不幸的限制[^9-4]。
 
@@ -1824,7 +1824,7 @@ However, note that (sadly to some copyleft advocates) the unlimited freedom to r
 
 [^9-4]: 详见本教程的§1.1.1“运行的自由”。
 
-GPLv3 2 2 distinguishes between activities of a licensee that are permitted without limitation and activities that trigger additional requirements. Specifically, GPLv3 2 2 guarantees the basic freedoms of privately modifying and running the program. While these basic freedoms were generally considered a standard part of users' rights under GPLv2 as well, the GPLv3 states them herein more explicitly. In other words, there is no direct analog to the first sentence of GPLv3 2 2 in GPLv2 (See [5.1.3](#right-to-private-modification) of this tutorial for more on this issue.)
+GPLv3 2 2 distinguishes between activities of a licensee that are permitted without limitation and activities that trigger additional requirements. Specifically, GPLv3 2 2 guarantees the basic freedoms of privately modifying and running the program. While these basic freedoms were generally considered a standard part of users' rights under GPLv2 as well, the GPLv3 states them herein more explicitly. In other words, there is no direct analog to the first sentence of GPLv3 2 2 in GPLv2 (See [5.1.3] of this tutorial for more on this issue.)
 
 GPLv3 第2条第2款区分被许可人允许但不限于的活动和触发额外要求的活动。具体来说，GPLv3 第2条第2款保证了私下修改和运行程序的基本自由。虽然这些基本自由通常也被视为 GPLv2 下用户权利的标准部分，但 GPLv3 在此更明确地说明了它们。换句话说，在 GPLv2 中没有直接模拟 GPLv3 条款二第2项的第一句（有关此问题的更多信息，请参见本教程的 5.1.3。）
 
@@ -1868,7 +1868,7 @@ The public GPLv3 drafting process sought to balance these positions of copyleft 
 
 公共 GPLv3 起草过程试图平衡 copyleft 倡导者的这些立场与更大的自由软件使用社区的各种不同观点。最终，FSF 妥协于 GPLv3 第3条和第6条，这些条款合在一起是一组足以保护软件自由免受侵犯性准版权威胁的极简主义条款。
 
-The compromises made were ultimately quite reasonable. The primary one is embodied in GPLv3*§*6's "User Product" definition (see [9.9.2](#user-products) in this tutorial for details). Additionally, some readers of early GPLv3 drafts seem to have assumed GPLv3 contained a blanket prohibition on DRM; but it does not. In fact, no part of GPLv3 forbids DRM regarding non-GPL'd works; rather, GPLv3 forbids the use of DRM specifically to lock-down restrictions on users' ability to install modified versions of the GPL'd software itself, but again, *only* with regard to User Products.
+The compromises made were ultimately quite reasonable. The primary one is embodied in GPLv3*§*6's "User Product" definition (see [9.9.2] in this tutorial for details). Additionally, some readers of early GPLv3 drafts seem to have assumed GPLv3 contained a blanket prohibition on DRM; but it does not. In fact, no part of GPLv3 forbids DRM regarding non-GPL'd works; rather, GPLv3 forbids the use of DRM specifically to lock-down restrictions on users' ability to install modified versions of the GPL'd software itself, but again, *only* with regard to User Products.
 
 做出的妥协最终是相当合理的。第一个体现在 GPLv3 第6条的“用户产品”定义（详见本教程9.9.2）。此外，一些早期 GPLv3 草案的读者似乎认为 GPLv3 包含对 DRM 的全面禁止； 但事实并非如此。事实上，GPLv3 的任何部分都没有禁止对非 GPL 作品进行 DRM； 相反，GPLv3 禁止使用 DRM，专门用于锁定限制用户安装 GPL 软件本身的修改版本的能力，但同样仅限于用户产品。
 
@@ -1876,7 +1876,7 @@ The compromises made were ultimately quite reasonable. The primary one is embodi
 
 ### 9.6 GPLv3 第三款：DMCA做了什么
 
-As discussed in [1.2.3](#software-and-non-copyright-legal-regimes) of this tutorial, [17 USC 1201](http://www.law.cornell.edu/uscode/text/17/1201) and related sections[^9-5] prohibits users from circumventing technological measures that implement DRM. Since this is part of copyright law and the GPL is primarily a copyright license, and since what the DMCA calls "circumvention" is simply "modifying the software" under the GPL, GPLv3 must disclaim that such anti-circumvention provisions are not applicable to the GPLv3'd software. GPLv3 3 shields users from being subjected to liability under anti-circumvention law for exercising their rights under the GPL, so far as the GPL can do so.
+As discussed in [1.2.3] of this tutorial, [17 USC 1201](http://www.law.cornell.edu/uscode/text/17/1201) and related sections[^9-5] prohibits users from circumventing technological measures that implement DRM. Since this is part of copyright law and the GPL is primarily a copyright license, and since what the DMCA calls "circumvention" is simply "modifying the software" under the GPL, GPLv3 must disclaim that such anti-circumvention provisions are not applicable to the GPLv3'd software. GPLv3 3 shields users from being subjected to liability under anti-circumvention law for exercising their rights under the GPL, so far as the GPL can do so.
 
 如本教程 1.2.3 中所述，17 USC 1201 和相关部[^9-5]禁止用户规避实施 DRM 的技术措施。由于这是版权法的一部分，而 GPL 主要是版权许可，而 DMCA 所说的“规避”只是 GPL 下的“修改软件”，因此 GPLv3 必须否认此类反规避条款不适用于 GPLv3 的软件。GPLv3 第三款保护用户在 GPL 允许的范围内行使他们在 GPL 项下的权利时免于承担反规避法规定的责任。
 
@@ -1968,7 +1968,7 @@ GPLv3 6(b) further revises the requirements for the written offer to provide sou
 
 GPLv3 第六款(b) 进一步修改了对书面报价提供源代码的要求。和以前一样，要约必须至少保持3年有效。此外，即使在3年后，包含 GPL 目标代码的产品的分销商也必须提供源代码，只要该分销商还继续为该产品模型提供备件或客户支持。这是一个合理且适当的要求； 如果分销商准备为物理产品的其他方面提供支持，则他或她应该准备好提供源代码。
 
-GPLv3 6(a--b) clarifies that the medium for software interchange on which the machine-readable source code is provided must be a durable physical medium. GPLv3 6(b)(2), however, permits a distributor to instead offer to provide source code from a network server instead, which is yet another example GPLv3 looser in its requirements than GPLv2 (see [5.2.2](#additional-source-provision-options) for details).
+GPLv3 6(a--b) clarifies that the medium for software interchange on which the machine-readable source code is provided must be a durable physical medium. GPLv3 6(b)(2), however, permits a distributor to instead offer to provide source code from a network server instead, which is yet another example GPLv3 looser in its requirements than GPLv2 (see [5.2.2] for details).
 
 GPLv3 第6条(a–b) 阐明了提供机器可读源代码的软件交换介质必须是耐用的物理介质。然而，GPLv3 第6条(b)(2) 允许发行商转而提议从网络服务器提供源代码，这是 GPLv3 的要求比 GPLv2 宽松的另一个例子（详见 5.2.2）。
 
@@ -2040,7 +2040,7 @@ While imposing technical barriers to modification is wrong regardless of circums
 
 无论情况如何，施加技术障碍都是错误的，但是当今，限制设备的实际关注的领域属于用户产品定义。 大多数（如果不是全部）运行GPL程序的技术限制设备是消费电子设备。 此外，制造商和这些用户之间的影响力差异使用户难以通过薄弱且无组织的市场能力拒绝技术限制。 即使仅限于用户产品，此规定也解决了基本问题。
 
-The core of the User Product definition is a subdefinition of "consumer product" adapted from the Magnuson-Moss Warranty Act, a federal consumer protection law in the USA found in 15 USC 2301: "any tangible personal property which is normally used for personal, family, or household purposes." The USA has had three decades of experience of liberal judicial and administrative interpretation of this definition in a manner favorable to consumer rights.[^6^](#_bookmark120) Ideally, this body of interpretation[^7^](#_bookmark121) will guide interpretation of the consumer product subdefinition in GPLv3 6, and this will hopefully provide a degree of legal certainty advantageous to device manufacturers and downstream licensees alike.
+The core of the User Product definition is a subdefinition of "consumer product" adapted from the Magnuson-Moss Warranty Act, a federal consumer protection law in the USA found in 15 USC 2301: "any tangible personal property which is normally used for personal, family, or household purposes." The USA has had three decades of experience of liberal judicial and administrative interpretation of this definition in a manner favorable to consumer rights.[^6^] Ideally, this body of interpretation[^7^] will guide interpretation of the consumer product subdefinition in GPLv3 6, and this will hopefully provide a degree of legal certainty advantageous to device manufacturers and downstream licensees alike.
 
 用户产品定义的核心是根据美国联邦消费者保护法 Magnuson-Moss 保修法改编的“消费品”的子定义，该法案载于 15 USC 2301：“任何通常用于个人、 家庭或家庭目的。” 美国在以有利于消费者权利的方式对此定义进行自由司法和行政解释已有 30 年的经验[^9-6]。理想情况下，该解释体系[^9-7]将指导对 GPLv3 6 中消费品子定义的解释，并且这有望为设备制造商和下游被许可人提供一定程度的法律确定性。
 
@@ -2750,7 +2750,7 @@ LGPLv2.1 6(a) is the option to use when, for some reason, a shared library mecha
 
 LGPLv2.1 6(a)是当某些原因无法使用共享库机制时使用的选项。它要求以典型的GPL方式包含该库的源代码，但它还有一个额外的要求。用户必须能够充分行使其修改该库的自由，这意味着将其与“基于该库的作品”重新组合。如果完整的二进制文件没有使用共享库机制进行链接，则用户必须可用“基于该库的作品”的目标代码，以便用户可以重新链接应用程序并构建一个新的二进制文件。
 
-Almost all known LGPL'd distributions exercise either LGPLv2.1 6(a) or LGPLv2.1 6(b). However, LGPLv2.1 6 provides three other options. LGPLv2.1 6(c) allows for a written offer for CCS (akin to [GPLv2 3(b)).](#additional-source-provision-options) CCS may also be distributed by network under the terms of LGPLv2.1 6(c). Furthermore, under LGPLv2.1 6(e) the distributor may "verify" that the user has already received, or at least that the distributor has already sent to this particular user, the relevant source[^1^](#_bookmark155).
+Almost all known LGPL'd distributions exercise either LGPLv2.1 6(a) or LGPLv2.1 6(b). However, LGPLv2.1 6 provides three other options. LGPLv2.1 6(c) allows for a written offer for CCS (akin to [GPLv2 3(b)).] CCS may also be distributed by network under the terms of LGPLv2.1 6(c). Furthermore, under LGPLv2.1 6(e) the distributor may "verify" that the user has already received, or at least that the distributor has already sent to this particular user, the relevant source[^1^].
 
 几乎所有已知的LGPL发行版都使用LGPLv2.1 6(a)或LGPLv2.1 6(b)。但是，LGPLv2.1 6还提供了另外三个选项。LGPLv2.1 6(c)允许书面提供CCS的选择（类似于GPLv2 3(b)）。CCS也可以按照LGPLv2.1 6(c)的条款通过网络分发。此外，在LGPLv2.1 6(e)下，分发者可以“验证”用户已经收到了相关的源代码，或者至少已经向该特定用户发送了相关源代码 [^1^]。
 
@@ -2998,9 +2998,9 @@ This is a guide to effective compliance with the GNU General Public License (GPL
 
 ## 第13章 背景
 
-Copyright law grants exclusive rights to authors. Authors who chose copyleft seek to protect the freedom of users and developers to copy, share, modify and redistribute the software. However, copyleft is ultimately implemented through copyright, and the GPL is primarily and by default a copyright license. (See [1.2](#how-does-software-become-free) for more about the interaction between copyright and copyleft.) Copyright law grants an unnatural exclusive control to copyright holders regarding copyright-controlled permissions related to the work. Therefore, copyright holders (or their agents) are the ultimately the sole authorities to enforce copyleft and protect the rights of users. Actions for copyright infringement are the ultimate legal mechanism for enforcement. Therefore, copyright holders, or collaborative groups of copyright holders, have historically been the actors in GPL enforcement.
+Copyright law grants exclusive rights to authors. Authors who chose copyleft seek to protect the freedom of users and developers to copy, share, modify and redistribute the software. However, copyleft is ultimately implemented through copyright, and the GPL is primarily and by default a copyright license. (See [1.2] for more about the interaction between copyright and copyleft.) Copyright law grants an unnatural exclusive control to copyright holders regarding copyright-controlled permissions related to the work. Therefore, copyright holders (or their agents) are the ultimately the sole authorities to enforce copyleft and protect the rights of users. Actions for copyright infringement are the ultimate legal mechanism for enforcement. Therefore, copyright holders, or collaborative groups of copyright holders, have historically been the actors in GPL enforcement.
 
-版权法授予作者独占权利。选择使用copyleft的作者试图保护用户和开发人员复制、分享、修改和重新分发软件的自由。然而，copyleft最终是通过版权实施的，而GPL主要且默认是一种版权许可证。（有关版权和copyleft之间相互作用的更多信息，请参见[1.2](＃how-does-software-become-free)。）版权法在涉及作品的版权受控权限方面授予版权持有人不自然的独占控制。因此，版权持有人（或其代理人）最终是唯一的权力机构，用于执行copyleft并保护用户的权利。版权侵权行为是执行的最终法律机制。因此，版权持有人或版权持有人的协作团体在GPL执行中一直是行动者。
+版权法授予作者独占权利。选择使用copyleft的作者试图保护用户和开发人员复制、分享、修改和重新分发软件的自由。然而，copyleft最终是通过版权实施的，而GPL主要且默认是一种版权许可证。（有关版权和copyleft之间相互作用的更多信息，请参见[1.2]。）版权法在涉及作品的版权受控权限方面授予版权持有人不自然的独占控制。因此，版权持有人（或其代理人）最终是唯一的权力机构，用于执行copyleft并保护用户的权利。版权侵权行为是执行的最终法律机制。因此，版权持有人或版权持有人的协作团体在GPL执行中一直是行动者。
 
 The earliest of these efforts began soon after the GPL was written by Richard M. Stallman (RMS) in 1989, and consisted of informal community efforts, often in public Usenet discussions.[^13-1^] Over the next decade, the Free Software Foundation (FSF), which holds copyrights in many GNU programs, was the only visible entity actively enforcing its GPL'd copyrights on behalf of the software freedom community. FSF's enforcement was generally a private process; the FSF contacted violators confidentially and helped them to comply with the license. Most violations were pursued this way until the early 2000's.
 
@@ -3042,7 +3042,7 @@ All distributors of modified or unmodified versions of copylefted works unmodifi
 
 - 将著佐权软件的补丁发布到公共邮件列表。
 
-Such distributors have obligations to (at least) the users to whom they (or intermediary parties) distribute those copies. In some cases, distributors have obligations to third parties not directly receiving their distribution of the works (depending on the distributors chosen licensing options, as described later in [15.1).](#binary-distribution-permission) In addition, distributors have compliance obligations to upstream parties, such as preservation of reasonable legal notices embedded in the code, and appropriate labeling of modified versions.
+Such distributors have obligations to (at least) the users to whom they (or intermediary parties) distribute those copies. In some cases, distributors have obligations to third parties not directly receiving their distribution of the works (depending on the distributors chosen licensing options, as described later in [15.1).] In addition, distributors have compliance obligations to upstream parties, such as preservation of reasonable legal notices embedded in the code, and appropriate labeling of modified versions.
 
 这些分发者有义务向他们（或中间方）分发这些副本的用户（至少）承担责任。在某些情况下，分发者对未直接接收其作品分发的第三方也有义务（取决于分发者选择的许可选项，如稍后在15.1中所述）。此外，分发者还有向上游方的合规义务，例如保留代码中嵌入的合理法律声明，并适当标记修改版本。
 
@@ -3086,7 +3086,7 @@ As such, these COGEOs enforce GPL primarily to pursue the policy goals and motiv
 
 因此，这些COGEOs主要通过执行GPL来追求本教程中讨论的政策目标和动机：进一步推广软件自由。因此，COGEOs在其主要目标上是一致的，即尽快将违规者带回遵守许可证的轨道，并补救违规造成的损害。在违规协商中，COGEOs坚定地主张：遵守许可证并尊重自由。
 
-Certainly, other entities do not share the full ethos of software freedom as institutionalized by COGEOs, and those entities pursue GPL violations differently. Oracle, a company that produces the GPL'd MySQL database, upon discovering GPL violations typically negotiates a proprietary software license separately for a fee. While this practice is not one a COGEO would undertake nor endorse, a copyleft license technically permits this behavior. To put a finer point on this practice already discussed in [12.2,](#business-models) copyleft advocates usually find copyleft enforcement efforts focused on extract alternative proprietary licenses distasteful at best, and a corrupt manipulation of copyleft at worst. Much to the advocates' chagrin, such for-profit enforcement efforts seem to increase rather than decrease.
+Certainly, other entities do not share the full ethos of software freedom as institutionalized by COGEOs, and those entities pursue GPL violations differently. Oracle, a company that produces the GPL'd MySQL database, upon discovering GPL violations typically negotiates a proprietary software license separately for a fee. While this practice is not one a COGEO would undertake nor endorse, a copyleft license technically permits this behavior. To put a finer point on this practice already discussed in [12.2,] copyleft advocates usually find copyleft enforcement efforts focused on extract alternative proprietary licenses distasteful at best, and a corrupt manipulation of copyleft at worst. Much to the advocates' chagrin, such for-profit enforcement efforts seem to increase rather than decrease.
 
 当然，其他机构并不完全分享COGEO所制定的软件自由理念，这些机构以不同的方式追究GPL违规行为。甲骨文公司是一个提供GPL的MySQL数据库的公司，发现GPL违规行为后通常会单独协商收费的专有软件许可证。虽然这种做法不是COGEO会采取或支持的做法，但著佐权许可证从技术上允许这种行为。更进一步地，正如在12.2中已经讨论过的这种做法，著佐权的倡导者通常认为，着重提取替代专有许可证的著佐权执法行动充其量令人不快，最坏的情况是对著佐权的腐败操纵。令倡导者感到烦恼的是，这样的营利性执法行动似乎越来越多，而不是减少。
 
@@ -3128,11 +3128,9 @@ source, but without Complete, Corresponding Source.
 
 因此，有经验的GPL执法者发现，很少有再分发者的合规挑战直接涉及到在Copyleft中的组合工作问题。相反，最常遇到的是包含GPL组件（例如Linux，BusyBox）和LGPL组件（例如GNU C库）的完整操作系统的分发。有时，这些程序通过直接修改其源代码进行修补或略微改进，因此结果是明确的修改版本。除了这些程序外，公司通常还会分发完全独立的专有程序。即那些独立开发的软件，旨在运行在自由软件操作系统上，但不与GPL的组件组合，链接，修改，派生或以其他方式创建一个结合作品。[^14-3^] 在后一种情况下，如果作品毫无疑问是一份独立的创意表达作品，则不会引用版权保护规定。因此，在这种情况下，所面临的核心合规问题不是讨论作品是否为组合，派生或修改版本，而是涉及基于GPL源代码的二进制作品的分发和传递问题，但没有提供完整的对应源代码。
 
-[^14-1^]: This document addresses compliance with GPLv2, GPLv3, LGPLv2, and LGPLv3. Advice on avoiding the most common errors differs little for compliance with these four licenses. [18.1](#lgpl-compliance) discusses the key differences between GPL and LGPL compliance.
+[^14-1^]: This document addresses compliance with GPLv2, GPLv3, LGPLv2, and LGPLv3. Advice on avoiding the most common errors differs little for compliance with these four licenses. [18.1] discusses the key differences between GPL and LGPL compliance.
 
-
-[^14-2^]: This tutorial in fact also addresses the issue at length in *§* [14.1.](#evaluate-license-applicability)
-
+[^14-2^]: This tutorial in fact also addresses the issue at length in *§* [14.1.]
 
 As such, issues of software delivery are the primary frustration for GPL enforcers. In particular, the following short list accounts for at least 95% of the GPL violations ever encountered:
 
@@ -3142,7 +3140,7 @@ The violator fails to provide required information about the presence of copylef
 
 违规者未能提供关于他们购买的产品中存在的版权保护程序及其适用的许可证条款的所需信息。
 
-The violator fails to reliably deliver [complete, corresponding source](#ccs-definition) (CCS) for copylefted programs the violator knew were included (i.e., the CCS is either delivered but incomplete, or is not delivered at all).
+The violator fails to reliably deliver [complete, corresponding source] (CCS) for copylefted programs the violator knew were included (i.e., the CCS is either delivered but incomplete, or is not delivered at all).
 
 违规者未能可靠地交付违规者知道已包含的版权保护程序的完整对应源代码 (CCS)（即，CCS被交付但不完整，或者根本没有被交付）。
 
@@ -3155,11 +3153,11 @@ This tutorial therefore focuses primarily on these issue. Admittedly, a tiny min
 因此，本教程主要关注这些问题。不可否认，极少数的合规情况涉及到作品的派生、合并或修改版本的问题。这些情况非常罕见，并且各种情况之间的细节差异很大。因此，这些情况需要进行高度依赖事实的分析，不能在这样一个通用性的文档中解决。
 
 Most companies accused of violations lack a basic understanding of how to comply even in the straight- forward scenario. This document provides those companies with the fundamental and generally applicable prerequisite knowledge. For answers to rarer and more complicated legal questions, such as whether your software is a derivative or combined work of some copylefted software, consult with an
-attorney.[^4^](#_bookmark182)
+attorney.[^4^]
 
 大多数被指控违规的公司甚至缺乏基本的理解如何在简单的情况下进行合规性操作。本文档提供了这些公司所需的基本和普遍适用的先决知识。对于更罕见和更复杂的法律问题，例如您的软件是否是某些版权保护软件的派生或合并作品，请咨询律师^4^。
 
-This discussion thus assumes that you have already identified the "work" covered by the license, and that any components not under the GPL (e.g., applications written entirely by your developers that merely happen to run on a Linux-based operating system) distributed in conjunction with those works are separate works within the meaning of copyright law and the GPL. In such a case, the GPL requires you to provide complete corresponding source (CCS)[^5^](#_bookmark183) for the GPL'd components and your modifications thereto, but not for independent proprietary applications. The procedures described in this
+This discussion thus assumes that you have already identified the "work" covered by the license, and that any components not under the GPL (e.g., applications written entirely by your developers that merely happen to run on a Linux-based operating system) distributed in conjunction with those works are separate works within the meaning of copyright law and the GPL. In such a case, the GPL requires you to provide complete corresponding source (CCS)[^5^] for the GPL'd components and your modifications thereto, but not for independent proprietary applications. The procedures described in this
 document address this typical scenario.
 
 因此，本讨论假定您已经确定了受许可证保护的“作品”，并且在与这些作品一起分发的任何未受GPL保护的组件（例如，完全由您的开发人员编写的仅恰好在基于Linux的操作系统上运行的应用程序）中，根据版权法和GPL的意义，它们是独立的作品。在这种情况下，GPL要求您提供GPL保护的组件及其修改的完整对应源代码(CCS)[^5^](#_bookmark183]，但不包括独立的专有应用程序。本文档中描述的程序解决了这种典型情况。
@@ -3180,7 +3178,7 @@ Simple, engineering-oriented rules help provide a stable foundation for Free Sof
 
 简单的工程规则有助于为自由软件集成提供稳定的基础。例如，只需要求您的软件开发人员将每个新的自由软件组件添加到系统中的标准位置发送电子邮件，并包括他们将如何将其集成到产品中的简要描述。此外，确保开发人员使用修订控制系统（如Git或Mercurial），并将所有软件的上游版本存储在“供应商分支”或类似机制中，从而可以轻松地跟踪和查找软件的主版本以及任何本地更改。这些程序最好在项目启动时实施。一旦混乱和低质量的开发过程开始，就会变得很难记录GPL的组件的存在。
 
-[^14-3^]: However, these programs do often combine with LGPL'd libraries. This is discussed in detail in [18.1.](#lgpl-compliance)
+[^14-3^]: However, these programs do often combine with LGPL'd libraries. This is discussed in detail in [18.1.]
 
 
 
@@ -3269,11 +3267,11 @@ This section walks through the requirements (of both GPLv2 and GPLv3) that apply
 
 本节介绍了适用于以二进制形式（即可执行或目标代码）分发GPL程序时（这在嵌入式应用中很常见）的要求（适用于GPLv2和GPLv3）。因为二进制应用程序是从程序的原始源代码中派生出来的，因此你需要版权持有人的许可才能分发它。GPLv2的第3条和GPLv3的第6条包含了与GPL程序的二进制分发相关的许可和条件。[^15-3^]未能提供或提供CCS是导致合规争议的最大失败模式。
 
-GPL's binary distribution sections offer a choice of compliance methods, each of which we consider in turn. Each option refers to the "Corresponding Source" code for the binary distribution, which includes the source code from which the binary was produced. This abbreviated and simplified definition is sufficient for the binary distribution discussion in this section, but you may wish to refer back to this section after reading the thorough discussion of "Corresponding Source" that appears in []{#_bookmark188 .anchor}*§* [15.2.](#preparing-corresponding-source)
+GPL's binary distribution sections offer a choice of compliance methods, each of which we consider in turn. Each option refers to the "Corresponding Source" code for the binary distribution, which includes the source code from which the binary was produced. This abbreviated and simplified definition is sufficient for the binary distribution discussion in this section, but you may wish to refer back to this section after reading the thorough discussion of "Corresponding Source" that appears in []{#_bookmark188 .anchor}*§* [15.2.]
 
 GPL的二进制分发部分提供了几种合规方法选择，我们依次考虑每种选项。每个选项都涉及二进制分发的“相应源代码”，其中包括生成二进制代码的源代码。这个缩写和简化的定义足以在本节的二进制分发讨论中使用，但是你可能希望在阅读了出现在§15.2中的“相应源代码”的详细讨论后再参考本节。
 
-[^15-1^]: Note that this chapter refers heavily to specific provisions and language in [GPLv2 3](#_bookmark257) and [GPLv3 6.](#_bookmark260) It may be helpful to []{#_bookmark189 .anchor}review [5.2](#gplv2-3-producing-binaries) and [9.9](#gplv3-6-non-source-and-corresponding-source) first, and then have a copy of each license open while reading this section.
+[^15-1^]: Note that this chapter refers heavily to specific provisions and language in [GPLv2 3] and [GPLv3 6.] It may be helpful to []{#_bookmark189 .anchor}review [5.2](#gplv2-3-producing-binaries) and [9.9](#gplv3-6-non-source-and-corresponding-source) first, and then have a copy of each license open while reading this section.
 
 [^15-1^]: 注意，本章节大量涉及GPLv2 第3条和GPLv3 第6条中的特定条款和语言。在阅读本节之前，先回顾5.2和9.9，然后在阅读本节时同时查看每个许可证的内容会很有帮助。
 
@@ -3301,7 +3299,7 @@ GPLv2 refers to the various storage mechanisms as "medi\[a\] customarily used fo
 
 GPLv2将各种存储机制称为“软件交换习惯上使用的介质”。虽然在超快速互联网连接可用的情况下，互联网已经成为软件分发的主要手段，但GPLv2是在下载软件不可行（并且经常是不可能的）的时代编写的。对于世界上大部分地区而言，自GPLv2出版以来，这种情况并没有改变，因此互联网仍不能被视为“软件交换的常规介质”。GPLv3澄清了这一点，要求源代码“固定在常规用于软件交换的耐用物理介质上”。这种语言确认了选项（a）要求二进制再分发者在物理介质上提供源代码。
 
-Please note that while selection of option (a) requires distribution on a physical medium, voluntary distribution via the Internet is very useful. This is discussed in detail in *§* [15.1.2.](#option-b-the-offer)
+Please note that while selection of option (a) requires distribution on a physical medium, voluntary distribution via the Internet is very useful. This is discussed in detail in *§* [15.1.2.]
 
 请注意，虽然选择选项（a）需要通过物理介质分发，但自愿通过互联网分发非常有用。这在15.1.2.中详细讨论。
 
@@ -3389,7 +3387,7 @@ Finally, it is unacceptable to use option (b) merely because you do not have Cor
 
 #### 15.1.3 选项（c）：非商业提供
 
-As discussed in the last section, GPLv2 3(c) and GPLv3 6(c) apply only to noncommercial use. These options are not available to businesses distributing GPL'd software. Consequently, companies that redis- tribute software packaged for them by an upstream vendor cannot merely pass along the offer they received from the vendor; they must provide their own offer or corresponding source to their distributees. We talk in detail about upstream software providers in *§* [18.2.](#upstream-providers)
+As discussed in the last section, GPLv2 3(c) and GPLv3 6(c) apply only to noncommercial use. These options are not available to businesses distributing GPL'd software. Consequently, companies that redis- tribute software packaged for them by an upstream vendor cannot merely pass along the offer they received from the vendor; they must provide their own offer or corresponding source to their distributees. We talk in detail about upstream software providers in *§* [18.2.]
 
 正如上一节所述，GPLv2 3(c)和GPLv3 6(c)仅适用于非商业用途。这些选项对于分发GPL软件的企业不可用。因此，通过上游供应商打包软件的公司不能仅仅转交他们从供应商获得的提供，他们必须向他们的分发对象提供自己的提供或对应源代码。我们在18.2.小节中详细讨论了上游软件提供商的问题。
 
@@ -3425,7 +3423,7 @@ Peer-to-peer file sharing arose well after GPLv2 was written, and does not easil
 
 ### 15.2 准备相应源代码
 
-Most enforcement cases involve companies that have unfortunately not implemented procedures like our [14](#_bookmark176) recommendations and have no source distribution arranged at all. These companies must work backwards from a binary distribution to come into compliance. Our recommendations in [14](#_bookmark176) are designed to make it easy to construct a complete and Corresponding Source release from the outset. If you have followed those principles in your development, you can meet the following requirements with ease. If you have not, you may have substantial reconstruction work to do.
+Most enforcement cases involve companies that have unfortunately not implemented procedures like our [14] recommendations and have no source distribution arranged at all. These companies must work backwards from a binary distribution to come into compliance. Our recommendations in [14] are designed to make it easy to construct a complete and Corresponding Source release from the outset. If you have followed those principles in your development, you can meet the following requirements with ease. If you have not, you may have substantial reconstruction work to do.
 
 大多数执行案例涉及那些不幸没有实施像我们建议的14那样的程序，也没有安排任何源代码分发的公司。这些公司必须从二进制分发开始向后工作，以达到合规。我们在14中的建议旨在使从一开始就构建完整的相应源代码发布变得容易。如果你在开发过程中遵循了这些原则，你可以轻松满足以下要求。如果没有，你可能需要进行大量的重建工作。
 
@@ -3481,7 +3479,7 @@ No matter what you offer, you need to give those who receive source a clear path
 
 [^15-4^]: “Linux” 只指内核，而不是整个系统。
 
-These are the general details for how installation instructions work. Details about what differs when the work is licensed under LGPL is discussed in *§* [18.1,](#lgpl-compliance) and specific details that are unique to GPLv3's installation instructions are in *§* [18.4.](#user-products-and-installation-information)
+These are the general details for how installation instructions work. Details about what differs when the work is licensed under LGPL is discussed in *§* [18.1,] and specific details that are unique to GPLv3's installation instructions are in *§* [18.4.]
 
 这些是安装说明的一般细节。关于在作品采用LGPL许可下安装说明有何不同之处，可以参考18.1节。另外，GPLv3安装说明所特有的细节可以参考18.4节。
 
@@ -3505,7 +3503,7 @@ If you have used a proprietary, third-party compiler to build the software, then
 
 ### 15.3 最佳实践和对应源代码
 
-[14](#_bookmark176) and [15.2](#preparing-corresponding-source) above are closely related. If you follow the best practices outlined above, you will find that preparing your Corresponding Source release is an easier task, perhaps even a trivial one.
+[14] and [15.2] above are closely related. If you follow the best practices outlined above, you will find that preparing your Corresponding Source release is an easier task, perhaps even a trivial one.
 
 上面的 14 和 15.2 密切相关。如果你按照上面概述的最佳实践，你会发现准备相应源代码的发布将是一个更容易的任务，甚至可能是一个微不足道的任务。
 
@@ -3521,7 +3519,7 @@ We suggest that, if contacted about a violation, product builders use GPL enforc
 
 ### 15.4 非技术合规问题
 
-Certainly, the overwhelming majority of compliance issues are, in fact, either procedural or technical. Thus, the primary material in this chapter so far has covered those issues. However, a few compliance issues do require more direct consideration of a legal situation. This portion guide does not consider those in detail, as a careful reading of the earlier chapters of Part [I](#_bookmark1) shows various places where legal considerations are necessary for considering compliance activity.
+Certainly, the overwhelming majority of compliance issues are, in fact, either procedural or technical. Thus, the primary material in this chapter so far has covered those issues. However, a few compliance issues do require more direct consideration of a legal situation. This portion guide does not consider those in detail, as a careful reading of the earlier chapters of Part [I] shows various places where legal considerations are necessary for considering compliance activity.
 
 当然，绝大多数合规问题实际上都是程序上的或技术上的问题。因此，本章的主要内容到目前为止都涵盖了这些问题。然而，少数合规问题确实需要更直接地考虑法律情况。本指南的这一部分不会详细介绍这些问题，因为仔细阅读第 I 部分早期章节就可以看到，在考虑合规性活动时需要考虑法律问题的各个方面。
 
@@ -3537,7 +3535,7 @@ Most companies that adopt copylefted software believe they have complied. Humans
 
 大多数采用Copyleft软件的公司都认为自己已经合规了。人们通常很难承认自己的错误，特别是系统性的错误。因此，保持合规性的最重要的必要步骤可能是公司定期评估自己的合规性。
 
-First, exercise a request CCS for all copylefted works from all your upstream providers of software and of components embedding software. Then, perform your own CCS check on this material first, and verify that it meets the requirements. This tutorial presents later a case study of a COGEO's CCS check in [21,](#_bookmark225) which you can emulate when examining their own CCS.
+First, exercise a request CCS for all copylefted works from all your upstream providers of software and of components embedding software. Then, perform your own CCS check on this material first, and verify that it meets the requirements. This tutorial presents later a case study of a COGEO's CCS check in [21,] which you can emulate when examining their own CCS.
 
 首先，向所有软件和嵌入软件组件的上游提供商请求所有Copyleft作品的CCS。然后，首先对这些材料进行自己的CCS检查，并验证其是否符合要求。本教程随后将在21中提供COGEO的CCS检查案例，你可以在检查自己的CCS时进行仿效。
 
@@ -3676,7 +3674,7 @@ There are several other issues that are less common, but also relevant in a GPL 
 
 ### 18.1 GPL 合规
 
-GPL compliance and LGPL compliance mostly involve the same issues. As we discussed in [14.1,](#evaluate-license-applicability) questions of modified versions of software are highly fact-dependent and cannot be easily addressed in any overview document. The LGPL adds some additional complexity to the analysis. Namely, the various LGPL versions permit proprietary licensing of certain types of modified versions. These issues are discussed in greater detail in Chapter [10](#_bookmark147) and [11.](#_bookmark158) However, as a rule of thumb, once you have determined (in accordance with LGPLv3) what part of the work is the "Application" and what portions of the source are "Minimal Corresponding Source", then you can usually proceed to follow the GPL compliance rules that discussed above, replacing our discussion of "Corresponding Source" with "Minimal Corresponding Source".
+GPL compliance and LGPL compliance mostly involve the same issues. As we discussed in [14.1,] questions of modified versions of software are highly fact-dependent and cannot be easily addressed in any overview document. The LGPL adds some additional complexity to the analysis. Namely, the various LGPL versions permit proprietary licensing of certain types of modified versions. These issues are discussed in greater detail in Chapter [10] and [11.] However, as a rule of thumb, once you have determined (in accordance with LGPLv3) what part of the work is the "Application" and what portions of the source are "Minimal Corresponding Source", then you can usually proceed to follow the GPL compliance rules that discussed above, replacing our discussion of "Corresponding Source" with "Minimal Corresponding Source".
 
 GPL合规性和LGPL合规性大多涉及相同的问题。正如我们在14.1中讨论的那样，关于软件修改版本的问题高度依赖于事实，并且无法在任何概述性文件中轻易解决。LGPL在分析中增加了一些额外的复杂性。即，各种LGPL版本允许某些类型的修改版本使用专有许可证。这些问题在第10章和第11章中进行了更详细的讨论。然而，作为一个经验法则，一旦你已经确定了（按照LGPLv3的规定）工作的哪个部分是“应用程序”，源代码的哪些部分是“最小对应源代码”，那么你通常可以继续遵循上面讨论的GPL合规规则，将我们对“对应源代码”的讨论替换为“最小对应源代码”。
 
@@ -3688,7 +3686,7 @@ Thus, under the terms of LGPL, you must refrain from license terms on works base
 
 因此，在LGPL的条款下，你必须避免授权作品的许可条款，这些作品禁止替换较大的非LGPL作品的授权组件，或禁止反汇编或反向工程以增强或修复LGPL组件。
 
-LGPLv3 is not surprisingly easier to understand and examine from a compliance lens, since the FSF was influenced in LGPLv3's drafting by questions and comments on LGPLv2.1 over a period of years. Admittedly, LGPLv2.1 is still in wide use, and thus compliance with LGPLv2.1 remains a frequent topic you may encounter. The best advice there is careful study of Chapter [10.](#_bookmark147)
+LGPLv3 is not surprisingly easier to understand and examine from a compliance lens, since the FSF was influenced in LGPLv3's drafting by questions and comments on LGPLv2.1 over a period of years. Admittedly, LGPLv2.1 is still in wide use, and thus compliance with LGPLv2.1 remains a frequent topic you may encounter. The best advice there is careful study of Chapter [10.]
 
 LGPLv3自然更易于从合规角度理解和审查，因为FSF在起草LGPLv3时受到了多年来关于LGPLv2.1的问题和评论的影响。值得注意的是，LGPLv2.1仍在广泛使用，因此遵守LGPLv2.1仍然是你可能遇到的频繁话题。最好的建议是仔细研究第10章。
 
@@ -3704,7 +3702,7 @@ With ever-increasing frequency, software development (particularly for embedded 
 
 越来越多的情况下，软件开发（尤其是嵌入式设备）被外包给第三方。如果你依赖上游供应商提供的软件，请注意，你不能仅因为别人打包了你分发的软件，就忽略你的GPL合规要求。如果你重新分发GPL的软件（每当你将设备带着上游提供的软件发货时，你就在重新分发），你就必须遵守GPL的条款。在未遵守许可证条款的情况下，没有任何分发（包括重新分发）是可行的。
 
-Therefore, you should introduce a due diligence process into your software acquisition plans. This is much like the software-oriented recommendations we make in [14.](#_bookmark176) Implementing practices to ensure that you are aware of what software is in your devices can only improve your general business processes. You should ask a clear list of questions of all your upstream providers and make sure the answers are complete and accurate. The following are examples of questions you should ask:
+Therefore, you should introduce a due diligence process into your software acquisition plans. This is much like the software-oriented recommendations we make in [14.] Implementing practices to ensure that you are aware of what software is in your devices can only improve your general business processes. You should ask a clear list of questions of all your upstream providers and make sure the answers are complete and accurate. The following are examples of questions you should ask:
 
 因此，你应该在你的软件获取计划中引入尽职调查流程。这很像我们在14章中提出的面向软件的建议。采取实践来确保你了解设备中的软件内容，只能提高你的一般业务流程。你应该向所有的上游供应商提出一系列明确的问题，并确保回答完整准确。以下是你应该问的问题示例：
 
@@ -3784,7 +3782,7 @@ GPLv3在许多方面对寻求某种程度的设备锁定的分发商更为有利
 
 ### 18.5 注意扮成执法者的顾问
 
-There are admittedly portions of the GPL enforcement community that function somewhat like the [computer](http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#Classifications) [security and network penetration testing hacker community.](http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#Classifications) By analogy, most COGEO's consider themselves [white hats,](http://en.wikipedia.org/wiki/White_hat_%28computer_security%29) while some might appropriately call [proprietary relicensing](#business-models) by the name ["black](http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#Black_hat) hats". And, to finalize the analogy, there are indeed few [grey hat](http://en.wikipedia.org/wiki/Grey_hat) GPL enforcers.
+There are admittedly portions of the GPL enforcement community that function somewhat like the [computer](http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#Classifications) [security and network penetration testing hacker community.](http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#Classifications) By analogy, most COGEO's consider themselves [white hats,](http://en.wikipedia.org/wiki/White_hat_%28computer_security%29) while some might appropriately call [proprietary relicensing] by the name ["black](http://en.wikipedia.org/wiki/Hacker_%28computer_security%29#Black_hat) hats". And, to finalize the analogy, there are indeed few [grey hat](http://en.wikipedia.org/wiki/Grey_hat) GPL enforcers.
 
 公开执法GPL的社区中，有一部分确实像计算机安全和网络渗透测试黑客社区一样运作。类比地，大多数COGEO认为自己是“白帽子”，而一些人可能恰当地将“专有重新许可”称为“黑帽子”。此外，确实有一些灰帽GPL执法者。
 
@@ -3808,7 +3806,7 @@ Feelings and opinions about this behavior are mixed within the larger copyleft c
 
 在更广泛的copyleft社区中，人们对这种行为的感受和意见是各不相同的。有些人认为这是一个合理的商业模式，而另一些人则谴责它是腐败行为。无论如何，GPL违规者应该始终通过有文件记录的可验证事实来确定执法者的动机。例如，像自由软件基金会（FSF）和保护协会这样的COGEO已经做出了重大的公开承诺，以一种统一、透明和公开记录的方式进行执法。此外，由于这些特定组织是美国的公共慈善机构，它们在年度990表申报中对IRS（以及公众）负责。每个人都可以审查它们的收入模型和审查它们的工作。
 
-However, entities and individuals who do GPL enforcement centered primarily around a profit motive are likely the most dangerous enforcement entities for one simple reason: an agreement to comply fully with the GPL for past and future products --- always the paramount goal to COGEOs --- may not suffice as adequate resolution for a proprietary relicensing company or grey hat GPL enforcer. Therefore, violators must consider carefully who has made the enforcement inquiry and ask when and where the enforcer made public commitments and reports regarding their enforcement work and perhaps even ask the enforcer to directly mimic CEOGEO's detailed public disclosures and follow the [standard requests for resolution](#_bookmark209) found in this document.
+However, entities and individuals who do GPL enforcement centered primarily around a profit motive are likely the most dangerous enforcement entities for one simple reason: an agreement to comply fully with the GPL for past and future products --- always the paramount goal to COGEOs --- may not suffice as adequate resolution for a proprietary relicensing company or grey hat GPL enforcer. Therefore, violators must consider carefully who has made the enforcement inquiry and ask when and where the enforcer made public commitments and reports regarding their enforcement work and perhaps even ask the enforcer to directly mimic CEOGEO's detailed public disclosures and follow the [standard requests for resolution] found in this document.
 
 然而，以盈利为中心的GPL执法实体和个人可能是最危险的执法实体，原因很简单：对于一个专门进行专有再许可的公司或灰帽GPL执法者而言，完全遵守过去和未来产品的GPL协议可能不足以作为充分的解决方案。因此，违规者必须仔细考虑谁进行了执法调查，并询问执法者何时何地作出公开承诺和报告其执法工作，甚至可以要求执法者直接模仿COGEO的详细公开披露并遵循本文档中找到的标准解决请求。
 \
@@ -3967,13 +3965,13 @@ Of course, most CCS examined for the last decade has (eventually) complied with 
 
 当然，过去十年中大多数 CCS 最终都符合了 GPL，可能经过了执行者的多次审核。然而，在面向社区的两个主要执行者（Conservancy 和 FSF）的经验中，这样的 CCS 结果通常只是"勉强符合 GPL 的要求"。用一个学术类比：虽然"C"当然是及格的，但是任何教师都更喜欢向班上展示一个获得"A"的样例。
 
-Fortunately, thanks in large part to the FSF's "Respects Your Freedom" (RYF) certification campaign[^1^](#_bookmark227), a few electronics products on the market meet a higher standard of copyleft compliance. As such, for the first time in the history of copyleft, CCS experts have pristine examples to study and present as exemplars worthy of emulation.
+Fortunately, thanks in large part to the FSF's "Respects Your Freedom" (RYF) certification campaign[^1^], a few electronics products on the market meet a higher standard of copyleft compliance. As such, for the first time in the history of copyleft, CCS experts have pristine examples to study and present as exemplars worthy of emulation.
 
 幸运的是，由于大部分得益于 FSF 的"尊重你的自由"(RYF) 认证运动，市场上有几款电子产品符合了更高的版权合规标准。因此，对于版权合规的历史来说，CCS 专家们有了可供研究和展示的纯净样例，值得仿效。
 
-This case study therefore examines the entire life-cycle of a GPL compliance investigation: from product purchase, to source request, to CCS review, and concluding in a final compliance determination. Specifically, this chapter discusses the purchase, CCS provision, and a step-by-step build and installation analysis of a specific, physical, embedded electronics product: [the "TPE-NWIFIROUTER" wireless router by ThinkPenguin.](https://www.thinkpenguin.com/gnu-linux/free-software-wireless-n-broadband-router-gnu-linux-tpe-nwifirouter2)[^2^](#_bookmark228)
+This case study therefore examines the entire life-cycle of a GPL compliance investigation: from product purchase, to source request, to CCS review, and concluding in a final compliance determination. Specifically, this chapter discusses the purchase, CCS provision, and a step-by-step build and installation analysis of a specific, physical, embedded electronics product: [the "TPE-NWIFIROUTER" wireless router by ThinkPenguin.](https://www.thinkpenguin.com/gnu-linux/free-software-wireless-n-broadband-router-gnu-linux-tpe-nwifirouter2)[^2^]
 
-因此，这个案例研究考察了 GPL 合规调查的整个生命周期：从购买产品到请求源代码，到 CCS 审查，以及最终的合规性决定。具体而言，本章讨论了购买、CCS 提供以及特定的物理嵌入式电子产品（ThinkPenguin 的"TPE-NWIFIROUTER"无线路由器）[^2^](#_bookmark228)的逐步构建和安装分析。
+因此，这个案例研究考察了 GPL 合规调查的整个生命周期：从购买产品到请求源代码，到 CCS 审查，以及最终的合规性决定。具体而言，本章讨论了购买、CCS 提供以及特定的物理嵌入式电子产品（ThinkPenguin 的"TPE-NWIFIROUTER"无线路由器）[^2^]的逐步构建和安装分析。
 
 ### 21.1 Consumer Purchase and Unboxing
 
@@ -3991,7 +3989,7 @@ The process for copyleft compliance investigation, when properly conducted, dete
 
 [^21-2^]: 自由软件基金会在其认证过程中当然进行了彻底的代码清理检查。本文讨论的分析是由自由软件协会独立进行的，而没有查看自由软件基金会的结果。因此，这个分析是“切合实际的”，并解释了自由软件协会在调查潜在的GPL违规行为时使用的典型程序。在这种情况下，显然没有发现任何违规行为。
 
-Therefore, the investigator first purchased the TPE-NWIFIROUTER through an online order, and when the package arrived, examined the contents of the box. The investigator immediately discovered that ThinkPenguin had taken advice from [15.1.2,](#option-b-the-offer) and exercised [GPLv2 3(a)](#gplv2-3-producing-binaries) and [GPLv3 6,](#gplv3-6-non-source-and-corresponding-source) rather than us- ing the [problematic offer for source provisions.](#option-b-the-offer) This choice not only accelerated the investigation (since there was no CCS offer to "test"), but also simplified the compliance requirements for ThinkPenguin.
+Therefore, the investigator first purchased the TPE-NWIFIROUTER through an online order, and when the package arrived, examined the contents of the box. The investigator immediately discovered that ThinkPenguin had taken advice from [15.1.2,] and exercised [GPLv2 3(a)](#gplv2-3-producing-binaries) and [GPLv3 6,](#gplv3-6-non-source-and-corresponding-source) rather than us- ing the [problematic offer for source provisions.] This choice not only accelerated the investigation (since there was no CCS offer to "test"), but also simplified the compliance requirements for ThinkPenguin.
 
 因此，调查人员首先通过在线订购购买了TPE-NWIFIROUTER，并在包裹到达后检查了盒子的内容。调查人员立即发现，ThinkPenguin已经遵循了15.1.2节的建议，并执行了GPLv2 3(a)和GPLv3 6节，而不是使用问题来源提供条款。 这种选择不仅加速了调查过程（因为没有CCS来源提供要“测试”），还简化了ThinkPenguin的合规要求。
 
@@ -4051,7 +4049,7 @@ GPL does not give specific guidance on the form or location of "scripts used to 
 
 GPL并没有对“用于控制可执行文件编译和安装的脚本”和/或“安装信息”的形式或位置提供具体指导，社区导向的GPL执行者采用“合理性标准”来评估此类说明。如果嵌入式固件构建方面的一般技能的调查员可以推测出正确的构建和安装程序，则说明足以满足GPL的要求。幸运的是，在这种情况下，说明更加详尽，提供了额外的细节。
 
-Nevertheless, these instructions offer more options than the reader typically sees in other CCS candidates. More typically, top-level build instructions name an exact host distribution to use, such as "Debian 7 installed on an amd64 system with the following packages installed". Of course, if the build will fail on any other system, instructions *should* include such details. However, this CCS builds on a wide range of distributions, and thus it was appropriate (and preferred) that the build instructions do not specify a specific distribution. In this specific case, the developers of the libreCMC project (a Free Software project that forms the base system for the TPE-NWIFIROUTER) have clearly made an effort to ensure the CCS builds on a variety of host systems. The investigator was in fact dubious upon seeing these instructions, since finicky embedded build processes usually require a very specific host system. Fortunately, it seems such doubts were generally unfounded (although the investigator did find [a minor annoyance that could be resolved with more detailed](#u-boot-compilation) [instructions).](#u-boot-compilation)
+Nevertheless, these instructions offer more options than the reader typically sees in other CCS candidates. More typically, top-level build instructions name an exact host distribution to use, such as "Debian 7 installed on an amd64 system with the following packages installed". Of course, if the build will fail on any other system, instructions *should* include such details. However, this CCS builds on a wide range of distributions, and thus it was appropriate (and preferred) that the build instructions do not specify a specific distribution. In this specific case, the developers of the libreCMC project (a Free Software project that forms the base system for the TPE-NWIFIROUTER) have clearly made an effort to ensure the CCS builds on a variety of host systems. The investigator was in fact dubious upon seeing these instructions, since finicky embedded build processes usually require a very specific host system. Fortunately, it seems such doubts were generally unfounded (although the investigator did find [a minor annoyance that could be resolved with more detailed] [instructions).]
 
 然而，这些说明提供的选项比读者通常在其他CCS候选项中看到的要多。更典型的情况是，顶级构建说明指定要使用的确切主机分发版本，例如“在安装有以下软件包的amd64系统上安装了Debian 7”。当然，如果在任何其他系统上构建失败，说明应该包括这些详细信息。然而，这个CCS可以在各种发行版上构建，因此不指定特定的发行版是合适的（也是首选的）。在这个特定情况下，libreCMC项目的开发人员（一个自由软件项目，形成TPE-NWIFIROUTER的基础系统）已经明确努力确保CCS在各种主机系统上构建。实际上，调查员对这些说明持怀疑态度，因为挑剔的嵌入式构建过程通常需要非常具体的主机系统。幸运的是，似乎这种怀疑通常是没有根据的（尽管调查员确实发现了一些可以通过更详细的说明解决的小问题（参见＃u-boot-compilation））。
 
@@ -4137,7 +4135,7 @@ mips-librecmc-linux-uclibc-gcc.bin: /lib/libc.so.6:
 ```
 
 >(The [complete log output from the failure](https://k.copyleft.org/guide/files/master/enforcement-case-studies_log-output/thinkpenguin_u-boot-build_fail.log) is too lengthy to include herein.) 
->This issue is an annoyance, not a compliance problem. It was clear from context that these binaries were simply for a different host architecture, and the investigator simply removed "toolchain/bin" and created a symlink to utilize the toolchain already built earlier (during the compilation discussed in *§* [21.2):](#_bookmark231)
+>This issue is an annoyance, not a compliance problem. It was clear from context that these binaries were simply for a different host architecture, and the investigator simply removed "toolchain/bin" and created a symlink to utilize the toolchain already built earlier (during the compilation discussed in *§* [21.2):]
 
     完整的故障日志输出太长，无法在此包含。此问题只是一个烦恼，而不是合规问题。从上下文中可以清楚地看出，这些二进制文件只是针对不同的主机架构，调查人员只需删除 "toolchain/bin" 并创建符号链接以利用之前已构建的工具链（在第21.2节中讨论的编译期间）。
 
@@ -4219,7 +4217,7 @@ At this point, the on-screen messages as described in the installation instructi
 
 此时，安装说明中描述的屏幕上的消息出现了，但是调查员发现，通过串口发送的任何按键事件似乎都无法到达U-Boot控制台。换句话说，尽管调查员在串行控制台中看到了U-Boot和内核引导消息，但是调查员无法按照“u-boot_reflash”的指示打断引导过程。按键根本没有打断引导过程并显示 **hornet>** 提示符。
 
-After additional trial and error over a period of hours, the investigator had finally to consider this question for the first time during the process: "Has ThinkPenguin violated the GPL?" More specifically, the immediate question was: "Given this failure, has the distributor met [the requirements for 'scripts used to](#complete-corresponding-source-ccs) [control installation of the executable' (GPLv2)](#complete-corresponding-source-ccs) and [necessary 'Installation Information' (GPLv3)?"](#installation-information)
+After additional trial and error over a period of hours, the investigator had finally to consider this question for the first time during the process: "Has ThinkPenguin violated the GPL?" More specifically, the immediate question was: "Given this failure, has the distributor met [the requirements for 'scripts used to] [control installation of the executable' (GPLv2)] and [necessary 'Installation Information' (GPLv3)?"]
 
 经过数小时的额外试验和错误，调查人员最终在过程中第一次考虑了这个问题：“ThinkPenguin是否违反了GPL？”更具体地说，立即的问题是：“鉴于这个失败，发行者是否符合了“用于控制可执行文件安装的脚本”（GPLv2）和“必要的安装信息”（GPLv3）的要求？”
 
@@ -4374,14 +4372,14 @@ Companies that seek to redistribute copylefted software can benefit greatly from
 
 试图重新分发共享软件的公司可以从 ThinkPenguin 的例子中受益。这里只是可以学到的许多教训中的几个：
 
-1. Even though copyleft licenses have them, [**avoid the  offer-for-source provisions**](#consumer-purchase-and-unboxing). Not only does including the CCS alongside binary distribution make violation investigation and compliance confir- mation substantially easier, but also (and more importantly) doing so [completes the distributor's CCS](#option-b-the-offer) [compliance obligations at the time of distribution](#option-b-the-offer) (provided, of course, that the distributor is otherwise in compliance with the relevant copyleft license).
+1. Even though copyleft licenses have them, [**avoid the  offer-for-source provisions**]. Not only does including the CCS alongside binary distribution make violation investigation and compliance confir- mation substantially easier, but also (and more importantly) doing so [completes the distributor's CCS] [compliance obligations at the time of distribution] (provided, of course, that the distributor is otherwise in compliance with the relevant copyleft license).
 
-2. **Include top-level build instructions in a natural language (such  as English) in a [clear and](#_bookmark230) [conspicuous place.](#_bookmark230)** Copyleft licenses require that someone reasonably skilled in the art can reproduce the build and installation. Typically, instructions written in English are necessary, and often easier than writing programmed scripts. The "script" included can certainly be more like the script of a play and less like a Bash script.
-3. **Write build/install instructions to the appropriate level of  specificity**. The upstream engi- neers in this case study [clearly did additional work to ensure functionality on a wide variety of host](#_bookmark230) [build systems;](#_bookmark230) this is quite rare. When in doubt, include the maximum level of detail build engi- neers can provide with the CCS instructions, but also double-check to investigate if a more generalized solution (such as other host systems) work just as well for the build.
+2. **Include top-level build instructions in a natural language (such  as English) in a [clear and] [conspicuous place.]** Copyleft licenses require that someone reasonably skilled in the art can reproduce the build and installation. Typically, instructions written in English are necessary, and often easier than writing programmed scripts. The "script" included can certainly be more like the script of a play and less like a Bash script.
+3. **Write build/install instructions to the appropriate level of  specificity**. The upstream engi- neers in this case study [clearly did additional work to ensure functionality on a wide variety of host] [build systems;] this is quite rare. When in doubt, include the maximum level of detail build engi- neers can provide with the CCS instructions, but also double-check to investigate if a more generalized solution (such as other host systems) work just as well for the build.
 
 4. **Seek to adhere to the spirit of copyleft, not just the letter of  the license**. Encouragement of users to improve and make their devices better is one of ThinkPenguin's commercial differentiators. Copyleft advocates that other companies have undervalued the large and lucrative market of users who seek hackable devices. By going beyond the mere minimal requirements of GPL, companies can immediately reap the benefits in that target market.
 
-5. Community-oriented enforcement organizations do not play  "gotcha"[^21-5^] with distributors regarding GPL violations. The goal in the GPL enforcement process is to achieve compliance and correct mistakes and annoyances. Such organizations therefore take an "innocent until proven guilty assume guilty due to honest error rather than malicious action " approach. The goal is compliance (in direct contrast with the [discussion in *§* 12.2 about the proprietary relicensing](#business-models) business model).
+5. Community-oriented enforcement organizations do not play  "gotcha"[^21-5^] with distributors regarding GPL violations. The goal in the GPL enforcement process is to achieve compliance and correct mistakes and annoyances. Such organizations therefore take an "innocent until proven guilty assume guilty due to honest error rather than malicious action " approach. The goal is compliance (in direct contrast with the [discussion in *§* 12.2 about the proprietary relicensing] business model).
 
 1. 即使共享许可证包括它们，尽量避免提供源代码条款。将 CCS 与二进制分发一起包含不仅使违规调查和合规确认变得更加容易，而且（更重要的是）在分发时**（前提是分发商符合相关共享许可证）完成了分发商的 CCS 合规义务**。
 
@@ -4522,11 +4520,11 @@ related Free Software licenses.
 Bracken研发了一款GNU/Linux操作系统产品，主要客户是OEM供应商，可应用于单一用途的电器设备中，例如仅用于互联网浏览的设备。该产品几乎100%使用了自由软件，大部分是在GPL和相关的自由软件许可证下授权的。
 
 FSF found out about this violation through a report first posted on a
-Slashdot[^1^](#_bookmark246) comment, and then it was brought to our
+Slashdot[^1^] comment, and then it was brought to our
 attention again by another Free Software copyright holder who had
 discovered the same violation.
 
-FSF通过Slashdot[^1^](#_bookmark246) 上的一篇评论报告发现了这一违规行为，之后另一名自由软件版权所有者发现了同样的违规行为，这再次引起了我们的注意。
+FSF通过Slashdot[^1^] 上的一篇评论报告发现了这一违规行为，之后另一名自由软件版权所有者发现了同样的违规行为，这再次引起了我们的注意。
 
 Bracken's GNU/Linux product is delivered directly from their Web site.
 This allowed FSF engineers to directly download and confirm the
@@ -4797,7 +4795,7 @@ Polgara pointed out that the software distribution they used was mostly contribu
 
 Polgara指出，他们使用的软件发行版大部分是由上游供应商Thesulac提供的，并且Haxil对该代码库的更改很少。Polgara与Thesulac协商以获得源代码，尽管问题在Polgara和Thesulac之间的渠道中进展缓慢。
 
-FSF encouraged a round-table meeting so that high bandwidth communication could occur between FSF, Polgara and Thesulac. Polgara and Thesulac agreed, and that discussion began. Thesulac provided nearly complete sources to Polgara, and Polgara made a full software release on their Web site. At the time of writing, that software still has some build problems (similar to those that occurred with Bortez, as described in Section [22.1).](#facts) FSF continues to negotiate with Polgara and Thesulac to resolve these problems, which have a clear path to a solution and are expected to resolve.
+FSF encouraged a round-table meeting so that high bandwidth communication could occur between FSF, Polgara and Thesulac. Polgara and Thesulac agreed, and that discussion began. Thesulac provided nearly complete sources to Polgara, and Polgara made a full software release on their Web site. At the time of writing, that software still has some build problems (similar to those that occurred with Bortez, as described in Section [22.1).] FSF continues to negotiate with Polgara and Thesulac to resolve these problems, which have a clear path to a solution and are expected to resolve.
 
 FSF鼓励进行圆桌会议，以便FSF，Polgara和Thesulac之间进行高带宽通信。Polgara和Thesulac同意，并开始讨论。Thesulac几乎完整地提供了源代码给Polgara，Polgara在其网站上发布了完整的软件版本。撰写本文时，该软件仍然存在一些构建问题（与第22.1节中描述的Bortez类似）。FSF继续与Polgara和Thesulac协商解决这些问题，这些问题有一个明确的解决路径，预计会解决。
 
