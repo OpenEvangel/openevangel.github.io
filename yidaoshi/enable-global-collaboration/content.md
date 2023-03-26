@@ -1,8 +1,8 @@
 ---
-title: Copyleft和GNU通用公共许可证：全面教程和指南
-tags: [译道师, OSPO, GPL, 许可证, License]
+title: 助力全球协作——开源代码的领导者如何面对分裂的挑战
+tags: [译道师, OSPO]
 date: 2023-3-26
-authors: [zRich, coolzhouly, voidxb, nodeyang, lxbwolf, zys0070]
+authors: [zRich, coolzhouly, voidxb, lxbwolf]
 ---
 ![](image/front-cover.png)
 
