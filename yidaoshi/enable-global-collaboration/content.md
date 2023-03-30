@@ -179,11 +179,11 @@ We express our sincere gratitude to Hilary Carter of Linux Foundation Research a
 
 **Yue Chen, Head of Technology Strategy**
 
-**Yue Chen，华为技术有限公司技术战略主管**
+**Yue Chen，技术战略主管,  Futurewei Technologies, Inc.**
 
 **Chris Xie, Head of Open Source Strategy Futurewei Technologies, Inc.**
 
-**Chris Xie，华为技术有限公司开源战略主管**
+**Chris Xie，开源战略主管,  Futurewei Technologies, Inc.**
 
 ## Executive Summary
 
