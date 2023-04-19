@@ -544,6 +544,7 @@ Another risk to open sourcing a project is the inclusion of private information,
 - If the source code has dependencies on third-party code, then provide the necessary information to the community; it's preferred that the code does not have any dependencies on non-open source components.
 
 - Remove any third-party proprietary code.
+- 删除所有第三方私有代码。
 
   - Add a license file in the root directory of the component containing the full license text. For instance, if you are posting the code on GitHub, you will provide a **LICENSE.md** file containing the full text of the open source license.
   - 在包含完整许可文本的组件的根目录中添加许可文件。例如，如果你在 GitHub 上发布代码，就要提供一个 **LICENSE.md** 文件，其中包含开源许可证的全文。
