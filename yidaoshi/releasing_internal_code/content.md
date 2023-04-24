@@ -455,7 +455,7 @@ Software likely subject to patent or other intellectual property claims is not a
 - Does the code disclose or realize any inventions the company plans to protect through patents?
 - 该代码是否披露或实现了公司计划通过专利保护的任何发明？
   - If the answer is yes, then you need to decide whether to remove the code, establish an IP policy, or make a nonassertion pledge. In all cases, your legal counsel will make the appropriate recommendations for next steps when such a scenario arises.
-- 如果答案是肯定的，那么需要决定是移除代码、建立 IP 策略还是做出不声明承诺。在任何情况下，一旦出现这种情形，你的法律顾问都会为接下来的步骤提出适当的建议。
+  - 如果答案是肯定的，那么需要决定是移除代码、建立 IP 策略还是做出不声明承诺。在任何情况下，一旦出现这种情形，你的法律顾问都会为接下来的步骤提出适当的建议。
 
 - Will the source code release trigger patent claims against the open-source software?
 - 该源代码的发布会引发对开源软件的专利索赔吗？
@@ -470,7 +470,7 @@ Software likely subject to patent or other intellectual property claims is not a
 
 #### 选择开源许可证
 
-The license of an open source project determines the rights to use, copy, modify, and distribute the code. The choice of license for an open source project is an essential factor in determining the openness of the project. Open source projects should only use licenses that the [[Open Source Initiative]{.underline}](https://opensource.org/) has approved. Such licenses allow software to be freely used, modified, and shared. To be approved by the Open Source Initiative, a license must go through its [[license review process]{.underline}](https://opensource.org/approval) to confirm that the license satisfies its [[Open Source Definition]{.underline}](https://opensource.org/osd) (OSD). You may come across many other licenses that are incompatible with the OSD. Most of these licenses are "Source Available" licenses that commonly include restrictions or limitations on the use and/or distribution of the software. These restrictions often render the licenses incompatible with the OSD.
+The license of an open source project determines the rights to use, copy, modify, and distribute the code. The choice of license for an open source project is an essential factor in determining the openness of the project. Open source projects should only use licenses that the [Open Source Initiative](https://opensource.org/) has approved. Such licenses allow software to be freely used, modified, and shared. To be approved by the Open Source Initiative, a license must go through its [license review process](https://opensource.org/approval) to confirm that the license satisfies its [Open Source Definition](https://opensource.org/osd) (OSD). You may come across many other licenses that are incompatible with the OSD. Most of these licenses are "Source Available" licenses that commonly include restrictions or limitations on the use and/or distribution of the software. These restrictions often render the licenses incompatible with the OSD.
 
 开源项目的许可证定义了使用、复制、修改和分发代码的权利。开源项目的许可证选择是决定项目开放性的一个重要因素。开源项目只能使用[Open Source Initiative](https://opensource.org/)已批准的许可证。这类许可证允许软件自由使用、修改和共享。要获得Open Source Initiative的批准，许可证必须通过[license review process](https://opensource.org/approval)确认其满足[Open Source Definition](https://opensource.org/osd) (OSD)。你可能会遇到许多其他与 OSD 不兼容的许可证。这些许可证中的大多数是"Source Available"许可证，通常包括对软件的使用和/或分发的约束或限制。这些限制通常使许可证与 OSD 不兼容。
 
@@ -729,7 +729,7 @@ Typically, the initial maintainers of the project form the TSC of the project. T
   - Code submission
   - 代码提交
   - Bug reporting
-  - bug 报告
+  - Bug 报告
 - **Project agreements**
 - **项目协议**
   - Develop a third-party contribution agreement to govern how the project will manage contributions from the community.
@@ -758,7 +758,9 @@ Typically, the initial maintainers of the project form the TSC of the project. T
   - GitHub repositories (or manage your own git servers)
   - GitHub 仓库（或者自己搭建 git 服务器）
 - Bug tracking and feature requests
+- 缺陷追踪和功能请求
 - Build system
+- 构建系统
 
 ### Apply recommended practices for your GitHub repo
 
@@ -904,8 +906,8 @@ OSI-approved open source license offering the freedom to create and distribute d
 
 ### 治理模型
 
-A governance model that gives equal footing to all current and future contributors to the project. Open source projects with an open and transparent governance model have better chances to grow, have a
-healthy environment, and attract developers and adoptees.
+A governance model that gives equal footing to all current and future contributors to the project. Open source projects with an open and transparent governance model have better chances to grow, have a healthy environment, and attract developers and adoptees.
+
 一种为项目的所有当前和未来贡献者提供平等地位的治理模型。 具有开放透明治理模型的开源项目有更好的发展机会，以及健康发展的生态，并会吸引更多的开发人员和采用者。
 
 ### Access
@@ -913,6 +915,7 @@ healthy environment, and attract developers and adoptees.
 ### 使用权
 
 Project resources are accessible to any users or developers interested in the project. Anyone can participate in the project, and any participant can earn committer rights by contributing and building trust with the project's community.
+
 对项目感兴趣的任何用户或开发人员都可以访问项目资源。 任何人都可以参与该项目，任何参与者都可以通过贡献和与项目社区建立信任关系来获得提交者的权利。
 
 ### Processes
@@ -935,16 +938,12 @@ Project resources are accessible to any users or developers interested in the pr
 ### 项目的发展
 
 - Responsibility for development is allocated to the individuals with the best capacity to deliver.
-
-- The project enforces quality standards when merging code.
-
-- The project implements multiple levels of review before entering the final release.
-
-- Peer review is mandatory and public.
-
 - 发展的责任需要分配给具有最佳交付能力的个人
+- The project enforces quality standards when merging code.
 - 项目在合并代码时需要严格执行质量标准。
+- The project implements multiple levels of review before entering the final release.
 - 项目在发布版本前需要进行多级审核。
+- Peer review is mandatory and public.
 - 同行评审是强制性的和公开的。
 
 ### Community
@@ -1067,8 +1066,12 @@ After the project has launched, it is essential to monitor the vitality of the e
 ## 尾注
 
 1. SCA tools are applications that support software development teams to ensure open source license compliance and improve the security of the code. At a high level, they perform automated scans on source codebases. The tools also help the team identify open source components and their license and flag any known security vulnerabilities.
-1. SCA工具是软件开发团队用来检测开源许可证合规性并提高代码安全性的一系列应用程序。高级的SCA工具可以对源代码库进行自动扫描。它们还可以帮助团队识别开源代码组件及其许可证，并对已知的安全漏洞进行标记。
+
 2. The Software Package Data Exchange® (SPDX®) is an open standard for communicating software bill of material information between organizations as well as from upstream open source projects into an organization.
+
+<br>
+
+1. SCA工具是软件开发团队用来检测开源许可证合规性并提高代码安全性的一系列应用程序。高级的SCA工具可以对源代码库进行自动扫描。它们还可以帮助团队识别开源代码组件及其许可证，并对已知的安全漏洞进行标记。
 2. 软件包数据交换®(SPDX®)是一项可用于组织之间或上游开源项目到组织间传递的软件物料清单开放标准。
 
 ## Conclusion
@@ -1095,24 +1098,24 @@ The author would like to express his sincere appreciation to his Linux Foundatio
 
 **Linux基金会资源**
 
-- E-book: [[A Deep Dive into Open Source Program Offices]{.underline}](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
+- E-book: [A Deep Dive into Open Source Program Offices](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
 - 电子书：《带你深入开源项目办公室》(<https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/>)
 
-- E-book: [[Guide to Enterprise Open Source ]{.underline}](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
+- E-book: [Guide to Enterprise Open Source ](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
 - 电子书：《企业开源指南》（<https://linuxfoundation.org/tools/guide-to-enterprise-open-source/）>
 
-- E-book: [[Open Source Compliance in the Enterprise]{.underline}](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
+- E-book: [Open Source Compliance in the Enterprise](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
 - 电子书：《企业开源合规性》(<https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/>)
-- E-book: [[Open Source Audits in Merger and Acquisition]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/) [[Transactions]{.underline}](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
+- E-book: [Open Source Audits in Merger and Acquisition](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/) [Transactions](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
 - 电子书：《并购交易中的开源审计》（<https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/）>
 
-- [[Linux Foundation Enterprise Guides]{.underline}](https://www.linuxfoundation.org/resources/open-source-guides/)
+- [Linux Foundation Enterprise Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
 - 《Linux基金会企业指南》(<https://www.linuxfoundation.org/resources/open-source-guides/>)
 
-- [[\Linux Foundation Open Compliance Program]{.underline}](https://compliance.linuxfoundation.org/)---Resources to support organizations with open source compliance.
+- [\Linux Foundation Open Compliance Program](https://compliance.linuxfoundation.org/)---Resources to support organizations with open source compliance.
 - Linux基金会开源规范(<https://compliance.linuxfoundation.org/>)-组织开放源码合规支持资源
 
-- [[TODO Group]{.underline}](http://todogroup.org/)---Open community of practitioners and organizations that collaborate on best practices, tools, and other ways to run successful open source programs.
+- [TODO Group](http://todogroup.org/)---Open community of practitioners and organizations that collaborate on best practices, tools, and other ways to run successful open source programs.
 - TODO工作组(<http://todogroup.org/>)-一个由从业人员和组织组成的开放社区，他们通过最佳实践、工具和其他方式进行协作，以成功运行开源程序。
 
 - [Software Package Data Exchange®](https://spdx.dev/) (SPDX®)
@@ -1122,7 +1125,7 @@ The author would like to express his sincere appreciation to his Linux Foundatio
 
 **意见反馈**
 
-The author apologizes in advance for any spelling mistakes or possible errors and is grateful to receive corrections and suggestions for improvements via [[ibrahimatlinux.com/contact.html]{.underline}](http://www.ibrahimatlinux.com/contact.html)
+The author apologizes in advance for any spelling mistakes or possible errors and is grateful to receive corrections and suggestions for improvements via [ibrahimatlinux.com/contact.html](http://www.ibrahimatlinux.com/contact.html)
 
 作者为任何拼写错误或其他可能存在的错误提前表示歉意，并对通过ibrahimatlinux.com/contact.html (<http://www.ibrahimatlinux.com/contact.html>)收到的更正和改进建议表示感谢。
 
@@ -1154,7 +1157,7 @@ Ibrahim Haddad博士是Linux基金会战略项目副总裁。他致力于为开�
 
 This report is provided "as is." The Linux Foundation and its authors, contributors, and sponsors expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to this report. In no event will The Linux Foundation and its authors, contributors, and sponsors be liable to any other party for lost profits or any form of indirect, special, incidental, or consequential damages of any character from any causes of action of any kind with respect to this report, whether based on breach of contract, tort (including negligence), or otherwise, and whether they have been advised of the possibility of such damage. Sponsorship of the creation of this report does not constitute an endorsement of its findings by any of its sponsors.
 
-本报告是“以现状提供”的。Linux基金会及其作者、贡献者和赞助商明确否认任何承诺（明示、暗示或其他），包括与本报告相关的可销性、不侵权、适合特定目的或标题的暗示性承诺。在任何情况下，Linux基金会及其作者、贡献者和赞助者都不对任何其他方的利润损失或任何形式的间接的、特殊的、偶然的或任何性质的后果性损失负责，无论是基于违反合同、侵权行为（包括过失），还是其他原因，以及他们是否被告知这种侵害的可能性。赞助编写本报告并不代表任何发起者对其调查结果的认可。
+本报告“按原样”提供。Linux基金会及其作者、贡献者和赞助商明确否认任何承诺（明示、暗示或其他），包括与本报告相关的可销性、不侵权、适合特定目的或标题的暗示性承诺。在任何情况下，Linux基金会及其作者、贡献者和赞助者都不对任何其他方的利润损失或任何形式的间接的、特殊的、偶然的或任何性质的后果性损失负责，无论是基于违反合同、侵权行为（包括过失），还是其他原因，以及他们是否被告知这种侵害的可能性。赞助编写本报告并不代表任何发起者对其调查结果的认可。
 
 Founded in 2021, Linux Foundation Research explores the growing scale of open source collaboration, providing insight into emerging technology trends, best practices, and the global impact of open source projects. Through leveraging project databases and networks, and a commitment to best practices in quan- titative and qualitative methodologies, Linux Foundation Research is creating the go-to library for open source insights for the benefit of organizations the world over.
 
