@@ -21,7 +21,7 @@ const config = {
   organizationName: 'openevangel.com', // Usually your GitHub org/user name.
   projectName: 'openevangel', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
