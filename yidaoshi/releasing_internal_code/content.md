@@ -542,7 +542,7 @@ Another risk to open sourcing a project is the inclusion of private information,
 - Create and include a file that contains the license and copyright notices of all third-party software and, if applicable, make the source code available.
 - 创建并包含一个包含所有第三方软件的许可证和版权声明的文件，并在适用时提供源代码。
 - If the source code has dependencies on third-party code, then provide the necessary information to the community; it's preferred that the code does not have any dependencies on non-open source components.
-
+- 如果源代码有第三方代码的依赖，则需向社区提供必要的信息；最好避免代码对非开源组件的依赖。
 - Remove any third-party proprietary code.
 - 删除所有第三方私有代码。
 
