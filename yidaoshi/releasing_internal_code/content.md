@@ -1138,10 +1138,10 @@ Dr. Ibrahim Haddad is Vice President of Strategic Programs at the Linux Foundati
 Ibrahim Haddad博士是Linux基金会战略项目副总裁。他致力于为开发人员提供一个集编码、管理和扩展为一体的开源项目中心，从而打造一个与供给侧无关的环境来推进开源AI平台，进而为几代开源创新者提供支持。Haddad领导着LF人工智能与数据基金会和PyTorch基金会。他及这两个基金会都在为支持公司、开发人员和开源社区开展的解决行业与技术挑战、造福所有参与者的技术项目的识别和贡献而努力。
 
 **Twitter:**
-[\@IbrahimAtLinux](https://twitter.com/ibrahimatlinux)
+[@IbrahimAtLinux](https://twitter.com/ibrahimatlinux)
 
 **推特:**
-[\@IbrahimAtLinux](https://twitter.com/ibrahimatlinux)
+[@IbrahimAtLinux](https://twitter.com/ibrahimatlinux)
 
 **Website:** [IbrahimAtLinux.com](IbrahimAtLinux.com)
 
