@@ -1069,7 +1069,7 @@ After the project has launched, it is essential to monitor the vitality of the e
 
 2. The Software Package Data Exchange® (SPDX®) is an open standard for communicating software bill of material information between organizations as well as from upstream open source projects into an organization.
 
-<br>
+<br />
 
 1. SCA工具是软件开发团队用来检测开源许可证合规性并提高代码安全性的一系列应用程序。高级的SCA工具可以对源代码库进行自动扫描。它们还可以帮助团队识别开源代码组件及其许可证，并对已知的安全漏洞进行标记。
 2. 软件包数据交换®(SPDX®)是一项可用于组织之间或上游开源项目到组织间传递的软件物料清单开放标准。
@@ -1099,27 +1099,27 @@ The author would like to express his sincere appreciation to his Linux Foundatio
 **Linux基金会资源**
 
 - E-book: [A Deep Dive into Open Source Program Offices](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
-- 电子书：《带你深入开源项目办公室》(<https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/>)
+- 电子书：[《带你深入开源项目办公室》](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
 
-- E-book: [Guide to Enterprise Open Source ](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
-- 电子书：《企业开源指南》（<https://linuxfoundation.org/tools/guide-to-enterprise-open-source/）>
+- E-book: [Guide to Enterprise Open Source](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
+- 电子书：[《企业开源指南》](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
 
 - E-book: [Open Source Compliance in the Enterprise](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
-- 电子书：《企业开源合规性》(<https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/>)
+- 电子书：[《企业开源合规性》](https://www.linuxfoundation.org/publications/open-source-compliance-enterprise/)
 - E-book: [Open Source Audits in Merger and Acquisition](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/) [Transactions](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
-- 电子书：《并购交易中的开源审计》（<https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/）>
+- 电子书：[《并购交易中的开源审计》](https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/)
 
 - [Linux Foundation Enterprise Guides](https://www.linuxfoundation.org/resources/open-source-guides/)
-- 《Linux基金会企业指南》(<https://www.linuxfoundation.org/resources/open-source-guides/>)
+- [《Linux基金会企业指南》](https://www.linuxfoundation.org/resources/open-source-guides/)
 
-- [\Linux Foundation Open Compliance Program](https://compliance.linuxfoundation.org/)---Resources to support organizations with open source compliance.
-- Linux基金会开源规范(<https://compliance.linuxfoundation.org/>)-组织开放源码合规支持资源
+- [Linux Foundation Open Compliance Program](https://compliance.linuxfoundation.org/)---Resources to support organizations with open source compliance.
+- Linux基金会开源规范(<https://compliance.linuxfoundation.org/>)——组织开放源码合规支持资源
 
 - [TODO Group](http://todogroup.org/)---Open community of practitioners and organizations that collaborate on best practices, tools, and other ways to run successful open source programs.
-- TODO工作组(<http://todogroup.org/>)-一个由从业人员和组织组成的开放社区，他们通过最佳实践、工具和其他方式进行协作，以成功运行开源程序。
+- [TODO工作组](http://todogroup.org/)——一个由从业人员和组织组成的开放社区，他们通过最佳实践、工具和其他方式进行协作，以成功运行开源程序。
 
 - [Software Package Data Exchange®](https://spdx.dev/) (SPDX®)
-- 软件包数据交换（SPDX® ）(<https://spdx.dev/>)
+- [软件包数据交换（SPDX® ）](https://spdx.dev/) (SPDX®)
 
 **Feedback**
 
@@ -1141,11 +1141,11 @@ Ibrahim Haddad博士是Linux基金会战略项目副总裁。他致力于为开�
 [\@IbrahimAtLinux](https://twitter.com/ibrahimatlinux)
 
 **推特:**
-[@IbrahimAtLinux](https://twitter.com/ibrahimatlinux
+[\@IbrahimAtLinux](https://twitter.com/ibrahimatlinux)
 
-**Website:** [IbrahimAtLinux.com]
+**Website:** [IbrahimAtLinux.com](IbrahimAtLinux.com)
 
-**网址:** [IbrahimAtLinux.com]
+**网址:** [IbrahimAtLinux.com](IbrahimAtLinux.com)
 
 **Fun project:** [Tux NFT Club](https://tuxnft.club/)
 
@@ -1169,7 +1169,7 @@ Copyright © 2022 [The Linux Foundation](https://linuxfoundation.org/)
 
 This report is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International Public License](https://creativecommons.org/licenses/by-nd/4.0/).
 
-本报告采用知识共享署名4.0国际许可协议（CC4.0）进行许可。(<https://creativecommons.org/licenses/by-nd/4.0/>)。
+本报告采用[知识共享署名4.0国际许可协议（CC4.0）](https://creativecommons.org/licenses/by-nd/4.0/)进行许可。
 
 To reference the work, please cite as follows: Ibrahim Haddad, "Artificial Intelligence and Data in Open Source: Challenges and Opportunities for Mass Collaboration at Scale," foreword by Dr. Seth Dobrin, March, 2022.
 
