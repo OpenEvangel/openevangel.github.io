@@ -92,7 +92,7 @@ OSPO 计划。我们发布了许多广受好评的关于如何构建 OSPO计划�
 
 ![Info Graph](./images/Infograph.png)
 
-|      |      |      |  |
+|      |      |      |
 |--- | --- | --- |
 | OSPO 的采用率在科技行业中仍然最高，但在公共部门和教育机构正强劲增长    | 那些认为OSPO对工程或产品团队的成功非常或极其关键的人在去年从54%上升到63%   | OSPO 的专业化仍在继续，58% 的 OSPO 正在正式组建，高于此前的 54%   |
 | 51% 的人表示，本财年他们的开源计划很有可能或有可能增加资金   | 77% 的受访者表示他们的开源项目对其公司的软件实践产生了积极影响    | 63%计划创建OSPO的受访者预计将在一年内启动该流程   |
@@ -221,7 +221,7 @@ OSPO 的主要职责发生了一些变化。维持开源许可证合规审查和
 
 ### 教育开发者
 
-为了保持合规性，处于 OSPO 成熟阶段 1 的组织创建了教育计划，以帮助其开发人员决定何时使用开源软件来创建新产品或服务。 "许多没有接受过开源教育的开发人员认为，因为他们没有购买软件，所以没有涉及许可，因为他们没有签署合同，" VMware 开源营销和战略总监Suzanne Ambiel说。 "开源软件可能是免费的——就像无价之宝一样——如果以不合规的方式使用，它也可能代价高昂。 \[开源软件\] 总是带有许可证。任何 OSPO 最重要的角色之一是确保开发人员了解不同许可选择的含义。"[^4]
+为了保持合规性，处于 OSPO 成熟阶段 1 的组织创建了教育计划，以帮助其开发人员决定何时使用开源软件来创建新产品或服务。 "许多没有接受过开源教育的开发人员认为，因为他们没有购买软件，所以没有涉及许可，因为他们没有签署合同，" VMware 开源营销和战略总监Suzanne Ambiel说。 "开源软件可能是免费的——就像无价之宝一样——如果以不合规的方式使用，它也可能代价高昂。 **开源软件**总是带有许可证。任何 OSPO 最重要的角色之一是确保开发人员了解不同许可选择的含义。"[^4]
 
 通过开发人员教育，高级管理人员通常认可开源软件的价值和重要性。在此类程序中，开发人员学习：
 
@@ -624,7 +624,7 @@ Peters 于 2018 年启动了 OSPO 之前的工作，并于 2020 年启动了正�
 
 [^7]: 参见，例如，Robert W. Hahn, "Government Policy toward Open-Source Software: An Overview," Government Policy Toward Open-Source Software, Brookings Institution Press and American Enterprise Institute, 2002年12月31日。 https://www.brookings.edu/wp-content/uploads/2016/07/ governmentpolicytowardopensourcesoftware_chapter.pdf, 2021年10月19日访问。
 
-[^8]: 2\. Michael Picht （SAP 开源办公室首席架构师），Zoom 作者采访，2021 年 11 月 8 日
+[^8]: Michael Picht （SAP 开源办公室首席架构师），Zoom 作者采访，2021 年 11 月 8 日
 
 [^9]: Deborah Bryant (Senior Director, Open Source, Red Hat), Zoom interview with author, Aug. 24, 2021.
 
