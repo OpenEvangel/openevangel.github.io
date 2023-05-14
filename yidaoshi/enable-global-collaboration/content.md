@@ -191,13 +191,13 @@ We express our sincere gratitude to Hilary Carter of Linux Foundation Research a
 
 Over two decades, the open source community has grown immensely. In 2000, there were a handful of high-profile open source projects and a small number of companies and organiza- tions to help steer the community's evolution. Today, the global open source ecosystem consists of millions of projects and an equally large and regionally diverse constellation of participants.
 
-在二十多年的时间里，开源社区已经成长为一个庞大的生态系统。在2000年，有几个知名的开源项目和一些公司和组织来帮助引导社区的发展。今天，全球开源生态系统包括数百万个项目和同样庞大和地区多样的参与者。
+在二十多年的时间里，开源社区已经成长为一个庞大的生态系统。在2000年，只有几个知名的开源项目和一些公司和组织来帮助引导社区的发展。今天，全球开源生态系统包括数百万个项目和同样庞大和地区多样的参与者。
 
 Growing global participation in open source software (OSS) is a testament to the ecosystem's success. However, the proliferation of open source projects and organizations also raises a vital question: Is fragmentation in the open source community impeding its progress?
 
 开源软件（OSS）全球参与的增长证明了该生态系统的成功。然而，开源项目和组织的增多也引发了一个重要的问题：开源社区中的分裂是否妨碍了其进展？
 
-This report draws on interviews with open source leaders to examine fragmentation in the open source ecosystem and investigate why it occurs, where it is beneficial, where it is problematic, and what key stakeholders are doing to confront the challenges of fragmen- tation. Specifically, the report examines three domains where fragmentation poses challenges: the development of open source solutions, the integration of diverse contributors from various regions of the world, and the governance of open source communities, including the role of foundations in safeguarding critical open source infrastructure.
+This report draws on interviews with open source leaders to examine fragmentation in the open source ecosystem and investigate why it occurs, where it is beneficial, where it is problematic, and what key stakeholders are doing to confront the challenges of fragmentation. Specifically, the report examines three domains where fragmentation poses challenges: the development of open source solutions, the integration of diverse contributors from various regions of the world, and the governance of open source communities, including the role of foundations in safeguarding critical open source infrastructure.
 
 本报告基于对开源领袖的采访，探讨开源生态系统的分裂，并调查其产生的原因、何时有益、何时有问题，以及主要利益相关者为应对分裂带来的挑战所做的努力。具体而言，该报告研究了3个领域中分裂带来的挑战：开源解决方案的开发、来自世界各地不同贡献者的集成，以及开源社区的治理，包括基金会在保障关键开源基础设施中的作用。
 
@@ -212,11 +212,11 @@ The key findings from the research are as follows:
 3. **The principal downsides of fragmentation include increased costs and complexity for consumers and vendors of open source solutions**. Several open source leaders argued that the explosion of projects on GitHub signals an abundance of duplication and risks a diffusion of the community's resources. For vendors, the proliferation of competing projects places a more significant burden on their capacity to support customers. However, end users of open source solutions maintain that the proliferation of projects makes it more challenging to identify, test, and deploy suit- able code libraries. Fragmentation can also reduce the open source effect of having a large community collaborate around a shared platform or standard. Finally, the most unhealthy or disruptive forks are those implemented for non-technical
 objectives, specifically for techno-nationalist reasons.
 
-4. **Once firmly rooted in the United States and Western Europe, today's open source community is increasingly global and cosmopolitan**. China, for example, is a signifi- cant consumer of and contributor to open source technol- ogies. Not only do nearly 90% of Chinese firms use open source technologies, but Chinese users are also the second most prolific group on GitHub after users from the United States.[^1] However, China is not alone. Many emerging econo- mies contain large communities of open source developers, including India, Russia, Korea, and Ukraine. For low- and middle-income countries, engagement with open source communities is giving rise to new entrepreneurial ventures and accelerating the pace of economic development.
+4. **Once firmly rooted in the United States and Western Europe, today's open source community is increasingly global and cosmopolitan**. China, for example, is a signifi- cant consumer of and contributor to open source technol- ogies. Not only do nearly 90% of Chinese firms use open source technologies, but Chinese users are also the second most prolific group on GitHub after users from the United States.[^1] However, China is not alone. Many emerging economies contain large communities of open source developers, including India, Russia, Korea, and Ukraine. For low- and middle-income countries, engagement with open source communities is giving rise to new entrepreneurial ventures and accelerating the pace of economic development.
 
 5. **Language, culture, and geopolitics remain barriers to participation in open source communities**. While open source is flourishing globally, open source project leaders outside of North America point to language, culture, and geopolitics as genuine obstacles to their ability to maximize the participation of talented developers. Although the open source community is increasingly international, several leaders argue that organizations headquartered in the United States have outsized influence in shaping most open source projects. Open source leaders fear that a failure to address diversity and inclusion issues will curtail the open source community's access to talent and ingenuity.
 
-6. **Diversity and inclusion are critical to building a robust open source talent pool**. The challenges of integrating different languages and cultures into open source communities are not new problems, and there is considerable confidence in the ecosystem's capacity to foster global inclusion. However, open source leaders agree that the community can do more to promote global inclusion. For example, interviewees underlined the need to invest in rapid machine translation capabilities for project communications. Leaders also discussed the impor- tance of promoting open source norms, taming the industry's macho "bro" culture, and fostering professionalism in commu- nity dialogues and decision-making.
+6. **Diversity and inclusion are critical to building a robust open source talent pool**. The challenges of integrating different languages and cultures into open source communities are not new problems, and there is considerable confidence in the ecosystem's capacity to foster global inclusion. However, open source leaders agree that the community can do more to promote global inclusion. For example, interviewees underlined the need to invest in rapid machine translation capabilities for project communications. Leaders also discussed the importance of promoting open source norms, taming the industry's macho "bro" culture, and fostering professionalism in community dialogues and decision-making.
 
 7. **Techno-nationalism poses a severe threat to open source collaboration**. Over the past decade, the United States and China have introduced increasingly stringent measures to restrict the transfer of critical innovations beyond national borders. Meanwhile, the war between Russia and Ukraine has heightened geopolitical tensions and made the security of technology supply chains a policy imperative. Numerous inter- viewees cited evidence that geopolitical tensions are creating national or regional silos in global innovation communities. Many open source leaders worry that rising protectionist measures could restrict the distribution of open source code and undermine the community's unfettered approach to inter- national collaboration.
 
@@ -224,7 +224,7 @@ objectives, specifically for techno-nationalist reasons.
 
 9. **The creation of new open source projects has seen a commensurate increase in the number of new founda- tions.** One empirical study found over 100 active entities across a wide range of open source projects. Ecosystem leaders say the proliferation of new foundations and initia- tives is leading to a growing sense of engagement over- load and vendor fatigue, with some enterprises choosing to be more selective about how and where they engage. However, as open source becomes increasingly global, many ecosystem leaders welcome the creation of new open source organizations around the world. For example, stakeholders recognize that some regional or sector-based foundations can more effectively cater to the needs of their unique constituents.
 
-10. **Ecosystem leaders want foundations to do more to align open source projects.** Open source foundations are reluctant to play a lead role in identifying and championing winning open source projects, arguing that picking winners is a marketplace function. However, leaders do see a need for better project curation and want foundations and other ecosystem participants to make greater efforts to align projects with similar objectives. To accomplish this, founda- tions need to enlist skilled community managers with the experience and know-how to compel diverse stakeholders to forge alignment around shared goals. Leaders also called for foundations to bring similar projects under a shared umbrella to eliminate duplication, economize on overhead, and reduce so-called "vendor fatigue."
+10. **Ecosystem leaders want foundations to do more to align open source projects.** Open source foundations are reluctant to play a lead role in identifying and championing winning open source projects, arguing that picking winners is a marketplace function. However, leaders do see a need for better project curation and want foundations and other ecosystem participants to make greater efforts to align projects with similar objectives. To accomplish this, foundations need to enlist skilled community managers with the experience and know-how to compel diverse stakeholders to forge alignment around shared goals. Leaders also called for foundations to bring similar projects under a shared umbrella to eliminate duplication, economize on overhead, and reduce so-called "vendor fatigue."
 
 11. **Securing and safeguarding critical open source infra- structure should be a focal point for collaboration.** All ecosystem leaders agree that building trust and confidence in OSS and supporting the ongoing maintenance of critical open source infrastructure are urgent imperatives. Decentralized innovation is producing a remarkable tapestry of open source components that are being widely deployed to support the digital economy. However, leaders observe that maintaining these disparate components is a complex challenge that requires a transparent and coordinated approach and a more significant deployment of funding and resources from the principal beneficiaries of open source infrastructure.
 
@@ -242,13 +242,13 @@ objectives, specifically for techno-nationalist reasons.
 
 5. **语言、文化和地缘政治仍然是参与开源社区的障碍。** 虽然开源技术在全球范围内蓬勃发展，但北美以外的开源项目领导者指出语言、文化和地缘政治确实是影响他们最大化吸引才华横溢的开发者参与的障碍。虽然开源社区越来越国际化，但一些领导者认为总部位于美国的组织在塑造大多数开源项目方面具有不可忽视的影响力。开源领导者担心，如果不能解决多样性和包容性问题，将会限制开源社区获取人才和创新的能力。
 
-6. **多样性和包容性对于建立强大的开源人才库至关重要。** 将不同语言和文化融入开源社区的挑战并不是新问题，生态系统有很大信心能够促进全球包容性。然而，开源领导者认为社区可以采取更多措施促进全球包容性。例如，受访者强调需要投资快速机器翻译能力，以进行项目通信。领导者还讨论了在社区对话和决策中促进开源规范、遏制该行业的男性文化，并培养专业素养的重要性。
+6. **多样性和包容性对于建立强大的开源人才库至关重要。** 将不同语言和文化融入开源社区的挑战并不是新问题，生态系统有很大信心能够促进全球包容性。然而，开源领导者认为社区可以采取更多措施促进全球包容性。例如，受访者强调需要投资快速机器翻译能力，以进行项目通信。领导者还讨论了在社区对话和决策中促进开源规范、遏制该行业的兄弟文化，并培养专业素养的重要性。
 
 7. **技术民族主义对开源合作构成严重威胁。** 过去十年，美国和中国引入了越来越严格的措施，以限制关键创新技术的跨国转移。与此同时，俄罗斯和乌克兰之间的战争加剧了地缘政治紧张局势，并使技术供应链的安全成为政策必须。许多受访者引用证据表明，地缘政治紧张局势正在在全球创新社区中创造国家或地区的信息孤岛。许多开源领袖担心，日益保护主义的措施可能会限制开源代码的分发，并破坏社区对国际合作的无拘束态度。
 
 8. **透明的开源开发协议是技术民族主义的最佳解药。** 为了对抗技术民族主义，开源社区必须缓解人们对于国家利益或恶意行为可能玷污或破坏开源项目的担忧。生态系统领袖认为，通过增强同行评审和第三方审计的声誉框架可以建立对软件开发过程的信任。受访者还呼吁开源基金会和项目定位为公正的参与者和协作的中立家园。他们认为，建立中立、包容和透明的合作结构不仅可以扩大参与范围，还可以减少生态系统参与者在国家或地区范围内创建并行努力的动机。
 
-9. **新开源项目的创立使得新基金会的数量相应增加。** 一项实证研究发现，有100多个活跃的实体涵盖了广泛的开源项目。生态系统领袖表示，新基金会和新举措的不断增加正在导致日益增加的参与负担和供应商疲劳，一些企业选择更加谨慎地选择他们参与的方式和位置。然而，随着开源变得越来越全球化，许多生态系统领袖欢迎在世界各地创建新的开源组织。例如，利益相关者认识到，一些地区或行业基础的基金会可以更有效地满足其独特的成员需求。
+9. **新开源项目的创立使得新基金会的数量相应增加。** 一项实证研究发现，有100多个活跃的实体涵盖了广泛的开源项目。生态系统领袖表示，新基金会和新举措的不断增加正在导致日益增加的参与负担和供应商疲劳，一些企业更加谨慎地选择他们参与的方式和位置。然而，随着开源变得越来越全球化，许多生态系统领袖欢迎在世界各地创建新的开源组织。例如，利益相关者认识到，一些地区或行业基础的基金会可以更有效地满足其独特的成员需求。
 
 10. **生态系统领袖希望基金会在协调开源项目方面发挥更大的作用。** 开源基金会不愿意在识别和支持优胜劣汰的开源项目方面发挥领导作用，他们认为选择胜者是市场功能。然而，领袖们认为需要更好的项目策划，希望基金会和其他生态系统参与者更加努力地将项目与相似的目标对齐。为此，基金会需要招募有经验和知识的熟练社区经理人，促使不同的利益相关者围绕共同目标形成对齐。领袖们还呼吁基金会将类似的项目纳入共享伞下，以消除重复，节省开支，并减少所谓的“供应商疲劳”。
 
@@ -288,7 +288,7 @@ The freedom to see, modify, and distribute code has always been the open source 
 
 自由地查看、修改和分发代码一直是开源社区的核心理念，与社区分散的生产模式一起，这经常导致数百甚至数千个独立的贡献者合作构建和改进开源代码库。即使是最热烈的竞争对手也经常共同解决共同的挑战，从而避免了重复劳动，同时更快地开发和采用新兴的标准和创新。
 
-The potency of the open source model notwithstanding, the stag- gering existence of 200-million-plus projects on GitHub has stirred a debate. Some open source leaders say the continued proliferation of new projects and coordinating bodies creates healthy compe- tition between rival approaches, and competition drives innova- tion. Other participants argue that the explosion of projects signals an abundance of duplication and risks a diffusion of the commu- nity's resources. To what extent could increasing fragmentation in software development efforts create inefficiencies and clutter in the marketplace for open source solutions? And if fragmentation is indeed a problem in some domains, what steps should the commu- nity take to align its projects, talent, and resources?
+The potency of the open source model notwithstanding, the stag- gering existence of 200-million-plus projects on GitHub has stirred a debate. Some open source leaders say the continued proliferation of new projects and coordinating bodies creates healthy compe- tition between rival approaches, and competition drives innova- tion. Other participants argue that the explosion of projects signals an abundance of duplication and risks a diffusion of the community's resources. To what extent could increasing fragmentation in software development efforts create inefficiencies and clutter in the marketplace for open source solutions? And if fragmentation is indeed a problem in some domains, what steps should the community take to align its projects, talent, and resources?
 
 尽管开源模式的潜力无法否认，但在GitHub上存在超过2亿个项目的现状引发了一场辩论。一些开源领袖表示，新项目和协调机构的持续增长在竞争对手之间创建了健康的竞争，而竞争推动了创新。其他参与者则认为项目的爆炸性增长意味着重复的过度和风险扩散社区的资源。在软件开发努力中，增加的分裂在开放源码解决方案市场中会产生低效和杂乱的情况吗？如果在某些领域确实存在分裂问题，社区应该采取哪些步骤来协调其项目、人才和资源？
 
@@ -298,7 +298,7 @@ The potency of the open source model notwithstanding, the stag- gering existence
 
 While open source is flourishing globally, open source project leaders outside of North America point to language, culture, and geopolitics as genuine obstacles to their ability to maximize the participation of talented developers. At the same time, rising global trade tensions and political conflict risk politicizing decision-making and participation in open source development communities. Rising techno-nationalism, for example, has the world's advanced economies engaged in a high-stakes contest to reign supreme in key technological domains. Could techno-nationalist policies balkanize OSS development into regional silos and frustrate efforts to foster greater inclusion and deepen the community's talent pool? Or could open source be the key to avoiding balkanization across technology? As the scope and diversity of the community increase, how can open source project leaders integrate diverse participants and successfully promulgate open source norms, ethics, and best practices?
 
-虽然开源在全球范围内蓬勃发展，但北美以外的开源项目领导人指出，语言、文化和地缘政治是影响他们最大化吸引有才华的开发者参与的真正障碍。同时，全球贸易紧张局势和政治冲突的上升可能会将决策和参与开源开发社区的行为政治化。例如，崛起的技术民族主义让世界上先进的经济体在关键技术领域上进行高风险竞赛。技术民族主义政策会不会将OSS开发分割成区域性孤立，从而阻碍扩大包容性和加深社区的人才池？或者，开源是否是避免技术上的分裂的关键？随着社区的范围和多样性增加，开源项目领导者如何整合不同的参与者并成功地传播开源规范、伦理和最佳实践？
+虽然开源在全球范围内蓬勃发展，但北美以外的开源项目领导人指出，语言、文化和地缘政治是影响他们最大化吸引有才华的开发者参与的真正障碍。同时，全球贸易紧张局势和政治冲突的上升可能会将决策和参与开源开发社区的行为政治化。例如，崛起的技术民族主义让世界上先进的经济体在关键技术领域上进行高风险竞赛。技术民族主义政策会不会将OSS发展分割成区域性孤立，从而阻碍扩大包容性和加深社区的人才池？或者，开源是否是避免技术上的分裂的关键？随着社区的范围和多样性增加，开源项目领导者如何整合不同的参与者并成功地传播开源规范、伦理和最佳实践？
 
 ### Open source governance
 
@@ -416,11 +416,11 @@ Where else do open source leaders see challenges with fragmenta- tion? As Tim Bi
 
 开源领袖们还在哪里看到了分裂的挑战？Sony 的 Tim Bird 指出，”如果认真看，就会看到分裂。看看现在已有的东西就知道了。有太多的软件在做类似的事情，这成为了一种负担。消费电子和汽车行业都有问题。图形 API 的分裂没有标准，这是非常痛苦的。每个人都各自为战。“
 
-Both Bird and Clark describe the embedded device space as rife with fragmentation. "In embedded electronics, there is a natural tendency to fragment," said Bird. "It is different from the desktop and enterprise software space. To conserve resources, you tighten down the screws and build software solutions that are highly cus- tomized to the manufacturer's hardware. For example, the television stack is very different across different manufacturers. Developers code the software close to the metal to optimize performance. That causes a lot of fragmentation."
+Both Bird and Clark describe the embedded device space as rife with fragmentation. "In embedded electronics, there is a natural tendency to fragment," said Bird. "It is different from the desktop and enterprise software space. To conserve resources, you tighten down the screws and build software solutions that are highly customized to the manufacturer's hardware. For example, the television stack is very different across different manufacturers. Developers code the software close to the metal to optimize performance. That causes a lot of fragmentation."
 
 Bird 和 Clark 都说嵌入式设备领域充斥着分裂的现象。”在嵌入式电子产品中，有一个自然的趋势，就是将其分裂。“ Bird 说到。”它与桌面和企业软件领域不同。为了节约资源，你拧紧螺丝，建立高度定制的软件解决方案，以适应制造商的硬件。例如，不同制造商的电视零件是非常不同的。开发者为了优化性能而尽可能地使用底层语言去开发软件。这导致了大量的分裂。“
 
-Gabriele Columbro of FINOS and Linux Foundation Europe, on the other hand, calls blockchain one of the most fragmented domains. "There are too many foundations, platforms, standards, and cur- rencies," said Columbro. "Many players call themselves open source but not openly governed. The result is a proliferation of forks. You don't get consolidation when you don't have clear and transparent governance."
+Gabriele Columbro of FINOS and Linux Foundation Europe, on the other hand, calls blockchain one of the most fragmented domains. "There are too many foundations, platforms, standards, and currencies," said Columbro. "Many players call themselves open source but not openly governed. The result is a proliferation of forks. You don't get consolidation when you don't have clear and transparent governance."
 
 另一方面，FINOS 和欧洲 Linux 基金会的 Gabriele Columbro 称区块链是最分裂的领域之一。”已经有太多的基金会、平台、标准和货币“，Columbro 说。许多项目自称是开源的，但没有开放的管理。其结果是复刻的泛滥。当你没有明确和透明的管理时，你的项目就不会发展。
 
@@ -432,7 +432,7 @@ Gabriele Columbro of FINOS and Linux Foundation Europe, on the other hand, calls
 
 >”开源正在减少分裂，而不是导致分裂。“
 
-Several leaders consulted for the study see what they describe as problematic instances of fragmentation in the development of open source solutions. So, what are the potential costs to the eco- system? The principal downsides of fragmentation are increased cost and complexity for consumers and vendors of open source solutions. Fragmentation can also reduce the open source effect of having a large community collaborate around a shared platform or standard, resulting in a less efficient deployment of resources.
+Several leaders consulted for the study see what they describe as problematic instances of fragmentation in the development of open source solutions. So, what are the potential costs to the ecosystem? The principal downsides of fragmentation are increased cost and complexity for consumers and vendors of open source solutions. Fragmentation can also reduce the open source effect of having a large community collaborate around a shared platform or standard, resulting in a less efficient deployment of resources.
 
 接受调研的几位领导人看到了他们所描述的开源解决方案发展中存在的分裂问题的实例。那么，生态系统的潜在成本是什么？分裂的主要坏处是增加了消费者和开源解决方案供应商的成本和复杂性。分裂也会降低开源的效果，让一个庞大的社区围绕一个共享的平台或标准进行合作，导致资源部署的效率降低。
 
@@ -526,7 +526,7 @@ Among the first challenges raised by interviewees is the tech industry's long hi
 
 Open source leaders fear that a failure to address the open source community's "bro" culture will curtail its access to talent and ingenuity. "The people who don't feel welcomed will build technology in other ways," said Surman. "Unfortunately, that could mean that the best talent will build proprietary technology because they don't have the time and resources to contribute for free."
 
-开源领袖担心，如果不能解决开源社区的“兄弟”文化，将限制其获取人才和创造力的机会。苏尔曼说：“那些感觉不受欢迎的人会以其他方式构建技术。”。“不幸的是，这可能意味着最优秀的人才将建立专有技术，因为他们没有时间和资源免费贡献。”
+开源领袖担心，如果不能解决开源社区的“兄弟”文化，将限制其获取人才和创造力的机会。Surman 说：“那些感觉不受欢迎的人会以其他方式构建技术。”。“不幸的是，这可能意味着最优秀的人才将建立专有技术，因为他们没有时间和资源免费贡献。”
 
 Ramon Roche, general manager of the DroneCode Foundation, argues that another cultural barrier to global participation is the lack of acceptance of open source methods and principles in some regions. "In Latin America, we still lack validation that open source is a key component of success and a valid way to produce software," said Roche. "Managers and decision-makers don't understand how the open source community works, and develop- ers often fight uphill battles to contribute to open source efforts."
 
@@ -849,7 +849,7 @@ The absence of a coordinated open source response to such issues has left the pl
 
 Mike Milinkovich of Eclipse calls the relative absence of open source foundations in crucial policy debates a "sin of omission." "We are not a set of stakeholders that policymakers and politicians are accustomed to dealing with." However, Milinkovich also concedes that the current state of collaboration among open source foun- dations is "abysmal and almost non-existent." "Just looking after our own communities is hard enough," said Milinkovich. "Engaging with our peers is difficult. We don't have a good venue to do it. We also compete for members and projects. The bottom line is that we need to grow up and collaborate."
 
-Eclipse 的 Mike Milinkovich 称，在关键政策辩论过程中，开源基金会的相对缺席是一种“疏忽之罪”。“我们不政策制定者和政治家习惯于打交道的那种利益相关者。”然而，Milinkovich也承认，目前开源基金会之间的合作状态“糟糕透顶，几乎没有”。Milinkovich 说：“光是照料我们自己的社区就已经很难了。”“与同行交流很困难。我们没有一个合适的地点。我们还竞争会员和项目。唯独底线是需要成长和合作。”
+Eclipse 的 Mike Milinkovich 称，在关键政策辩论过程中，开源基金会的相对缺席是一种“疏忽之罪”。“我们是不政策制定者和政治家习惯于打交道的那种利益相关者。”然而，Milinkovich也承认，目前开源基金会之间的合作状态“糟糕透顶，几乎没有”。Milinkovich 说：“光是照料我们自己的社区就已经很难了。”“与同行交流很困难。我们没有一个合适的地点。我们还竞争会员和项目。唯独底线是需要成长和合作。”
 
 >"We need a repeatale and trustable process that achieves public policy goals through open source innovation." **- GABRIELE COLUMBRO**
 
@@ -1077,7 +1077,7 @@ Among other appointments, Anthony serves as a research director with the [**Bloc
 
 [^19]: [https://merics.org/en/short-analysis/china-bets-open-](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation) [source-technologies-boost-domestic-innovation](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation)
 
-[^20]: [\ <https://linuxfoundation.org/wp-content/uploads/>](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf) [LFResearch\_OSPO\_Report.pdf](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf)
+[^20]: [<https://linuxfoundation.org/wp-content/uploads/>](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf) [LFResearch\_OSPO\_Report.pdf](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf)
 
 [^21]: <https://livablesoftware.com/study-open-source-foundations/>
 
@@ -1085,7 +1085,7 @@ Among other appointments, Anthony serves as a research director with the [**Bloc
 
 [^23]: [https://www.linuxfoundation.org/press/press-](https://www.linuxfoundation.org/press/press-release/linux-foundation-europe-launches) [release/linux-foundation-europe-launches](https://www.linuxfoundation.org/press/press-release/linux-foundation-europe-launches)
 
-[^24]: [https://www.hbs.edu/news/releases/Pages/census-open-source-](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx) [software-security.aspx\#](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx):\~:text=Hundreds%20of%20thousands%20of%20open,source%20software%2C%E2%80%9D%20said%20Zemlin.
+[^24]: [https://www.hbs.edu/news/releases/Pages/census-open-source-](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx) [software-security.aspx\#](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx)
 
 [^25]: [https://www.coreinfrastructure.org/wp-content/uploads/](https://www.coreinfrastructure.org/wp-content/uploads/sites/6/2020/02/census_ii_vulnerabilities_in_the_core.pdf) [sites/6/2020/02/census\_ii\_vulnerabilities\_in\_the\_core.pdf](https://www.coreinfrastructure.org/wp-content/uploads/sites/6/2020/02/census_ii_vulnerabilities_in_the_core.pdf)
 
