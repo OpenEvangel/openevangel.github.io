@@ -526,7 +526,7 @@ Among the first challenges raised by interviewees is the tech industry's long hi
 
 Open source leaders fear that a failure to address the open source community's "bro" culture will curtail its access to talent and ingenuity. "The people who don't feel welcomed will build technology in other ways," said Surman. "Unfortunately, that could mean that the best talent will build proprietary technology because they don't have the time and resources to contribute for free."
 
-开源领袖担心，如果不能解决开源社区的“兄弟”文化，将限制其获取人才和创造力的机会。苏尔曼说：“那些感觉不受欢迎的人会以其他方式构建技术。”。“不幸的是，这可能意味着最优秀的人才将建立专有技术，因为他们没有时间和资源免费贡献。”
+开源领袖担心，如果不能解决开源社区的“兄弟”文化，将限制其获取人才和创造力的机会。Surman 说：“那些感觉不受欢迎的人会以其他方式构建技术。”。“不幸的是，这可能意味着最优秀的人才将建立专有技术，因为他们没有时间和资源免费贡献。”
 
 Ramon Roche, general manager of the DroneCode Foundation, argues that another cultural barrier to global participation is the lack of acceptance of open source methods and principles in some regions. "In Latin America, we still lack validation that open source is a key component of success and a valid way to produce software," said Roche. "Managers and decision-makers don't understand how the open source community works, and develop- ers often fight uphill battles to contribute to open source efforts."
 
@@ -849,7 +849,7 @@ The absence of a coordinated open source response to such issues has left the pl
 
 Mike Milinkovich of Eclipse calls the relative absence of open source foundations in crucial policy debates a "sin of omission." "We are not a set of stakeholders that policymakers and politicians are accustomed to dealing with." However, Milinkovich also concedes that the current state of collaboration among open source foun- dations is "abysmal and almost non-existent." "Just looking after our own communities is hard enough," said Milinkovich. "Engaging with our peers is difficult. We don't have a good venue to do it. We also compete for members and projects. The bottom line is that we need to grow up and collaborate."
 
-Eclipse 的 Mike Milinkovich 称，在关键政策辩论过程中，开源基金会的相对缺席是一种“疏忽之罪”。“我们不政策制定者和政治家习惯于打交道的那种利益相关者。”然而，Milinkovich也承认，目前开源基金会之间的合作状态“糟糕透顶，几乎没有”。Milinkovich 说：“光是照料我们自己的社区就已经很难了。”“与同行交流很困难。我们没有一个合适的地点。我们还竞争会员和项目。唯独底线是需要成长和合作。”
+Eclipse 的 Mike Milinkovich 称，在关键政策辩论过程中，开源基金会的相对缺席是一种“疏忽之罪”。“我们是不政策制定者和政治家习惯于打交道的那种利益相关者。”然而，Milinkovich也承认，目前开源基金会之间的合作状态“糟糕透顶，几乎没有”。Milinkovich 说：“光是照料我们自己的社区就已经很难了。”“与同行交流很困难。我们没有一个合适的地点。我们还竞争会员和项目。唯独底线是需要成长和合作。”
 
 >"We need a repeatale and trustable process that achieves public policy goals through open source innovation." **- GABRIELE COLUMBRO**
 
@@ -1077,7 +1077,7 @@ Among other appointments, Anthony serves as a research director with the [**Bloc
 
 [^19]: [https://merics.org/en/short-analysis/china-bets-open-](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation) [source-technologies-boost-domestic-innovation](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation)
 
-[^20]: [\ <https://linuxfoundation.org/wp-content/uploads/>](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf) [LFResearch\_OSPO\_Report.pdf](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf)
+[^20]: [<https://linuxfoundation.org/wp-content/uploads/>](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf) [LFResearch\_OSPO\_Report.pdf](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf)
 
 [^21]: <https://livablesoftware.com/study-open-source-foundations/>
 
@@ -1085,7 +1085,7 @@ Among other appointments, Anthony serves as a research director with the [**Bloc
 
 [^23]: [https://www.linuxfoundation.org/press/press-](https://www.linuxfoundation.org/press/press-release/linux-foundation-europe-launches) [release/linux-foundation-europe-launches](https://www.linuxfoundation.org/press/press-release/linux-foundation-europe-launches)
 
-[^24]: [https://www.hbs.edu/news/releases/Pages/census-open-source-](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx) [software-security.aspx\#](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx):\~:text=Hundreds%20of%20thousands%20of%20open,source%20software%2C%E2%80%9D%20said%20Zemlin.
+[^24]: [https://www.hbs.edu/news/releases/Pages/census-open-source-](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx) [software-security.aspx\#](https://www.hbs.edu/news/releases/Pages/census-open-source-software-security.aspx)
 
 [^25]: [https://www.coreinfrastructure.org/wp-content/uploads/](https://www.coreinfrastructure.org/wp-content/uploads/sites/6/2020/02/census_ii_vulnerabilities_in_the_core.pdf) [sites/6/2020/02/census\_ii\_vulnerabilities\_in\_the\_core.pdf](https://www.coreinfrastructure.org/wp-content/uploads/sites/6/2020/02/census_ii_vulnerabilities_in_the_core.pdf)
 
