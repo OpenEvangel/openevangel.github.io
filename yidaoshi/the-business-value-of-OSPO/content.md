@@ -1,3 +1,9 @@
+---
+title: OSPO 的商业价值 —— 探索为什么组织创建、维持、扩大开源项目办公室
+tags: [译道师, OSPO]
+date: 2023-6-28
+authors: [zRich, nodeyang, voidxb， JuliaZhou2022, winterpi]
+---
 # The Business Value of the OSPO
 # OSPO 的商业价值
 
