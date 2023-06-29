@@ -4,13 +4,16 @@ tags: [译道师, OSPO]
 date: 2023-6-28
 authors: [zRich, nodeyang, voidxb, JuliaZhou2022, winterpi]
 ---
+
+![Front Cover](./images/front-cover.png) 
+
 # The Business Value of the OSPO
 # OSPO 的商业价值
 
-## An Exploration of Why Organizations Create, Sustain,
-## and Expand Open Source Program Offices (OSPOs)
+**An Exploration of Why Organizations Create, Sustain,**
+**and Expand Open Source Program Offices (OSPOs)**
 
-## 探索为什么组织创建、维持、扩大开源项目办公室（OSPOs）
+**探索为什么组织创建、维持、扩大开源项目办公室（OSPOs）**
 
 **MARCH 2023**
 
