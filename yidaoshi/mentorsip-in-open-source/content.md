@@ -82,7 +82,7 @@ LF 导师关系的起源........................................................
 导师计划的挑战 ..................................................................16
 导师计划的职业价值 ...............................................................18
 结论 ..........................................................................22
-  可行性见解 ....................................................................22
+  可操作的见解 ....................................................................22
 最后的思考.......................................................................23
 方法论 .........................................................................24
 人口统计学......................................................................24
@@ -188,7 +188,7 @@ It’s no secret that the open source community and surrounding culture are hist
 | 19.7% Working Class| 19.7% 工薪阶层 |
 | 0.4% Upper class | 0.4% 上等收入 |
 | 16.9% Upper middle class | 16.9% 中上等收入 |
-| 53.4% Upper class | 53.4% 下等收入 |
+| 53.4% Lower middle class | 53.4% 下等收入 |
 
 An analysis of LFX Mentorship applicant data in **FIGURE 1**shows that 72% identify as belonging to the middle class.
 
@@ -698,6 +698,7 @@ Mentors are often well-respected members of the industry and can provide mentees
 | Yes, my compensation was more than enough to cover my living expenses| 是的，且薪酬在支付生活开支后有结余 |
 
 ![FIGURE 7](images/figure-7.png)
+
 | FIGURE 7 | 图7 |
 | ---- | ---- |
 | EMPLOYMENT STATUS OF LFX MENTORSHIP PROGRAM MENTEES POSTGRADUATION  | 参加LFX导师计划项目的学员毕业后的就业状况 |
@@ -734,9 +735,10 @@ Mentors are often well-respected members of the industry and can provide mentees
 | No, I have not been able to advance my carrer | 不，我的职业发展没有进步 |
 
 ![FIGURE 10](images/figure-10.png)
+
 | Figure 10 | 图10 |
 | ---- | ---- |
-| DISPOSITION OF LFX MENTORSHIP  PROGRAM GRADUATES  ON THE IMPACT OF THEIR  EMPLOYMENT STATUS |LFX导师计划毕业生的就业情况，导师计划对其就业的影响 |
+| DISPOSITION OF LFX MENTORSHIP  PROGRAM GRADUATES  ON THE IMPACT OF THEIR  EMPLOYMENT STATUS | LFX导师计划毕业生的就业情况，导师计划对其就业的影响 |
 | Did your mentorship program help  you to find a new job? When did you complete your mentorship program? | 你的导师计划是否帮助你找到了一份新工作？你什么时候完成导师计划的？ |
 | Yes | 是的 |
 | No, but I am looking for a job | 还没有，但我正在找新工作 |
@@ -745,6 +747,7 @@ Mentors are often well-respected members of the industry and can provide mentees
 | Prefer not to answer | 不想回答 |
 
 ![FIGURE 11](images/figure-11.png)
+
 | FIGURE 11 | 图11 |
 | ---- | ---- |
 | LFX MENTORSHIP MENTEES COMPENSATED AND UNCOMPENSATED PARTICIPATION  IN OPEN SOURCE PROJECTS PRE- AND POSTGRADUATION | LFX导师制学员在毕业前和毕业后有偿和无偿参与开源项目 |
@@ -797,6 +800,7 @@ LFX导师计划最令人惊讶的数据也许是毕业生的满意度。**图13*
 |58% of participants believe the program had both a significant and transformative impact on their careers.|58%的参与者相信导师计划对他们的职业生涯产生了巨大的和变革性的影响|
 
 ![FIGURE 13](images/figure-13.png)
+
 | Figure 13 | 图13 |
 | ---- | ---- |
 | DISPOSITION OF LFX MENTORSHIP PROGRAM  GRADUATES REGARDING THE OVERALL BENEFIT | LFX导师计划毕业生的总体收益分布|
