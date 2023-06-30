@@ -183,8 +183,8 @@ It’s no secret that the open source community and surrounding culture are hist
 |Figure 1|图 1|
 |----|----|
 | 2022 LFX MENTEE APPLICATIONS BY ECONOMIC STATU | 2022年LFX申请学员的经济状况 |
-| What group or class do you identify with? | 你属于跟他组或者等级？| 
-| 10.6% Prefer not to answer | 10.5% 不回答 |
+| What group or class do you identify with? | 你属于跟他组或者等级？|
+| 10.6% Prefer not to answer | 10.5% 不想回答 |
 | 19.7% Working Class| 19.7% 工薪阶层 |
 | 0.4% Upper class | 0.4% 上等收入 |
 | 16.9% Upper middle class | 16.9% 中上等收入 |
