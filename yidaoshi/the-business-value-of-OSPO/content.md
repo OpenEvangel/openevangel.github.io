@@ -5,7 +5,7 @@ date: 2023-6-28
 authors: [zRich, nodeyang, voidxb, JuliaZhou2022, winterpi]
 ---
 
-![Front Cover](./images/front-cover.png) 
+![Front Cover](./images/front-cover.png)
 
 # The Business Value of the OSPO
 # OSPO 的商业价值
