@@ -1,4 +1,9 @@
-
+---
+title: 解决开源软件中的网络安全挑战
+tags: [译道师, OSPO]
+date: 2023-6-30
+authors: [zRich, haowdev, lich0821]
+---
 # Addressing Cybersecurity Challenges in Open Source Software
 
 # 解决开源软件中的网络安全挑战
