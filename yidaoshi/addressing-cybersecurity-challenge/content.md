@@ -962,12 +962,12 @@ Another way to look at this is that end user organizations have scarce resources
 
 The second most important activity is to source comprehensive best practices/certifications for secure software development (cited by 52% of organizations). The strong interest by end user organizations in best practices for secure software development is exciting to see. This suggests that these organizations are invested in understanding how to address OSS security. The good news is that there are already several trusted sources who can address this need:
 
-- There are a variety of sources to identify best practices/ certifications for evaluating projects themselves. This includes the OpenSSF Best Practices badge, the OpenSSF Scorecards project, the CNCF paper on best practices for supply chain security, and SLSA (<https://slsadev>)
+- There are a variety of sources to identify best practices/ certifications for evaluating projects themselves. This includes the OpenSSF Best Practices badge, the OpenSSF Scorecards project, the CNCF paper on best practices for supply chain security, and SLSA (<https://slsa.dev>)
 - This also suggests an interest in encouraging developers to learn best practices & acquire certifications. The good news is that these are available. For example, OpenSSF’s developing secure software (LFD121) provides both a training course and certification of completion for individuals who pass the final exam. This course is sponsored by the OpenSSF which is part of the Linux Foundation.
 
 第二个最重要的活动是为安全软件开发提供全面的最佳实践/认证（52%的组织引用）。最终用户组织对安全软件开发最佳实践的浓厚兴趣令人兴奋。这表明这些组织在了解如何解决开放源码软件安全问题方面进行了投资。好消息是，已经有几个值得信赖的来源可以满足这一需求：
 
-- 有多种来源可以确定评估项目本身的最佳实践/认证。这包括OpenSSF最佳实践徽章，OpenSSF记分卡项目，CNCF关于供应链安全最佳实践的文件和SLSA（<https://slsadev>）。
+- 有多种来源可以确定评估项目本身的最佳实践/认证。这包括OpenSSF最佳实践徽章，OpenSSF记分卡项目，CNCF关于供应链安全最佳实践的文件和SLSA（<https://slsa.dev>）。
 - 这也表明鼓励开发人员学习最佳实践和获得认证的兴趣。好消息是这些都可用。例如，OpenSSF 的安全软件开发（LFD121）提供培训课程和通过期末考试获得认证的个人证书。该课程由 OpenSSF 赞助，是 Linux 基金会的一部分。
 
 Figure 15: Activities for improving the security of open source software
