@@ -188,7 +188,7 @@ It’s no secret that the open source community and surrounding culture are hist
 | 19.7% Working Class| 19.7% 工薪阶层 |
 | 0.4% Upper class | 0.4% 上等收入 |
 | 16.9% Upper middle class | 16.9% 中上等收入 |
-| 53.4% Lower middle class | 53.4% 下等收入 |
+| 53.4% Lower middle class | 53.4% 中下等收入 |
 
 An analysis of LFX Mentorship applicant data in **FIGURE 1**shows that 72% identify as belonging to the middle class.
 
