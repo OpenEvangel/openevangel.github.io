@@ -966,6 +966,8 @@ This report has been updated since its original release on 01.16.23. This second
 
 本报告自2013年1月16日首次发布以来已进行了更新。当前为第二个版，发布于2023年1月19日，修正了原始文本和图形中的错误。
 
+![Backcover](images/back-cover.png)
+
 ![Mentorship](images/LFX-mentership.png)
 
 Invest in building a stronger and more diverse community of qualified developers and engineers. LFX Mentorship makes it easy to sponsor and help train the next generation of open source developers by serving the key needs of the community. The program received 10,700 applications, accepted 600+ applicants, and paid $1.5M in stipends. Since its inception in 2019, LFX Mentorship Programs have trained 414 new developers. Several of our graduates are now gainfully employed and continuing to contribute to open source projects. We strongly believe in and are committed to providing learning pathways for new developers of all backgrounds.
