@@ -350,6 +350,12 @@ Khan 查看了其他开源组织以前的导师计划案例，并希望通过邀
 
 >*例如，春季班可能是南半球的人可以参加，因为那是他们的夏天。 暑期班是为其他人和学生准备的。 对于其他人，他们可以参加为期三个月或六个月的课程。”*
 
+> “Marina Zhurakhinskaya left an amazing legacy of initiatives to lift people up and change the lives of many. Marina’s passing is a big loss to the open source community and people working toward equity in open source.”
+> —SHUAH KHAN, LFX MENTORSHIP PROGRAM LEAD
+
+>“Marina Zhurakhinskaya留下了一系列让人惊叹的举措，来提升人们的境遇并改变许多人的生活。Marina的离世对于开源社区和致力于开源平等的人们来说是一个巨大的损失。”
+>—SHUAH KHAN, LFX导师计划负责人
+
 Another approach to attract industry professionals was opening the program to anyone, regardless of employment status. As Khan explains,
 
 另一种吸引产业界专业人士的方法是向任何人开放该计划，无论其就业状况如何。 Khan解释：
@@ -369,15 +375,19 @@ The program, now known officially as LFX Mentorships, has since been expanded be
 
 该计划现在正式称为 LFX Mentorships，此后已扩展到 Linux 内核之外，包括 LF 旗下的其他开源项目，例如云原生基金会 (CNCF)、Hyperledger、Open Mainframe Project、ELISA、Zephyr、RISC -V 和AGL等社区和项目。 （图 2）
 
+LFX Mentorships are fully matriculated; once a mentee has completed the program, they have “graduated” and are not eligible for additional mentorship for the program to provide opportunities for others. However, the possibility exists of becoming a mentor in the future. Several graduated mentees have been helping as co-mentors, sharing their experiences and realizing that mentoring is rewarding and a continuous learning path.
+
+LFX导师计划是完全制定的；一旦学员完成了该计划，他们将“毕业”，并不再有资格获得额外的导师计划，以便为其他人提供机会。然而，未来有可能成为导师。一些毕业的学员已经作为合作导师提供帮助，分享他们的经验，并意识到导师工作是有益且持续学习的道路。
+
 |Figure 2|图 2|
 |----|----|
-|LFX MENTORSHIP PROGRAM MENTEES’ PROJECTS | 在参加导师计划之前，学员对开源项目做出贡献的信心 |
-|Before the mentorship program, which of the following best describes your level of confidence with respect to engaging in open source?| 参加导师计划之前，以下哪项最能描述您对参与开源项目的信心程度？|
-|Not confident| 不自信|
-|Somewhat confident| 有一些自信|
-|Confident| 自信|
-|Very confident| 非常自信|
-|Extremely confident| 极其自信 |
+|LFX MENTORSHIP PROGRAM MENTEES’ PROJECTS | LFX导师计划学员项目 |
+|What was the name of the mentorship project you worked on?| 你参与的辅导项目是什么名字？|
+|CNCF projects| CNCF 项目 |
+|Linux kernel bug fixing| Linux 内核错误修复 |
+|Open Mainframe| 开放主机 |
+|Hyperledger and blockchain projects| 超级账本和区块链项目 |
+|Other| 其他 |
 
 ## Mentorships and their impact on succession and diversity within open source
 
@@ -955,3 +965,60 @@ Jason Perlow是信息技术行业的资深人士，拥有超过25年的金融行
 This report has been updated since its original release on 01.16.23. This second version, released on 01.19.23, corrects errors found in the original text and graphics.
 
 本报告自2013年1月16日首次发布以来已进行了更新。当前为第二个版，发布于2023年1月19日，修正了原始文本和图形中的错误。
+
+![Mentorship](images/LFX-mentership.png)
+
+Invest in building a stronger and more diverse community of qualified developers and engineers. LFX Mentorship makes it easy to sponsor and help train the next generation of open source developers by serving the key needs of the community. The program received 10,700 applications, accepted 600+ applicants, and paid $1.5M in stipends. Since its inception in 2019, LFX Mentorship Programs have trained 414 new developers. Several of our graduates are now gainfully employed and continuing to contribute to open source projects. We strongly believe in and are committed to providing learning pathways for new developers of all backgrounds.
+
+投资于建设一个更强大和多样化的合格开发人员和工程师社区。LFX Mentorship通过满足社区的关键需求，为赞助和帮助培训下一代开源开发人员提供了便利。该计划收到了10,700份申请，接受了600多名申请人，并支付了150万美元的津贴。自2019年成立以来，LFX Mentorship计划已经培训了414名新的开发人员。我们的一些毕业生现在已经稳定就业，并继续为开源项目做出贡献。我们坚信并致力于为所有背景的新开发人员提供学习路径。
+
+![LF Research](images/LF-research.png)
+
+Founded in 2021, LF Research explores the growing scale of open source collaboration and provides insight into emerging technology trends, best practices, and the global impact of open source projects. Through leveraging project databases and networks and a commitment to best practices in quantitative and qualitative methodologies, LF Research is creating the go-to library for open source insights for the benefit of organizations the world over.
+
+LF研究院成立于2021年，探索不断扩大的开源合作规模，并提供新兴技术趋势、最佳实践和开源项目的全球影响力的见解。通过利用项目数据库和网络，并致力于定量和定性方法论的最佳实践，LF研究正在为全球组织打造一座开源见解的图书馆，以造福全球。
+
+Copyright © 2023 The Linux Foundation
+
+版权所有 © 2023 Linux基金会
+
+This report is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International Public License. To reference the work, please cite Jason Perlow, “Mentorship in Open Source,” foreword by Julia Lawall, The Linux Foundation, January 2023.
+
+此报告受创作共用许可证Attribution-NoDerivatives 4.0 International Public License保护。 在引用这项工作时，请引用Jason Perlow的“开源中的导师制”，由Julia Lawall撰写的前言，The Linux Foundation，2023年1月发布。
+
+![CNCF](images/CNCF.png)
+
+The CNCF, part of the LF, hosts critical components of the global technology infrastructure, including Kubernetes, Prometheus, and Envoy. CNCF brings together the industry’s top developers, end users, and vendors and runs the world’s largest open source developer conferences. For more information, please visit www.cncf.io.
+
+CNCF（云原生计算基金会）是 LF（Linux 基金会）的一部分，承载着全球技术基础设施的关键组件，其中包括 Kubernetes、Prometheus 和 Envoy。CNCF 聚集了行业顶尖的开发者、最终用户和供应商，并举办全球最大的开源开发者大会。欲了解更多信息，请访问 www.cncf.io。
+
+![ELISA](images/elisa.png)
+
+The ELISA project aims to make it easier for companies to build and certify Linux-based safety-critical applications—
+systems whose failure could result in loss of human life, significant property damage, or environmental damage. ELISA members are working together to define and maintain a common set of tools and processes to help companies demonstrate that a specific Linux-based system meets the necessary safety requirements for certification. Launched in February 2019, ELISA works with Linux kernel and safety communities to agree on what to consider when using Linux in safety-critical systems. The project has several dedicated working groups that focus on providing resources for system integrators to apply and use to analyze qualitatively and quantitatively on their systems.
+
+ELISA项目旨在帮助企业更轻松地构建和认证基于Linux的安全关键应用程序- 这些系统的故障可能导致人员生命的丧失、重大财产损失或环境破坏。ELISA成员共同努力，定义并维护一套通用的工具和流程，帮助企业证明特定的基于Linux的系统满足必要的安全认证要求。ELISA于2019年2月推出，与Linux内核和安全社区合作，以就在安全关键系统中使用Linux时要考虑的内容达成一致。该项目有几个专门的工作组，专注于为系统集成商提供资源，以进行定性和定量分析其系统的应用和使用。
+
+![Hyperledger](images/hyperledger.png)
+
+Hyperledger Foundation is an open source community focused on developing a suite of stable frameworks, tools, and libraries for enterprise-grade blockchain deployments. It is a global collaboration hosted by The LF and includes leaders in finance, banking, the Internet of things, supply chains, manufacturing, and technology. Built under technical governance and open collaboration, individual developers, service, and solution providers, government associations, corporate members, and end users are all invited to participate in developing and promoting these game-changing technologies.
+
+Hyperledger Foundation（超级账本基金会）是一个致力于开发稳定框架、工具和库以适用于企业级区块链部署的开源社区。它是由LF（Linux Foundation）托管的全球合作项目，包括金融、银行、物联网、供应链、制造业和技术领域的领导者。在技术治理和开放合作的基础上构建，鼓励个人开发者、服务和解决方案提供商、政府协会、企业会员和终端用户参与开发和推广这些具有改变游戏规则的技术。
+
+![Training and Certification](images/lf-training-certification.png)
+
+The LF’s training program features courses developed and taught by expert instructors, many of whom are wellrespected professionals in the open source community. Our certification team performs comprehensive industry and job analyses to ensure every professional certification program we offer meets our exceedingly high standards. Led by our outstanding customer success team, we deliver responsive support and customized training solutions to enable individual and business to successes.
+
+LF的培训计划包括由专家讲师开发和教授的课程，其中很多人在开源社区中拥有很高的声誉。我们的认证团队会进行全面的行业和工作分析，以确保我们提供的每个专业认证计划都满足我们极高的标准。在我们出色的客户成功团队的带领下，我们提供响应迅速的支持和定制培训解决方案，以促使个人和企业的成功。
+
+![Open Mainframe](images/open-mainframe.png)
+
+The Open Mainframe Project was founded in 2015 as a focal point for deploying and using Linux and open source in a mainframe computing environment. With a vision of open source on the mainframe as the standard for enterprise-class systems and applications, the project’s mission is to build community and adoption of open source on the mainframe by eliminating barriers to open source adoption on the mainframe, demonstrating value of the mainframe on technical and business levels, and strengthening collaboration points and resources for the community to thrive. Open Mainframe Project is home to more than 22+ projects and working groups, including ADE, Ambitus, ATOM, CBT Tape, COBOL Check, COBOL Programming Course, COBOL Working Group, ConsoleZ, Feilong, GenevaERS, Linux Distributions Working Group, Mainframe Open Education, Mentorship, Polycephaly, Software Discovery Tool, TerseDecompress, Tessia, Zowe, and Zorow.
+
+开放大型计算机项目（Open Mainframe Project）成立于2015年，旨在成为在大型计算机环境中部署和使用Linux和开源的焦点。该项目的愿景是将开源在大型计算机上作为企业级系统和应用的标准，其使命是通过消除在大型计算机上采用开源的障碍，展示大型计算机在技术和业务层面的价值，以及加强合作关系和资源，推动大型计算机上开源的社区建设和采用。开放大型计算机项目拥有22多个项目和工作组，包括ADE、Ambitus、ATOM、CBT Tape、COBOL Check、COBOL编程课程、COBOL工作组、ConsoleZ、Feilong、GenevaERS、Linux发行版工作组、大型计算机开放教育、导师计划、Polycephaly、软件发现工具、TerseDecompress、Tessia、Zowe和Zorow等。
+
+![OpenSSF](images/openssf.png)
+
+The OpenSSF is a cross-industry organization that brings together the industry’s most important open source security initiatives and the individuals and companies that support them. The OpenSSF commits to collaboration and working both upstream and with existing communities to advance open source security for all.
+
+OpenSSF是一个跨行业组织，汇集了行业中最重要的开源安全倡议以及支持它们的个人和企业。OpenSSF致力于合作，并在上游和现有社区之间共同推动开源安全的发展。
