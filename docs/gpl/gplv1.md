@@ -16,9 +16,9 @@ This is an unofficial translation of the GNU General Public License into Chinese
 
 本译文是GNU通用公共许可证的一份非官方中文翻译，并非自由软件基金会所发表，不适用于使用GNU通用公共许可证发布的软件的法律声明——只有GNU通用公共许可证英文原版才具有法律效力。不过我希望本翻译能够帮助中文读者更好地理解GNU通用公共许可证。
 
-You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
+You may publish this translation, modified or unmodified, only under the terms at https://www.gnu.org/licenses/translations.html .
 
-仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
+仅在遵循 https://www.gnu.org/licenses/translations.html 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
 
 ## 引言
 
@@ -118,21 +118,21 @@ You may publish this translation, modified or unmodified, only under the terms a
 
     Yoyodyne有限公司声明放弃James Hacker所写的“Gnomovision”（编译通过的程序）的版权权益。
 
-    <Ty Coon 的签名>，1989 年 4 月 1 日
+    \<Ty Coon 的签名\>，1989 年 4 月 1 日
     Ty Coon，副总裁
 
 全文结束。
 
 --------------------------
 
-翻译：赵振华 <zhao.zhenhua@gmail.com>
+翻译：赵振华 zhao.zhenhua@gmail.com
 
 发布日期：202３年1月2３日
 
-地址：<https://github.com/zRich/gpl/blob/main/gplv１/gplv１.pdf>
+地址：https://github.com/zRich/gpl/blob/main/gplv１/gplv１.pdf
 
-如有修改建议欢迎发邮件或者到<https://github.com/zRich/gpl>讨论。
+如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
 
 参考：
 
-[简体中文译本] <https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html>
+[简体中文译本] https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html

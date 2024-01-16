@@ -1041,9 +1041,9 @@ Among other appointments, Anthony serves as a research director with the [**Bloc
 
 [^1]: [https://merics.org/en/short-analysis/china-bets-open-](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation) [source-technologies-boost-domestic-innovation](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation)
 
-[^2]: <https://nira.com/github-history/>
+[^2]: (https://nira.com/github-history/)
 
-[^3]: <https://github.com/about>
+[^3]: (https://github.com/about)
 
 [^4]: [https://www.sonatype.com/hubfs/Corporate/Software%20Supply%20](https://www.sonatype.com/hubfs/Corporate/Software%20Supply%20Chain/2020/SON_SSSC-Report-2020_final_aug11.pdf?hsLang=en-us) [Chain/2020/SON\_SSSC-Report-2020\_final\_aug11.pdf?hsLang=en-us](https://www.sonatype.com/hubfs/Corporate/Software%20Supply%20Chain/2020/SON_SSSC-Report-2020_final_aug11.pdf?hsLang=en-us)
 
@@ -1051,15 +1051,15 @@ Among other appointments, Anthony serves as a research director with the [**Bloc
 
 [^6]: [https://lisboncouncil.net/wp-content/uploads/2020/08/Open-Source-](https://lisboncouncil.net/wp-content/uploads/2020/08/Open-Source-Modular-Platforms-and-the-Challenge-of-Fragmentatio-1-1.pdf) [Modular-Platforms-and-the-Challenge-of-Fragmentatio-1-1.pdf](https://lisboncouncil.net/wp-content/uploads/2020/08/Open-Source-Modular-Platforms-and-the-Challenge-of-Fragmentatio-1-1.pdf)
 
-[^7]: <https://interconnected.blog/open-source-in-china-the-players/>
+[^7]: (https://interconnected.blog/open-source-in-china-the-players/)
 
-[^8]: <https://octoverse.github.com/#the-world-of-open-source>
+[^8]: (https://octoverse.github.com/#the-world-of-open-source)
 
-[^9]: <https://www.theregister.com/2021/12/01/china_five_year_software_plan/>
+[^9]: (https://www.theregister.com/2021/12/01/china_five_year_software_plan/)
 
 [^10]: [https://riscv.org/news/2021/10/alibaba-announces-open-](https://riscv.org/news/2021/10/alibaba-announces-open-source-risc-v-based-xuantie-series-processors-pandaily/) [source-risc-v-based-xuantie-series-processors-pandaily/](https://riscv.org/news/2021/10/alibaba-announces-open-source-risc-v-based-xuantie-series-processors-pandaily/)
 
-[^11]: <https://developer.apollo.auto/>
+[^11]: (https://developer.apollo.auto/)
 
 [^12]: [https://www.cnbc.com/2021/11/18/chinas-baidu-wants-to-](https://www.cnbc.com/2021/11/18/chinas-baidu-wants-to-launch-robotaxi-service-in-100-cities-by-2030.html) [launch-robotaxi-service-in-100-cities-by-2030.html](https://www.cnbc.com/2021/11/18/chinas-baidu-wants-to-launch-robotaxi-service-in-100-cities-by-2030.html)
 
@@ -1077,9 +1077,9 @@ Among other appointments, Anthony serves as a research director with the [**Bloc
 
 [^19]: [https://merics.org/en/short-analysis/china-bets-open-](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation) [source-technologies-boost-domestic-innovation](https://merics.org/en/short-analysis/china-bets-open-source-technologies-boost-domestic-innovation)
 
-[^20]: [<https://linuxfoundation.org/wp-content/uploads/>](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf) [LFResearch\_OSPO\_Report.pdf](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf)
+[^20]: [https://linuxfoundation.org/wp-content/uploads/](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf) [LFResearch\_OSPO\_Report.pdf](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf)
 
-[^21]: <https://livablesoftware.com/study-open-source-foundations/>
+[^21]: https://livablesoftware.com/study-open-source-foundations/
 
 [^22]: [https://linuxfoundation.org/wp-content/uploads/](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf) [LFResearch\_OSPO\_Report.pdf](https://linuxfoundation.org/wp-content/uploads/LFResearch_OSPO_Report.pdf)
 

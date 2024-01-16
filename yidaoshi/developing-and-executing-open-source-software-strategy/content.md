@@ -348,7 +348,7 @@ SPDX 是一种标准化的格式，用于捕获、存储和共享有关软件包
 
 - 了解各种技术项目社区运作机理。
 
-TODO Group 已经为这个角色发布了一个工作规范的模版，你可以根据自己的 需要进行定制：<https://todogroup.org/blog/sample-job-req.>
+TODO Group 已经为这个角色发布了一个工作规范的模版，你可以根据自己的 需要进行定制：https://todogroup.org/blog/sample-job-req.
 
 ### 将开源职业道路正规化
 

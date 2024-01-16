@@ -1113,7 +1113,7 @@ The author would like to express his sincere appreciation to his Linux Foundatio
 - [《Linux基金会企业指南》](https://www.linuxfoundation.org/resources/open-source-guides/)
 
 - [Linux Foundation Open Compliance Program](https://compliance.linuxfoundation.org/)---Resources to support organizations with open source compliance.
-- Linux基金会开源规范(<https://compliance.linuxfoundation.org/>)——组织开放源码合规支持资源
+- Linux基金会开源规范(https://compliance.linuxfoundation.org/)——组织开放源码合规支持资源
 
 - [TODO Group](http://todogroup.org/)---Open community of practitioners and organizations that collaborate on best practices, tools, and other ways to run successful open source programs.
 - [TODO工作组](http://todogroup.org/)——一个由从业人员和组织组成的开放社区，他们通过最佳实践、工具和其他方式进行协作，以成功运行开源程序。
@@ -1127,7 +1127,7 @@ The author would like to express his sincere appreciation to his Linux Foundatio
 
 The author apologizes in advance for any spelling mistakes or possible errors and is grateful to receive corrections and suggestions for improvements via [ibrahimatlinux.com/contact.html](http://www.ibrahimatlinux.com/contact.html)
 
-作者为任何拼写错误或其他可能存在的错误提前表示歉意，并对通过ibrahimatlinux.com/contact.html (<http://www.ibrahimatlinux.com/contact.html>)收到的更正和改进建议表示感谢。
+作者为任何拼写错误或其他可能存在的错误提前表示歉意，并对通过ibrahimatlinux.com/contact.html (http://www.ibrahimatlinux.com/contact.html)收到的更正和改进建议表示感谢。
 
 **About the author**
 

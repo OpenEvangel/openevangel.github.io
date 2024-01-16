@@ -7,10 +7,10 @@ title: 自由文档许可证
 第1.3版, 2008年11月3日
 
 Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation,
-Inc. <https://fsf.org/>
+Inc. https://fsf.org/
 
 版权所有(C) 2000, 2001, 2002, 2007, 2008 自由软件基金会
-<https://fsf.org/>
+https://fsf.org/
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
@@ -144,7 +144,7 @@ license document, but changing it is not allowed.
 
 ## 10. 本许可证的后续修订版
 
-自由软件基金会可能会不时发布GNU自由文档许可证的新修订版本。这些新版本在精神上与当前版本相似，但在解决新问题或事项的细节上可能有所不同。请参阅 <https://www.gnu.org/licenses/>。
+自由软件基金会可能会不时发布GNU自由文档许可证的新修订版本。这些新版本在精神上与当前版本相似，但在解决新问题或事项的细节上可能有所不同。请参阅 https://www.gnu.org/licenses/。
 
 许可证的每个版本都有一个不同的版本号。如果文档指定本许可证的特定编号版本“或任何更新版本”适用于它，你可以选择遵循该指定版本或已发布的任何更新版本的条款和条件（不作为草案）由自由软件基金会。如果文档未指定此许可证的版本号，你可以选择自由软件基金会曾经发布的任何版本（不是草稿）。如果文档指定代理人可以决定可以使用本许可证的哪些未来版本，则该代理人接受某个版本的公开声明将永久授权你为文档选择该版本。
 
@@ -182,6 +182,6 @@ MMC站点的运营商可以在2009年8月1日之前的任何时间在同一站�
 
 发布日期： 2023年1月23日
 
-地址：<https://github.com/zRich/gpl/blob/main/fdl/fdl1.3.pdf>
+地址：https://github.com/zRich/gpl/blob/main/fdl/fdl1.3.pdf
 
-如有修改建议欢迎发邮件或者到 <https://github.com/zRich/gpl> 讨论。
+如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
