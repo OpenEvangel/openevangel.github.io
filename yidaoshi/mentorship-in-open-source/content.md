@@ -655,13 +655,13 @@ These limiting factors have led to a disproportionate underrepresentation of men
 
 这些限制因素导致来自世界这些地区的受训者比例过低。76%的调查受访者表示他们住在亚太地区，而14%的人表示他们住在EMEA（欧洲、中东和非洲）。只有10%的人表示他们住在美洲。（请参阅人口统计部分。）
 
-[^1]: National Center for Education Statistics. 2022. Undergraduate Degree Fields. Condition of Education. U.S. Department of Education, Institute of Education Sciences. Retrieved 11/23/2022, from <https://nces.ed.gov/programs/coe/indicator/cta>.
+[^1]: National Center for Education Statistics. 2022. Undergraduate Degree Fields. Condition of Education. U.S. Department of Education, Institute of Education Sciences. Retrieved 11/23/2022, from (https://nces.ed.gov/programs/coe/indicator/cta).
 
-[^1]: 国家教育统计中心。2022. 本科学位领域。教育状况。美国教育部教育科学研究所。于2022年11月23日从 <https://nces.ed.gov/programs/coe/indicator/cta> 检索。
+[^1]: 国家教育统计中心。2022. 本科学位领域。教育状况。美国教育部教育科学研究所。于2022年11月23日从 (https://nces.ed.gov/programs/coe/indicator/cta) 检索。
 
-[^2]: U.S. Bureau of Labor Statistics. 2022. “Computer and Information Technology Occupations: Occupational Outlook Handbook”. Retrieved 11/23/2022, from <https://www.bls.gov/ooh/computer-and-information-technology/home.htm>.
+[^2]: U.S. Bureau of Labor Statistics. 2022. “Computer and Information Technology Occupations: Occupational Outlook Handbook”. Retrieved 11/23/2022, from (https://www.bls.gov/ooh/computer-and-information-technology/home.htm).
 
-[^2]: 美国劳工统计局。2022. “计算机和信息技术职业：职业展望手册”。于2022年11月23日从 <https://www.bls.gov/ooh/computer-and-information-technology/home.htm> 检索。
+[^2]: 美国劳工统计局。2022. “计算机和信息技术职业：职业展望手册”。于2022年11月23日从 https://www.bls.gov/ooh/computer-and-information-technology/home.htm 检索。
 
 ## Career benefits of mentorship programs
 

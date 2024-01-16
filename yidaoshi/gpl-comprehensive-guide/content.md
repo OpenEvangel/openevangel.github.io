@@ -31,7 +31,7 @@ Copyright &copy; 2008, 2014        Software Freedom Law Center.
 
 版权所有 &copy; 2008，2014软件自由法律中心。
 
-The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices [B][--E]) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
+The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices [B][--E]) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at (https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 版权持有者授予自由复制，修改，传播，适应和/或重新分发本作品（除附录B--E外），根据知识共享署名相同4.0国际许可协议的条款。该许可证的副本可在https://creativecommons.org/licenses/by-sa/4.0/legalcode找到。
 
@@ -43,9 +43,9 @@ As a public, collaborative project, this Guide is primarily composed of the many
 
 作为公共协作项目，本指南主要由通过其公共贡献过程接收到的许多贡献组成。请查看其Git日志以获取所有贡献的完整文档，附录A包含了一些本文所述材料的第三方作品列表。
 
-The most recent version is available online at <https://copyleft.org/guide/>. Patches are indeed welcome to this material. Sources can be found in the Git repository at <https://k.copyleft.org/guide/>.
+The most recent version is available online at (https://copyleft.org/guide/>. Patches are indeed welcome to this material. Sources can be found in the Git repository at (https://k.copyleft.org/guide/>.
 
-最新版本可在线获取https://copyleft.org/guide/。欢迎为此材料提供补丁。源代码可以在Git存储库https://k.copyleft.org/guide/中找到。
+最新版本可在线获取(https://copyleft.org/guide/)。欢迎为此材料提供补丁。源代码可以在Git存储库https://k.copyleft.org/guide/中找到。
 
 # PREFACE
 
@@ -114,9 +114,9 @@ Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or jus
 
 ### 1.1 自由软件的定义
 
-The Free Software Definition is set forth in full on FSF's website at <http://fsf.org/philosophy/free-sw.html>. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
+The Free Software Definition is set forth in full on FSF's website at http://fsf.org/philosophy/free-sw.html. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
 
-自由软件定义在FSF的网站 <http://fsf.org/philosophy/free-sw.html> 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最密切的部分。
+自由软件定义在FSF的网站 http://fsf.org/philosophy/free-sw.html 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最密切的部分。
 
 A particular user has software freedom with respect to a particular program if that user has the following freedoms:
 
@@ -147,9 +147,9 @@ Many people refer to software with these freedoms as "Open Source." Besides havi
 许多人将具有这些自由的软件称为“开源”。除了与那些将此类软件称为“自由软件” [^1] 的人有着不同的政治关注点之外，将软件称为“开源”的人通常关注的是一个次要问题。具体来说，用户访问程序的源代码是实现修改自由的先决条件。然而，重要的问题是在适用于该源代码的许可证中授予了哪些自由。
 
 [^1]: The political differences between the Free Software Movement and the Open Source Movement are documented on FSF's Web site at
-<http://www.fsf.org/licensing/essays/free-software-for-freedom.html>.
+(http://www.fsf.org/licensing/essays/free-software-for-freedom.html).
 
-[^1]: 自由软件运动和开源运动之间的政治分歧记录在FSF的网站上，网址为 <http://www.fsf.org/licensing/essays/free-software-for-freedom.html>.
+[^1]: 自由软件运动和开源运动之间的政治分歧记录在FSF的网站上，网址为 (http://www.fsf.org/licensing/essays/free-software-for-freedom.html).
 
 Software freedom is only complete when no restrictions are imposed on how these freedoms are exercised. Specifically, users and programmers can exercise these freedoms noncommercially or commercially. Licenses that grant these freedoms for noncommercial activities but prohibit them for commercial activities are considered non-free. The Open Source Initiative (*OSI* ) (the arbiter of what is considered "Open Source") also regards such licenses as inconsistent with its "Open Source Definition".
 
@@ -1175,7 +1175,7 @@ Under GPLv2 3(a), the source code provided must be the "corresponding source cod
 
 在GPLv2 3(a)下，提供的源代码必须是“对应的源代码”。在这里，“对应的”主要意味着提供的源代码必须是用于生成所分发的二进制文件的代码。该源代码还必须是“完整的”。GPLv2 3的倒数第二段详细解释了“完整”的含义。实质上，它是程序员需要实际使用源代码来生成收到的二进制文件所需的所有材料。需要完整的源代码，以便许可证持有人选择时，可以行使修改和重新分发更改的自由。如果没有完整的源代码，就不可能制作实际上是直接源自所收到版本的更改。
 
-[^5-3^]: As a matter of best practice, it's useful to assume that all software may eventually be distributed later, even if there no plans for distribution at this time. Too often, GPL violations occur because of a late distribution decision of software that was []{#_bookmark66 .anchor}otherwise never intended for distribution.
+[^5-3^]: As a matter of best practice, it's useful to assume that all software may eventually be distributed later, even if there no plans for distribution at this time. Too often, GPL violations occur because of a late distribution decision of software that was  otherwise never intended for distribution.
 
 [^5-3^]: 作为最佳实践，有用的做法是假定所有软件最终都可能被分发，即使现在没有分发计划。由于本来没有意图进行分发的软件最终作出了分发决定，因此往往会出现GPL违规行为。
 
@@ -1429,15 +1429,15 @@ Nevertheless, for purposes of argument, we will assume that for some reason the 
 
 尽管如此，为了论证的目的，我们将假设某种原因导致 GPLv2 对贡献者不可执行[^7-5^]，或者可撤销的不可撤销许可证[^7-6^]。在这种情况下，承诺诱导可能意味着贡献者仍然无法对下游用户执行其版权。
 
-[^7-3^]: While this is legally true, as a practical matter, a failure of "complete, corresponding source" (CCS) provisioning by an upstream could make it effectively impossible for a downstream party to engage in a commercial redistribution pursuant to []{#_bookmark78 .anchor}[GPLv2 3(a--b).](#gplv2-3-producing-binaries) ( [18.2] in the Compliance Guide portion of this tutorial discussed related details.)
+[^7-3^]: While this is legally true, as a practical matter, a failure of "complete, corresponding source" (CCS) provisioning by an upstream could make it effectively impossible for a downstream party to engage in a commercial redistribution pursuant to [GPLv2 3(a--b).](#gplv2-3-producing-binaries) ( [18.2] in the Compliance Guide portion of this tutorial discussed related details.)
 
 [^7-3^]: 虽然这在法律上是正确的，但实际上，上游方未能完全提供“完整、对应的源代码”(CCS)可能会使下游方在遵循GPLv2 3(a-b)（本教程中合规指南部分的18.2部分讨论了相关细节）的商业再分发方面变得实际上不可能。
 
-[^7-4^]: While nearly all attorneys and copyleft theorists are in agreement on this point, German copyleft legal expert [Till Jaeger](http://www.jbb.de/en/attorneys/till-jaeger/) vehemently disagrees. Jaeger's position is as follows: under German copyright law, a new copy of GPL'd software is a "fresh" license under GPL, and if compliance continues from that point further, the violator's permissions under copyright law are automatically restored, notwithstanding the strict termination provision in [GPLv2 4.](#gplv2-4-termination-on-violation) However, in practice, this issue is only salient with regard to [proprietary relicensing] business models, since other copyright holders typically formally restore distributions rights once the only remaining compliance issue is "you lost copyright permission due to GPLv2 4". Therefore, the heated debates, which have raged between Jaeger and almost everyone else in the copyleft community for nearly a decade, []{#_bookmark79 .anchor}regard an almost moot and wholly esoteric legal detail.
+[^7-4^]: While nearly all attorneys and copyleft theorists are in agreement on this point, German copyleft legal expert [Till Jaeger](http://www.jbb.de/en/attorneys/till-jaeger/) vehemently disagrees. Jaeger's position is as follows: under German copyright law, a new copy of GPL'd software is a "fresh" license under GPL, and if compliance continues from that point further, the violator's permissions under copyright law are automatically restored, notwithstanding the strict termination provision in [GPLv2 4.](#gplv2-4-termination-on-violation) However, in practice, this issue is only salient with regard to [proprietary relicensing] business models, since other copyright holders typically formally restore distributions rights once the only remaining compliance issue is "you lost copyright permission due to GPLv2 4". Therefore, the heated debates, which have raged between Jaeger and almost everyone else in the copyleft community for nearly a decade, regard an almost moot and wholly esoteric legal detail.
 
 [^7-4^]: 尽管几乎所有律师和共左派理论家都在这个观点上达成了一致，但德国共左派法律专家Till Jaeger强烈反对。Jaeger的观点如下：根据德国版权法，GPL软件的新副本是GPL下的“新”许可证，如果继续进行合规性，则侵权者根据版权法的许可将自动恢复，尽管在GPLv2 4。的严格终止规定下，这一观点在几乎所有共左派社区的Jaeger之间已经争论了将近十年的时间。然而，在实践中，这个问题只涉及专有重新许可业务模型，因为其他版权持有人通常会在唯一剩下的合规问题是“由于GPLv2 4而丧失版权许可”时正式恢复分发权利。因此，这些激烈的辩论几乎成为了一个不重要和完全偏僻的法律细节。
 
-[^7-5^]: For example, the argument has been made that there may be a failure of consideration on the part of the contributor. While *Jacobsen v. Katzer*, 535 F.3d 1373 (Fed. Cir. 2008) is accepted as holding that there is consideration received by the contributor in a FOSS license, the posture of the case was one where the contributor advocated for the theory, not against it. The author is not aware of any other decisions that have analyzed the question in any depth, so it perhaps could be challenged in []{#_bookmark80 .anchor}the right factual situation.
+[^7-5^]: For example, the argument has been made that there may be a failure of consideration on the part of the contributor. While *Jacobsen v. Katzer*, 535 F.3d 1373 (Fed. Cir. 2008) is accepted as holding that there is consideration received by the contributor in a FOSS license, the posture of the case was one where the contributor advocated for the theory, not against it. The author is not aware of any other decisions that have analyzed the question in any depth, so it perhaps could be challenged in the right factual situation.
 
 [^7-5^]: 例如，人们曾经提出过这样的论点，即贡献者可能存在对价不足的问题。尽管Jacobsen v. Katzer，535 F.3d 1373（Fed。Cir.2008）被认为是支持FOSS许可证中的贡献者接受了对价的理论，但该案的状态是贡献者支持该理论，而不是反对该理论。作者不知道是否有其他决定对这个问题进行了深入的分析，因此在适当的情况下，它可能会受到挑战。
 
@@ -1503,7 +1503,7 @@ Originally, this was designed as the title of this section suggests --- as a las
 
 最初，这是设计成本节标题所示的——作为确保自由得到维护的最后努力。然而，在现代，它给予了更多的意义。现在，由于GPL软件库如此庞大，想要成为GPL软件的分发者的专利持有人面临艰难的选择。他们必须在避免分发行使其专利教导的GPL软件和授予这些专利的免费，不可撤销，非独占许可之间做出选择。许多公司选择了后者。
 
-*Wathen Distillery Co.*, 10 Cal. 2d 442, 447, 74 P.2d 745, 747 (1937). The term nevertheless can be a term of indefinite length []{#_bookmark84 .anchor}where its continuing effect is tied to the conduct of the parties. *Id*.
+*Wathen Distillery Co.*, 10 Cal. 2d 442, 447, 74 P.2d 745, 747 (1937). The term nevertheless can be a term of indefinite length where its continuing effect is tied to the conduct of the parties. *Id*.
 
 Wathen Distillery Co.，10 Cal. 2d 442, 447, 74 P.2d 745, 747 (1937)。然而，这个术语可以是一个无限期限的术语，其持续影响与各方的行为有关。Id。
 
@@ -1572,7 +1572,7 @@ That said, there is admittedly some authority under USA law suggesting that cons
 
 尽管如此，美国法律中确实存在一些权威机构认为，通过大写字母可以确定显著性，并且当免责声明与周围条款具有相同字体时，显著性就不存在（见Stevenson v. TRW, Inc.，987 F.2d 288, 296（第5巡回法庭，1993年））。虽然GPLv3的起草者怀疑此类权威将适用于像GPL这样的版权许可证，但FSF仍然在GPL的所有版本中将保证和相关免责声明保留为全部大写字母。[^8-1^]
 
-[^8-1^]: One of the authors of this tutorial, Bradley M. Kuhn, has often suggested the aesthetically preferable compromise of a specifically designed "small caps" font, such as this one, as an alternative to WRITING IN ALL CAPS IN THE DEFAULT FONT (LIKE THIS), since the latter adds more ugliness than conspicuousness. Kuhn once engaged in reversion war with a lawyer who disagreed, but that lawyer never answered Kuhn's requests for case law that argues THIS IS INHERENTLY []{#_bookmark92 .anchor}MORE CONSPICUOUS Than this is.
+[^8-1^]: One of the authors of this tutorial, Bradley M. Kuhn, has often suggested the aesthetically preferable compromise of a specifically designed "small caps" font, such as this one, as an alternative to WRITING IN ALL CAPS IN THE DEFAULT FONT (LIKE THIS), since the latter adds more ugliness than conspicuousness. Kuhn once engaged in reversion war with a lawyer who disagreed, but that lawyer never answered Kuhn's requests for case law that argues THIS IS INHERENTLY MORE CONSPICUOUS Than this is.
 
 [^8-1^]: 本教程的其中一位作者 Bradley M. Kuhn 经常建议使用专门设计的“小型大写字体”（例如此处所示的字体）作为使用默认字体中的全部大写（如此处）的替代方案，因为后者比前者更加丑陋而不显眼。Kuhn 曾与一位不同意他观点的律师进行过反转战，但该律师从未回应 Kuhn 要求提供证明“这种方式本质上更加显眼”的案例法律。
 
@@ -1616,9 +1616,9 @@ The FSF ran a somewhat public process to develop GPLv3, and it was the first att
 
 FSF运行了一个公开的开发GPLv3的流程，这是首次尝试开发自由软件许可证的方法。最终，RMS是GPLv3的主要作者，但是他听取了各种个人甚至是营利性公司的反馈。然而，试图在事后理解GPLv3，有点像“就着消防栓喝水”的感觉。本章旨在向可能熟悉GPLv2，而未参与过GPLv3流程的新手解释GPLv3。
 
-Those who wish to drink from the firehose and take a diachronic approach to GPLv3 study by reading the step-by-step public drafting process of the GPLv3 (which occurred from Monday 16 January 2006 through Monday 19 November 2007) should visit <http://gplv3.fsf.org/>.
+Those who wish to drink from the firehose and take a diachronic approach to GPLv3 study by reading the step-by-step public drafting process of the GPLv3 (which occurred from Monday 16 January 2006 through Monday 19 November 2007) should visit http://gplv3.fsf.org/.
 
-那些希望通过阅读GPLv3起草过程（从2006年1月16日星期一到2007年11月19日星期一）对GPLv3研究采取历时方法的人应该访问<http://gplv3.fsf.org>。
+那些希望通过阅读GPLv3起草过程（从2006年1月16日星期一到2007年11月19日星期一）对GPLv3研究采取历时方法的人应该访问 http://gplv3.fsf.org 。
 
 ### Understanding GPLv3 As An Upgraded GPLv2
 
@@ -1912,7 +1912,7 @@ GPLv2's wording also referred to "the physical act of transferring." The intenti
 
 GPLv2 的措辞还提到了“传输的物理行为”。目的是将转让收费与向所有第三方征收许可费的尝试区分开来。然而，“物理”可能被解读为暗示“仅在物理介质中分发”。
 
-To address these two issues, GPLv3 says "price" in place of "fee," and removes the term "physical." GPLv3 *§*4 has also been revised from its corresponding section in GPLv2 in light of the GPLv3 *§*7 (see *§* [9.9.3](#gplv3-7-additional-permissions) in this tutorial for more). Specifically, a distributor of verbatim copies of the program's source code must obey any existing additional terms that apply to parts of the program pursuant to GPLv3 []{#_bookmark114 .anchor}*§*7. In addition, the distributor is required to keep intact all license notices, including notices of such additional terms.
+To address these two issues, GPLv3 says "price" in place of "fee," and removes the term "physical." GPLv3 *§*4 has also been revised from its corresponding section in GPLv2 in light of the GPLv3 *§*7 (see *§* [9.9.3](#gplv3-7-additional-permissions) in this tutorial for more). Specifically, a distributor of verbatim copies of the program's source code must obey any existing additional terms that apply to parts of the program pursuant to GPLv3 *§*7. In addition, the distributor is required to keep intact all license notices, including notices of such additional terms.
 
 为了解决这两个问题，GPLv3 用“价格”代替“费用”，并删除了“物理”一词。GPLv3 第4条也根据 GPLv3 第7条对 GPLv2 中的相应部分进行了修订（有关更多信息，请参见本教程的第 9.9.3 节）。具体来说，程序源代码的逐字副本的分发者必须遵守根据 GPLv3 适用于程序部分的任何现有附加条款。此外，经销商必须完整保留所有许可通知，包括此类附加条款的通知。
 
@@ -2060,7 +2060,7 @@ Magnuson-Moss 下的一个公认的解释原则是解决歧义以支持覆盖。
 
 [^9-9^]: 16 美国联邦法规 700.1(a)。许多解释 Magnuson-Moss 的法院判决是一致的； 参见，例如，Stroebner Motors, Inc. 诉 Automobili Lamborghini S.p.A.，459 F. Supp.2d 1028, 1033（D. Hawaii 2006）。
 
-[^9-10^]: *Tandy Corp. v. Marymac Industries, Inc.*, 213 U.S.P.Q. 702 (S.D. Tex. 1981). In this case, the court concluded that TRS-80 microcomputers were consumer products, where such computers were designed and advertised for a variety of users, []{#_bookmark126 .anchor}including small businesses and schools, and had only recently been promoted for use in the home.
+[^9-10^]: *Tandy Corp. v. Marymac Industries, Inc.*, 213 U.S.P.Q. 702 (S.D. Tex. 1981). In this case, the court concluded that TRS-80 microcomputers were consumer products, where such computers were designed and advertised for a variety of users, including small businesses and schools, and had only recently been promoted for use in the home.
 
 [^9-10^]: Tandy Corp. 诉 Marymac Industries, Inc.，213 U.S.P.Q. 702（S.D. Tex. 1981）。在本案中，法院得出结论认为 TRS-80 微型计算机是消费品，此类计算机是为各种用户设计和宣传的，包括小型企业和学校，并且最近才被推广用于 在家里使用。
 
@@ -2314,15 +2314,15 @@ Some details of the "essential patent claims" definition deserve special mention
 
 [^9-14^]: An implied patent license from the distributor, however, often arises. See [6]in this tutorial
 
-[^9-15^]: Cf., e.g., Apache License, version 2.0, section 1; Eclipse Public License, version 1.0, section 1; Mozilla Public License, v[]{#_bookmark138 .anchor}ersion 1.1, section 1.1.
+[^9-15^]: Cf., e.g., Apache License, version 2.0, section 1; Eclipse Public License, version 1.0, section 1; Mozilla Public License, version 1.1, section 1.1.
 
-[^9-16^]: This issue is typically handled in other software freedom licenses having patent licensing provisions by use of the unhelpful []{#_bookmark139 .anchor}term "licensable," which is either left undefined or is given an ambiguous definition.
+[^9-16^]: This issue is typically handled in other software freedom licenses having patent licensing provisions by use of the unhelpful term "licensable," which is either left undefined or is given an ambiguous definition.
 
 [^9-17^]: GPLv3 also provides an example in section 12 that makes this point clear.
 
 [^9-14^]: 但是，经常会出现来自分销商的默示专利许可。参见本教程中的 6
 
-[^9-15^]: Cf.，例如，Apache 许可证，版本 2.0，第 1 节； Eclipse 公共许可证，版本 1.0，第 1 节； Mozilla 公共许可证，v[]{#_bookmark138 .anchor}版本 1.1，第 1.1 节。
+[^9-15^]: Cf.，例如，Apache 许可证，版本 2.0，第 1 节； Eclipse 公共许可证，版本 1.0，第 1 节； Mozilla 公共许可证，版本 1.1，第 1.1 节。
 
 [^9-16^]: 该问题通常在其他软件自由许可中处理，该许可通过使用无用的术语“可授权”，该术语“可授权”，该术语要么不定义，要么给出了模棱两可的定义。
 
@@ -2372,7 +2372,7 @@ Admittedly, public disclosure of CCS is not necessarily required by other sectio
 
 诚然，CCS 的公开披露不一定是 GPL 的其他部分所要求的，并且 FSF 在起草 GPLv3 时并不一定希望强加一个通用的要求，即向所有人提供源代码，这从来都不是 GPL 的条件。然而，许多生产包含 copylefted 软件的产品的供应商，以及最有可能受到下游屏蔽条款影响的供应商，游说添加源代码可用性选项，因此它仍然存在。
 
-^18^[]{#_bookmark141 .anchor}However, "the work" should not be understood to be restricted to a particular mechanical affixation of, or medium for distributing, a program, where the same program might be provided in other forms or in other ways that may be captured by other patent claims held by the contributor.
+^18^ However, "the work" should not be understood to be restricted to a particular mechanical affixation of, or medium for distributing, a program, where the same program might be provided in other forms or in other ways that may be captured by other patent claims held by the contributor.
 
 Meanwhile, two specific alternatives to the source code availability option are also available. The dis- tributor may comply by disclaiming the patent license it has been granted for the conveyed work, or by arranging to extend the patent license to downstream recipients.[^9-19^] The GPL is intended to permit private distribution as well as public distribution, and the addition of these options ensures that this remains the case, even though it remains likely that distributors in this situation will usually choose the source code availability option.
 
@@ -2762,9 +2762,9 @@ You must give prominent notice with each copy of the work that the Library is us
 
 每份作品的副本中必须显著说明其中使用了该库，并且该库及其使用受到本许可证的覆盖。您必须提供本许可证的副本。如果作品在执行过程中显示版权声明，您必须在其中包括该库的版权声明，以及一个引用，指向本许可证的副本。
 
-^1^[]{#_bookmark155 .anchor}Policy motivations for LGPLv2.1 6(d) are unclear, but it presumably intended to prevent requiring duplicate deliveries in "whole distribution" situations.
+^1^ Policy motivations for LGPLv2.1 6(d) are unclear, but it presumably intended to prevent requiring duplicate deliveries in "whole distribution" situations.
 
-^1^[]{#_bookmark155 .anchor}LGPLv2.1 6(d) 的政策动机尚不清楚，但它可能旨在防止在“整个分发”情况下要求重复交付。
+^1^ LGPLv2.1 6(d) 的政策动机尚不清楚，但它可能旨在防止在“整个分发”情况下要求重复交付。
 
 This is not identical to the roughly parallel requirements of GPLv2 and GPLv3. Compliance requires slightly different measures with respect to the "credits" or "licenses" or "about" screens in interactive programs.
 
@@ -2969,9 +2969,9 @@ However, it sometimes is easier, quicker, and cheaper to simply improve an exist
 
 然而，有时候，与其从头开始，改进现有的GPL软件可能会更容易、更快捷、更便宜。为了换取这一惊人的好处，许可证要求修改者将工作的成果回馈给共同体，因为共同体在第一时间让这项工作变得更容易。这是一个合理的权衡和一种帮助建设更美好世界同时也获得利润的方式。
 
-Note that FSF does provide services to assist companies who need assistance in complying with the GPL. You can contact FSF's GPL Compliance Labs at *\<*<licensing@fsf.org>*\>*.
+Note that FSF does provide services to assist companies who need assistance in complying with the GPL. You can contact FSF's GPL Compliance Labs at *licensing@fsf.org>*.
 
-请注意，自由软件基金会(FSF)提供帮助企业遵守GPL的服务。您可以联系FSF的GPL合规实验室，电子邮件地址为*<licensing@fsf.org>*。
+请注意，自由软件基金会(FSF)提供帮助企业遵守GPL的服务。您可以联系FSF的GPL合规实验室，电子邮件地址为*licensing@fsf.org*。
 
 If you are particularly interested in matters of GPL compliance, we recommend the next two parts, which include both recommendations on good compliance and compliance case studies.
 
@@ -3267,11 +3267,11 @@ This section walks through the requirements (of both GPLv2 and GPLv3) that apply
 
 本节介绍了适用于以二进制形式（即可执行或目标代码）分发GPL程序时（这在嵌入式应用中很常见）的要求（适用于GPLv2和GPLv3）。因为二进制应用程序是从程序的原始源代码中派生出来的，因此你需要版权持有人的许可才能分发它。GPLv2的第3条和GPLv3的第6条包含了与GPL程序的二进制分发相关的许可和条件。[^15-3^]未能提供或提供CCS是导致合规争议的最大失败模式。
 
-GPL's binary distribution sections offer a choice of compliance methods, each of which we consider in turn. Each option refers to the "Corresponding Source" code for the binary distribution, which includes the source code from which the binary was produced. This abbreviated and simplified definition is sufficient for the binary distribution discussion in this section, but you may wish to refer back to this section after reading the thorough discussion of "Corresponding Source" that appears in []{#_bookmark188 .anchor}*§* [15.2.]
+GPL's binary distribution sections offer a choice of compliance methods, each of which we consider in turn. Each option refers to the "Corresponding Source" code for the binary distribution, which includes the source code from which the binary was produced. This abbreviated and simplified definition is sufficient for the binary distribution discussion in this section, but you may wish to refer back to this section after reading the thorough discussion of "Corresponding Source" that appears in *§* [15.2.]
 
 GPL的二进制分发部分提供了几种合规方法选择，我们依次考虑每种选项。每个选项都涉及二进制分发的“相应源代码”，其中包括生成二进制代码的源代码。这个缩写和简化的定义足以在本节的二进制分发讨论中使用，但是你可能希望在阅读了出现在§15.2中的“相应源代码”的详细讨论后再参考本节。
 
-[^15-1^]: Note that this chapter refers heavily to specific provisions and language in [GPLv2 3] and [GPLv3 6.] It may be helpful to []{#_bookmark189 .anchor}review [5.2](#gplv2-3-producing-binaries) and [9.9](#gplv3-6-non-source-and-corresponding-source) first, and then have a copy of each license open while reading this section.
+[^15-1^]: Note that this chapter refers heavily to specific provisions and language in [GPLv2 3] and [GPLv3 6.] It may be helpful to review [5.2](#gplv2-3-producing-binaries) and [9.9](#gplv3-6-non-source-and-corresponding-source) first, and then have a copy of each license open while reading this section.
 
 [^15-1^]: 注意，本章节大量涉及GPLv2 第3条和GPLv3 第6条中的特定条款和语言。在阅读本节之前，先回顾5.2和9.9，然后在阅读本节时同时查看每个许可证的内容会很有帮助。
 
@@ -3333,7 +3333,7 @@ The following is a suggested compliant offer for source under GPLv2 (and is also
 >
 >Please write "source for product *Y* " in the memo line of your payment.
 >
->You may also find a copy of the source at <http://www.example.com/sources/Y/>. This offer is valid to anyone in receipt of this information.
+>You may also find a copy of the source at http://www.example.com/sources/Y/. This offer is valid to anyone in receipt of this information.
 
 >此产品中包含根据GPL许可的受版权保护的软件。该许可证的副本已包含在本文档的第X页中。你可以通过发送5美元的汇票或支票到以下地址，获得我们提供的该产品最后一次装运后三年内的完整的对应源代码：
 >
@@ -3345,7 +3345,7 @@ The following is a suggested compliant offer for source under GPLv2 (and is also
 >
 >请在付款单的备忘录栏中写上“产品Y的源代码”。
 >
->你还可以在 <http://www.example.com/sources/Y/> 找到源代码的副本。此提供方案适用于所有收到此信息的人。
+>你还可以在 http://www.example.com/sources/Y/ 找到源代码的副本。此提供方案适用于所有收到此信息的人。
 
 There are a few important details about this offer. First, it requires a copying fee. GPLv2 permits "a charge no more than your cost of physically performing source distribution". This fee must be reasonable. If your cost of copying and mailing a CD is more than around \$10, you should perhaps find a cheaper CD stock and shipment method. It is simply not in your interest to try to overcharge the community. Abuse of this provision in order to make a for-profit enterprise of source code provision will likely trigger enforcement action.
 
@@ -3371,7 +3371,7 @@ The terms related to the offer for source are quite different if you distribute 
 
 与提供源代码相关的条款在 GPLv3 下有很大不同。根据 v3，你可以仅通过网络服务器提供源代码，只要它对一般公众可用并且从你的产品或相关备件的最后分发开始保持活动状态三年。因此，你可以通过仅通过互联网分发来满足你的履行义务。这使得“提供源代码”选项对仅适用于 v3 的分发来说不那么麻烦，为商业再分发者简化了合规性。但是，在切换到纯粹基于互联网的履行流程之前，你必须首先确认你实际上可以在 GPLv3 下分发所有软件。一些程序确实是根据“GPLv2，或任何以后版本”（通常缩写为“GPLv2-或更高版本”）许可的。这种许可给了你在 GPLv3 下重新分发的选择。然而，一些流行的程序仅根据 GPLv2 许可，而不是“或任何以后版本”（“GPLv2-only”）。你不能为后者的程序提供仅基于互联网的源代码请求履行。如果你确定整个产品中的所有 GPL 软件都允许升级到 GPLv3（或已经从 GPLv3 开始），那么你的源代码提供可能像这样简单：
 
-The software included in this product contains copyrighted software that is licensed under the GPLv3. A copy of that license is included in this document on page *X*. You may obtain the complete Corresponding Source code from us for a period of three years after our last shipment of this product and/or spare parts therefor, which will be no earlier than 2011-08-01, on our website at <http://www.example.com/sources/productnum/>.
+The software included in this product contains copyrighted software that is licensed under the GPLv3. A copy of that license is included in this document on page *X*. You may obtain the complete Corresponding Source code from us for a period of three years after our last shipment of this product and/or spare parts therefor, which will be no earlier than 2011-08-01, on our website at http://www.example.com/sources/productnum/.
 
 本产品中包含受 GPLv3 许可的版权软件。该许可证的副本在本文档的第 X 页中包含。你可以在我们的网站 http://www.example.com/sources/productnum/ 上在最后一次发货和/或备件发货之后三年的时间内获取完整的相应源代码。
 
@@ -3904,9 +3904,9 @@ Our central goal is not, in fact, to merely clear up a particular violation. In 
 
 ### 20.3 如何发现违规行为？
 
-Our enforcement of the GPL is not a fund-raising effort; in fact, FSF's GPL Compliance Lab runs at a loss (in other words, it is subsided by our donors). Our violation reports come from volunteers, who have encountered, in their business or personal life, a device or software product that appears to contain GPL'd software. These reports are almost always sent via email to *\<*<license-violation@fsf.org>*\>*.
+Our enforcement of the GPL is not a fund-raising effort; in fact, FSF's GPL Compliance Lab runs at a loss (in other words, it is subsided by our donors). Our violation reports come from volunteers, who have encountered, in their business or personal life, a device or software product that appears to contain GPL'd software. These reports are almost always sent via email to *license-violation@fsf.org>*.
 
-我们对 GPL 的执行不是筹款工作;事实上 FSF 的 GPL 合规性实验室亏本运行（换句话说，它是 由我们的捐助者补贴）。我们的违规报告来自志愿者， 在业务或个人生活中遇到设备或 似乎包含 GPL 软件的软件产品。这些报告 几乎总是通过电子邮件发送到 <license-violation@fsf.org>。
+我们对 GPL 的执行不是筹款工作;事实上 FSF 的 GPL 合规性实验室亏本运行（换句话说，它是 由我们的捐助者补贴）。我们的违规报告来自志愿者， 在业务或个人生活中遇到设备或 似乎包含 GPL 软件的软件产品。这些报告 几乎总是通过电子邮件发送到 *license-violation@fsf.org*。
 
 Our first order of business, upon receiving such a report, is to seek independent confirmation. When possible, we get a copy of the software product. For example, if it is an offering that is downloadable from a Web site, we download it and investigate ourselves. When it is not possible for us to actually get a copy of the software, we ask the reporter to go through the same process we would use in examining the software.
 
@@ -3981,7 +3981,7 @@ The process for copyleft compliance investigation, when properly conducted, dete
 
 如果正确进行，copyleft 合规调查的过程将确定倾向于行使 copyleft 许可下权利的用户是否能够成功实现他们的尝试。因此，在每个阶段，调查人员都会寻求采取合理的技术知识，通常是在获取和使用 copyleft 覆盖产品的普通过程中普通用户会采取的行动。因此，调查人员通常会在开放市场上购买设备，以验证其中 copylefted 软件的分发是否符合二进制分发要求（例如 5.2 和 9.9 中讨论的那些要求）。
 
-[^21-1^]: [RYF is a campaign by FSF to certify products that truly meet the principles of software freedom.](http://www.fsf.org/resources/hw/endorsement/respects-your-freedom) Products must meet []{#_bookmark228 .anchor}[strict standards for RYF certification,](http://www.fsf.org/resources/hw/endorsement/criteria) and among them is a pristine example of CCS.
+[^21-1^]: [RYF is a campaign by FSF to certify products that truly meet the principles of software freedom.](http://www.fsf.org/resources/hw/endorsement/respects-your-freedom) Products must meet [strict standards for RYF certification,](http://www.fsf.org/resources/hw/endorsement/criteria) and among them is a pristine example of CCS.
 
 [^21-1^]: RYF 是 FSF 的一项运动，旨在认证真正符合软件自由原则的产品。产品必须符合 RYF 认证的严格标准，其中包括 CCS 的一个纯净示例。具体的 RYF 认证标准可以在 http://www.fsf.org/resources/hw/endorsement/criteria 上查看。
 
@@ -4157,7 +4157,7 @@ The [full log of the build](https://k.copyleft.org/guide/files/master/enforcemen
 
 ### 21.4 根文件系统和内核安装
 
-The investigator next tested installation of the firmware. In particular, the investigator connected the TPE- NWIFIROUTER to a local network, and visited <http://192.168.10.1/>, logged in, and chose the option sequence: "System Backup / Flash Firmware".
+The investigator next tested installation of the firmware. In particular, the investigator connected the TPE- NWIFIROUTER to a local network, and visited http://192.168.10.1/, logged in, and chose the option sequence: "System Backup / Flash Firmware".
 
 接下来，调查人员测试了固件的安装。特别地，调查人员将 TPE-NWIFIROUTER 连接到本地网络，并访问 http://192.168.10.1/，登录并选择选项序列："System Backup / Flash Firmware"。
 
@@ -4294,7 +4294,7 @@ Next, to ensure the CCS did indeed correspond to the firmware original installed
 
 1. Extract the filesystem from the image we built by running > [find-firmware.pl](https://k.copyleft.org/gpl-compliance-scripts/files/master/find-firmware.pl) on "bin/ar71xx/librecmc- ar71xx-generic-tl-wr841n-v8-squashfs-factory.bin" and then running [bat-extratools'](http://www.binaryanalysis.org/en/content/show/download) "squashfs4.2/squashfs- tools/bat-unsquashfs42" on the resulting morx0.squash, using the filesystem in the new squashfs-root directory for comparison.
 
-2. Login to the router's web interface (at <http://192.168.10.1/>) from  a computer connected to the router.
+2. Login to the router's web interface (at http://192.168.10.1/) from  a computer connected to the router.
 
 3. Set a password using the provided link at the top (since the router's UI warns that no password is set and asks the user to change it).
 
@@ -4568,10 +4568,10 @@ regarding source releases would not occur in the future
 
 - Bracken的律师将为其工程师举办一场关于正确遵循GPL的内部研讨会，以帮助确保此类关于源代码发布的疏忽在未来不会再发生。
 
-^1^[]{#_bookmark246 .anchor}Slashdot is a popular news and discussion
+^1^ Slashdot is a popular news and discussion
 site for technical readers.
 
-^1^[]{#_bookmark246 .anchor}Slashdot是一个受技术读者欢迎的新闻和讨论平台。
+^1^ Slashdot是一个受技术读者欢迎的新闻和讨论平台。
 
 Bracken would resume distribution of the product only after FSF
 formally restored Bracken's distri- bution rights
@@ -4949,9 +4949,9 @@ This is an unofficial translation of the GNU General Public License into Chinese
 
 本译文是GNU通用公共许可证的一份非官方中文翻译，并非自由软件基金会所发表，不适用于使用GNU通用公共许可证发布的软件的法律声明——只有GNU通用公共许可证英文原版才具有法律效力。不过我希望本翻译能够帮助中文读者更好地理解GNU通用公共许可证。
 
-You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
+You may publish this translation, modified or unmodified, only under the terms at https://www.gnu.org/licenses/translations.html.
 
-仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
+仅在遵循 https://www.gnu.org/licenses/translations.html 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
 
 ## 序言
 
@@ -5089,9 +5089,9 @@ This is an unofficial translation of the GNU General Public License into Chinese
 
 本译文是GNU通用公共许可证的一份非官方中文翻译，并非自由软件基金会所发表，不适用于使用GNU通用公共许可证发布的软件的法律声明——只有GNU通用公共许可证英文原版才具有法律效力。不过我希望本翻译能够帮助中文读者更好地理解GNU通用公共许可证。
 
-You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
+You may publish this translation, modified or unmodified, only under the terms at https://www.gnu.org/licenses/translations.html.
 
-仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
+仅在遵循 https://www.gnu.org/licenses/translations.html 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
 
 ## 序言
 
@@ -5215,23 +5215,23 @@ a）根据上述第1条和第2条要求，附上完整的、机器可读的源�
 
 - - -
 
-翻译：赵振华 <zhao.zhenhua@gmail.com>
+翻译：赵振华 zhao.zhenhua@gmail.com
 
 发布日期：2022年12月28日
 
-地址：<https://github.com/zRich/gpl/blob/main/gplv2/gplv2.pdf>
+地址：https://github.com/zRich/gpl/blob/main/gplv2/gplv2.pdf
 
-如有修改建议欢迎发邮件或者到<https://github.com/zRich/gpl>讨论。
+如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
 
 参考：
 
-[简体中文译本] <https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html>
+[简体中文译本] https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html
 
 ## APPENDIX D GNU通用公共许可证
 
 第3版，2007年6月29日
 
-版权所有 (C) 2007年 自由软件基金会 <https://fsf.org/>。
+版权所有 (C) 2007年 自由软件基金会 https://fsf.org/。
 
 任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
@@ -5455,30 +5455,30 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
 为此，最安全、最有效的办法是将如下的声明附在每个文件开头，以明确传达免责声明。每个文件应当最少包含一个“版权声明”和一个本许可证的完整声明。
 
-    <用一行标明程序的名称和作用。 >
+    \<用一行标明程序的名称和作用。 \>
 
-    版权所有 (C) <年份>  <作者姓名>
+    版权所有 (C) \<年份\>  \<作者姓名\>
 
     本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第3版或者后续版本（具体随你）。
 
     我们希望本程序有用，但是不提供任何保证，甚至不保证它的经济价值或者适合特定目的。具体细节参加GNU通过公共许可证。
 
-    你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅<https://www.gnu.org/licenses/>。
+    你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅 https://www.gnu.org/licenses/ 。
 
 同时提供你的电子邮件或者纸质邮件地址。
 
 如果本程序是交互的，使其在交互模式启动前输出如下的简短声明：
 
-    <程序> 版权所有 (C) <年份>  <作者姓名>
+    \<程序\> 版权所有 (C) \<年份\>  \<作者姓名\>
 
     本程序不提供任何品质保证，输入“show w”查看详情。
     本软件是自由软件，欢迎你根据许可条件再分发，输入“show c”查看详情。
 
 假设的命令`show w` 和 `show c` 用于显示通用公共许可证相应的内容。当然，你也可以使用`show w` 和 `show c` 之外的其他命令，对于图形界面程序，你可以使用“关于”对话框。
 
-如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看  <https://www.gnu.org/licenses/>。
+如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看  https://www.gnu.org/licenses/。
 
-本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证，但是首先，请阅读 <https://www.gnu.org/licenses/why-not-lgpl.html>。
+本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证，但是首先，请阅读 https://www.gnu.org/licenses/why-not-lgpl.html 。
 
 ## APPENDIX E: GNU AFFERO GENERAL PUBLIC LICENSE
 
@@ -5488,9 +5488,9 @@ Version 3, 19 November 2007
 
 第3版, 2017年11月19日
 
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
 
-版权所有 (C) 2007年 自由软件基金会 <https://fsf.org/>。
+版权所有 (C) 2007年 自由软件基金会 https://fsf.org/。
 
 任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
@@ -6336,11 +6336,11 @@ the &copy; line and a pointer to where the full notice is found.
 
 < one line to give the program\'s name and a brief idea of what it does. >
 
-    <用一行标明程序的名称和作用。 >
+    \<用一行标明程序的名称和作用。 \>
 
-    Copyright (C) <textyear>  <name of author>
+    Copyright (C) \<textyear\>  \<name of author\>
 
-    版权所有 (C) <年份>  <作者姓名>
+    版权所有 (C) \<年份\>  \<作者姓名\>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
@@ -6357,8 +6357,8 @@ GNU Affero General Public License for more details.
 我们希望本程序有用，但是不提供任何保证，甚至不保证它的经济价值或者适合特定目的。具体细节参加GNU通过公共许可证。
 
 You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>..
-你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅<https://www.gnu.org/licenses/>。
+along with this program.  If not, see  https://www.gnu.org/licenses/ .
+你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅 https://www.gnu.org/licenses/。
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -6378,6 +6378,6 @@ specific requirements.
 You should also get your employer (if you work as a programmer) or
 school, if any, to sign a ``copyright disclaimer`` for the program, if
 necessary.  For more information on this, and how to apply and follow
-the GNU AGPL, see \texttt{<https://www.gnu.org/licenses/>}.
+the GNU AGPL, see https://www.gnu.org/licenses.
 
-如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看 <https://www.gnu.org/licenses/>。
+如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看 https://www.gnu.org/licenses/。

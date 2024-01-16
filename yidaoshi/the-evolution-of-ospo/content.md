@@ -612,7 +612,7 @@ Peters 于 2018 年启动了 OSPO 之前的工作，并于 2020 年启动了正�
 [^1]: Stormy Peters, Zoom interview with author, Nov. 19, 2021
 
 [^2]: "2021 Open Source Security and Risk Analysis Report," Synopsis Inc., May 14, 2021, p. 6.
-    <https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html>, accessed Jan. 4, 2022.
+    (https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), accessed Jan. 4, 2022.
 
 [^3]: Dirk Riehle（教授，OSS，埃尔兰根-纽伦堡弗里德里希-亚历山大大学），Zoom 采访作者，2021 年 9 月 9 日。
 
@@ -642,7 +642,7 @@ Peters 于 2018 年启动了 OSPO 之前的工作，并于 2020 年启动了正�
 
 **TODO**
 
-TODO 小组是一个由70多个组织组成的开放团体，他们拥有多年运行开源项目的经验，希望就实践、工具和其他方式进行协作，以运行成功和有效的开源项目和计划。这是一个分享经验、开发最佳实践和指导以及开发通用工具以改善全球跨部门OSPO采用和教育的地方。在此处可以发现有关所有正在进行的 TODO 倡议的更多信息，并查看OSPO全景图：<https://landscape.todogroup.org>
+TODO 小组是一个由70多个组织组成的开放团体，他们拥有多年运行开源项目的经验，希望就实践、工具和其他方式进行协作，以运行成功和有效的开源项目和计划。这是一个分享经验、开发最佳实践和指导以及开发通用工具以改善全球跨部门OSPO采用和教育的地方。在此处可以发现有关所有正在进行的 TODO 倡议的更多信息，并查看OSPO全景图：https://landscape.todogroup.org
 
 **The Linux Foundation Research**
 
