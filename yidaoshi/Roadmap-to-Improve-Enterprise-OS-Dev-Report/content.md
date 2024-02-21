@@ -3,8 +3,19 @@ title: 提升企业开源开发有效性和影响力的路线图
 tags: [译道师, OSPO]
 authors: [zRich, nodeyang, haowdev, coolzhouly, addozhang, arnuojo, winterpi]
 ---
+<!-- 导入 image1 和 figure1-figure8 -->
 
-![](./images/image1.png)
+import image1 from './images/image1.png';
+import figure1 from './images/figure1.png';
+import figure2 from './images/figure2.png';
+import figure3 from './images/figure3.png';
+import figure4 from './images/figure4.png';
+import figure5 from './images/figure5.png';
+import figure6 from './images/figure6.png';
+import figure7 from './images/figure7.png';
+import figure8 from './images/figure8.png';
+
+<img src={image1} alt="Cover Picture" style={{width: 520, height: 400}} />
 
 提升企业开源开发有效性和影响力的路线图
 
@@ -236,7 +247,7 @@ leadership role.
 
 **图1**
 
-![FIGURE 1](./images/figure1.png)
+<img src={figure1} alt="Figure 1" style={{width: 584, height: 200}} />
 
 ###  OPEN SOURCE STRATEGIC IMPACT
 ### 开源战略影响
@@ -316,7 +327,7 @@ grow their footprint in open source projects.
 
 本报告涵盖了企业可以采用的几种做法，以帮助扩大他们在开源项目中的足迹。
 
-![FIGURE 2](./images/figure2.png)
+<img src={figure2} alt="Figure 2" style={{width: 612, height: 200}} />
 
 FIGURE 2
 
@@ -386,7 +397,7 @@ before an organization realizes what just happened.
 产品团队利用开源开发人员的影响力，试图抢夺开源开发人员的时间、让其尽可能多地参与产品开发，这也很常见。
 如果发生这种情况，许多开源开发人员会直奔门口离开，去寻求容许他们在上游项目上工作的新机会，此时这个组织可能还未意识到发生了什么。
 
-![FIGURE 3](./images/figure3.png)
+<img src={figure3} alt="Figure 3" style={{width: 512, height: 200}} />
 
 **FIGURE 3**
 
@@ -698,7 +709,7 @@ multiple product domains.
 
 内源是开源方法论在组织内部开发项目的实际应用。其目的是在企业内部孵化出与开源社区一样的能力，以此来促进跨职能并且涉及多产品领域之间员工与员工之间的协作。
 
-![FIGURE 4](./images/figure4.png)
+<img src={figure4} alt="Figure 4" style={{width: 518, height: 400}} />
 
 **FIGURE 4**
 
@@ -875,7 +886,7 @@ delivering the necessary code upstream, reducing this technical debt.
 
 开源团队可以转变为专注于向上游交付必要代码，成为产品团队的合作伙伴，从而减少这种技术债务。
 
-![FIGURE 5](./images/figure5.png)
+<img src={figure5} alt="Figure 5" style={{width: 508, height: 200}} />
 
 **FIGURE 5**
 
@@ -969,7 +980,7 @@ success through the use of these strategies.
 展内部开源专业技能大有裨益。您可以利用这些专业知识来改进您的产品和服务，并降
 低代码维护成本。许多组织通过使用这些策略取得了相当大的成功。
 
-![FIGURE 6](./images/figure6.png)
+<img src={figure6} alt="Figure 6" style={{width: 508}} />
 
 **FIGURE 6**
 **图6**
@@ -1004,7 +1015,8 @@ policy and a lightweight process and access to legal support. Provide
 training on open source development models and best practices.
 - 使企业的开发人员能够通过政策和轻量级的流程参与开源项目，并获得法律支持。提供关于开源开发模式和最佳实践的培训。
 
-![FIGURE 7](./images/figure7.png)
+<img src={figure7} alt="Figure 7" style={{width: 400}} />
+
 FIGURE 7
 
 图7 
@@ -1044,7 +1056,7 @@ within your organization? And how can you get ready for the next phase
 - 10. Identify key open source projects, and start contributing to them.
 - 10. 识别关键的开源项目，并开始为它们做贡献。
 
-![FIGURE 8](./images/figure8.png)
+<img src={figure8} alt="Figure 8" style={{width: 500}} />
 **FIGURE 8**
 
 **图8**
