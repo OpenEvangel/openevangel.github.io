@@ -211,12 +211,11 @@ and continues to grow as organizations realize the value of consuming and contri
 此外，随着组织越来越多地发现，开源专有技术可以创造新的价值来源和更强大的产品生态体系，公司（也称为企业）参与的性质也在不断演变。
 
 Enterprise open source development has challenges, which we discussed
-in detail in "[[A Deep Dive into Open Source
-Program]](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)
-[[Offices: Structure, Roles, Responsibilities, and
-Challenges]](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)."
+in detail in "[A Deep Dive into Open Source
+Program Offices: Structure, Roles, Responsibilities, and
+Challenges](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)."
 
-企业开源开发存在挑战，我们在 “[[深入了解开源程序]](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)” 和 “[[办公室：结构、角色、职责和挑战]](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)” 有详细的讨论。
+企业开源开发存在挑战，我们在 “[深入了解开源程序办公室：结构、角色、职责和挑战](https://www.linuxfoundation.org/research/a-deep-dive-into-open-source-program-offices)” 有详细的讨论。
 
 The enterprise open source journey is challenging (**FIGURE 2**), and
 an organization needs to address this to build its open source
@@ -565,13 +564,11 @@ Sample training courses include:
 
 The Linux Foundation offers several technical training courses
 specific to open source technologies and several
-[[nontechnical]](https://training.linuxfoundation.org/full-catalog)
-[[courses]](https://training.linuxfoundation.org/full-catalog),
+[nontechnical courses](https://training.linuxfoundation.org/full-catalog),
 such as this free online open source compliance training for
 developers.
 
-Linux基金会提供了一些针对开放源码的技术培训课程和非技术课程，例如上述面向开发人员的开源合规免费在线课程[[nontechnical]](https://training.linuxfoundation.org/full-catalog)
-[[courses]](https://training.linuxfoundation.org/full-catalog)。
+Linux基金会提供了一些针对开放源码的技术培训课程和非技术课程，例如上述面向开发人员的开源合规免费在线课程[nontechnical courses](https://training.linuxfoundation.org/full-catalog)。
 
 #  Participate in and host open source events
 #  参与并主持开源活动
@@ -646,7 +643,7 @@ project. In addition, these metrics provide a much better idea of your
 strengths and weaknesses and can help inform your overall development
 strategy.
 
-例如，我们可以利用这些参数，与Kernel生态系统中的其他组织进行性能方面的比较。这种方法可以帮助我们更好地了解项目开发人员的整体生态系统。还可以更好地了解自身的优势和不足，从而影响整体开发策略。
+例如，我们可以利用这些参数，与Kernel生态系统中的其他组织进行性能方面的比较。这种方法可以帮助我们更好地了解项目开发人员的整体生态系统。还可以更好地了解自身的优势和不足，从而影响整体开发战略。
 
 # Identify focus areas with a broad impact
 # 确定具有广泛影响的重点领域
@@ -978,7 +975,7 @@ success through the use of these strategies.
 
 希望本文能使提升您的企业开源实践的任务变得更加可控。遵循这些推荐的实践将对发
 展内部开源专业技能大有裨益。您可以利用这些专业知识来改进您的产品和服务，并降
-低代码维护成本。许多组织通过使用这些策略取得了相当大的成功。
+低代码维护成本。许多组织通过使用这些战略取得了相当大的成功。
 
 <img src={figure6} alt="Figure 6" style={{width: 508}} />
 
@@ -999,7 +996,7 @@ critical Cs:
 - Establish internal infrastructure to enable proper practices for open
 source software consumption: policy, process, checklists, and
 training.
-- 建立内部基础设施，以支持开源软件使用的正确做法：策略、流程、检查表和培训。
+- 建立内部基础设施，以支持开源软件使用的正确做法：政策、流程、检查表和培训。
   
 - **Compliance**
 - **合规**
@@ -1135,8 +1132,7 @@ improvements.
 # Linux Foundation resources
 # Linux基金会资源
 
-• E-book: A Deep Dive into Open Source Program Offices:
-Structure, Roles, Responsibilities, and Challenges
+• E-book: A Deep Dive into Open Source Program Offices: Structure, Roles, Responsibilities, and Challenges
 • E-book: A Guide to Enterprise Open Source
 • E-book: Open Source Compliance in the Enterprise
 • E-book: Open Source Audits in Merger and Acquisition
@@ -1149,27 +1145,25 @@ Enterprise Guides
 • Linux Foundation Training & Certification
 • Linux Foundation Events
 
-- **电子书：** [[深入理解开源项目办公室]](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
-    [[结构、角色、责任和挑战]](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
+- **电子书：** [深入理解开源项目办公室：结构、角色、责任和挑战](https://www.linuxfoundation.org/tools/a-deep-dive-into-open-source-program-offices/)
 
-- **电子书：** [[企业开源指南]](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
+- **电子书：** [企业开源指南](https://linuxfoundation.org/tools/guide-to-enterprise-open-source/)
 
-- **电子书：** [[企业中的开源合规性]](https://www.linuxfoundation.org/blog/blog/an-introduction-to-open-source-compliance-in-the-enterprise)
+- **电子书：** [企业中的开源合规性](https://www.linuxfoundation.org/blog/blog/an-introduction-to-open-source-compliance-in-the-enterprise)
 
-- **电子书：** [[并购中的开源审计]](https://www.linuxfoundation.org/resources/publications/assessment-of-open-source-practices-as-part-of-due-diligence-in-merger-and-acquisition-transactions)
-    [[交易]](https://www.linuxfoundation.org/resources/publications/assessment-of-open-source-practices-as-part-of-due-diligence-in-merger-and-acquisition-transactions)
+- **电子书：** [并购中的开源审计交易](https://www.linuxfoundation.org/resources/publications/assessment-of-open-source-practices-as-part-of-due-diligence-in-merger-and-acquisition-transactions)
 
-- [[Linux基金会企业开源最佳实践]](https://www.linuxfoundation.org/resources/open-source-guides/)
+- [Linux基金会企业开源最佳实践](https://www.linuxfoundation.org/resources/open-source-guides/)
 
-- [[Linux基金会开源合规计划]](https://compliance.linuxfoundation.org/)
+- [Linux基金会开源合规计划](https://compliance.linuxfoundation.org/)
 
-- [[TODO工作组]](http://todogroup.org/)
+- [TODO Group](http://todogroup.org/)
 
-- [[软件包数据交换SPDX]®](https://spdx.dev/)
+- [软件包数据交换SPDX]®(https://spdx.dev/)
 
-- [[Linux基金会培训&认证]](https://training.linuxfoundation.org/)
+- [Linux基金会培训&认证](https://training.linuxfoundation.org/)
 
-- [[Linux基金会事件活动]](https://events.linuxfoundation.org/)
+- [Linux基金会事件活动](https://events.linuxfoundation.org/)
 
 [twitter.com/linuxfoundation](https://twitter.com/linuxfoundation)
 [facebook.com/TheLinuxFoundation]
