@@ -113,3 +113,6 @@ build
 package-lock.json
 yarn.lock
 yidaoshi/practical-gpl-compliance
+
+# 所有目录中，名字为 .DS_Store 的文件都会被忽略：
+.DS_Store

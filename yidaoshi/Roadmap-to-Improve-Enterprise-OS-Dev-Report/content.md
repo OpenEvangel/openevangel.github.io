@@ -85,7 +85,7 @@ About the author.................................................... 18
 目录
 ========
 
-[**序言**](#序言)
+[**序言 3**](#序言)
 
 [**介绍 5**](#介绍)
 
@@ -111,21 +111,21 @@ About the author.................................................... 18
 
 [**建议和经验教训 12**](#建议和经验教训)
 
-[保持耐心 12](#recommendations-and-lessons-learned)
+[**保持耐心 12**](#recommendations-and-lessons-learned)
 
-[拥抱灵活的 IT 基础设施 12](#recommendations-and-lessons-learned)
+[**拥抱灵活的 IT 基础设施 12**](#recommendations-and-lessons-learned)
 
-[采用适当的成功指标 12](#recommendations-and-lessons-learned)
+[**采用适当的成功指标 12**](#recommendations-and-lessons-learned)
 
-[使用轻量级审批流程 12](#recommendations-and-lessons-learned)
+[**使用轻量级审批流程 12**](#recommendations-and-lessons-learned)
 
-[分享资讯 12](#recommendations-and-lessons-learned)
+[**分享资讯 12**](#recommendations-and-lessons-learned)
 
-[做出战略贡献 13](#make-strategic-contributions)
+[**做出战略贡献 13**](#make-strategic-contributions)
 
-[与产品团队合作 13](#make-strategic-contributions)
+[**与产品团队合作 13**](#make-strategic-contributions)
 
-[培养开源人才 14](#grow-open-source-talent)
+[**培养开源人才 14**](#grow-open-source-talent)
 
 [**总结 15**](#总结)
 
