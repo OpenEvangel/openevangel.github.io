@@ -31,21 +31,21 @@ Copyright &copy; 2008, 2014        Software Freedom Law Center.
 
 版权所有 &copy; 2008，2014软件自由法律中心。
 
-The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices [B][--E]) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at (https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+The copyright holders grant the freedom to copy, modify, convey, adapt, and/or redistribute this work (except Appendices `[B][--E]`) under the terms of the Creative Commons Attribution Share Alike 4.0 International License. A copy of that license is available at [(https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-版权持有者授予自由复制，修改，传播，适应和/或重新分发本作品（除附录B--E外），根据知识共享署名相同4.0国际许可协议的条款。该许可证的副本可在https://creativecommons.org/licenses/by-sa/4.0/legalcode找到。
+版权持有者授予自由复制，修改，传播，适应和/或重新分发本作品（除附录B--E外），根据知识共享署名相同4.0国际许可协议的条款。该许可证的副本可在 [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 找到。
 
 Appendices [B--E] include copies of the texts of various licenses published by the FSF, and they are all licensed under the license, "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.". However, those who seek to make modified versions of those licenses should note the [explanation given in the GPL FAQ.](https://www.gnu.org/licenses/gpl-faq.html#ModifyGPL)
 
 附录B--E包括由FSF发表的各种许可证的文本副本，它们都在许可证下许可，“每个人都被允许复制和分发本许可证文件的逐字副本，但不允许更改。”但是，那些试图制作修改版本的许可证的人应注意GPL FAQ中给出的解释。
 
-As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog/master/) for full documentation of all contributions, and Appendix [A] contains a list of third-party works from which some material herein was adapted.
+As a public, collaborative project, this Guide is primarily composed of the many contributions received via its [public contribution process.](https://k.copyleft.org/guide/files/master/CONTRIBUTING.md) Please [review its Git logs](https://k.copyleft.org/guide/changelog/master/) for full documentation of all contributions, and Appendix `[A]` contains a list of third-party works from which some material herein was adapted.
 
 作为公共协作项目，本指南主要由通过其公共贡献过程接收到的许多贡献组成。请查看其Git日志以获取所有贡献的完整文档，附录A包含了一些本文所述材料的第三方作品列表。
 
-The most recent version is available online at (https://copyleft.org/guide/>. Patches are indeed welcome to this material. Sources can be found in the Git repository at (https://k.copyleft.org/guide/>.
+The most recent version is available online at [https://copyleft.org/guide/](https://copyleft.org/guide/). Patches are indeed welcome to this material. Sources can be found in the Git repository at [https://k.copyleft.org/guide/](https://k.copyleft.org/guide/).
 
-最新版本可在线获取(https://copyleft.org/guide/)。欢迎为此材料提供补丁。源代码可以在Git存储库https://k.copyleft.org/guide/中找到。
+最新版本可在线获取[https://copyleft.org/guide/](https://copyleft.org/guide/)。欢迎为此材料提供补丁。源代码可以在Git存储库 [https://k.copyleft.org/guide/](https://k.copyleft.org/guide/) 中找到。
 
 # PREFACE
 
@@ -114,9 +114,9 @@ Study of the GNU General Public License (herein, abbreviated as *GNU GPL* or jus
 
 ### 1.1 自由软件的定义
 
-The Free Software Definition is set forth in full on FSF's website at http://fsf.org/philosophy/free-sw.html. This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
+The Free Software Definition is set forth in full on FSF's website at [http://fsf.org/philosophy/free-sw.html](http://fsf.org/philosophy/free-sw.html). This section presents an abbreviated version that will focus on the parts that are most pertinent to the GPL.
 
-自由软件定义在FSF的网站 http://fsf.org/philosophy/free-sw.html 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最密切的部分。
+自由软件定义在FSF的网站 [http://fsf.org/philosophy/free-sw.html](http://fsf.org/philosophy/free-sw.html) 上有完整的阐述。 本节提供一个缩略版，将重点放在与GPL最密切的部分。
 
 A particular user has software freedom with respect to a particular program if that user has the following freedoms:
 
@@ -146,10 +146,9 @@ Many people refer to software with these freedoms as "Open Source." Besides havi
 
 许多人将具有这些自由的软件称为“开源”。除了与那些将此类软件称为“自由软件” [^1] 的人有着不同的政治关注点之外，将软件称为“开源”的人通常关注的是一个次要问题。具体来说，用户访问程序的源代码是实现修改自由的先决条件。然而，重要的问题是在适用于该源代码的许可证中授予了哪些自由。
 
-[^1]: The political differences between the Free Software Movement and the Open Source Movement are documented on FSF's Web site at
-(http://www.fsf.org/licensing/essays/free-software-for-freedom.html).
+[^1]: The political differences between the Free Software Movement and the Open Source Movement are documented on FSF's Web site at[http://www.fsf.org/licensing/essays/free-software-for-freedom.html](http://www.fsf.org/licensing/essays/free-software-for-freedom.html).
 
-[^1]: 自由软件运动和开源运动之间的政治分歧记录在FSF的网站上，网址为 (http://www.fsf.org/licensing/essays/free-software-for-freedom.html).
+[^1]: 自由软件运动和开源运动之间的政治分歧记录在FSF的网站上，网址为 [http://www.fsf.org/licensing/essays/free-software-for-freedom.html](http://www.fsf.org/licensing/essays/free-software-for-freedom.html).
 
 Software freedom is only complete when no restrictions are imposed on how these freedoms are exercised. Specifically, users and programmers can exercise these freedoms noncommercially or commercially. Licenses that grant these freedoms for noncommercial activities but prohibit them for commercial activities are considered non-free. The Open Source Initiative (*OSI* ) (the arbiter of what is considered "Open Source") also regards such licenses as inconsistent with its "Open Source Definition".
 
@@ -3333,7 +3332,7 @@ The following is a suggested compliant offer for source under GPLv2 (and is also
 >
 >Please write "source for product *Y* " in the memo line of your payment.
 >
->You may also find a copy of the source at http://www.example.com/sources/Y/. This offer is valid to anyone in receipt of this information.
+>You may also find a copy of the source at [http://www.example.com/sources/Y/](http://www.example.com/sources/Y/). This offer is valid to anyone in receipt of this information.
 
 >此产品中包含根据GPL许可的受版权保护的软件。该许可证的副本已包含在本文档的第X页中。你可以通过发送5美元的汇票或支票到以下地址，获得我们提供的该产品最后一次装运后三年内的完整的对应源代码：
 >
@@ -3345,7 +3344,7 @@ The following is a suggested compliant offer for source under GPLv2 (and is also
 >
 >请在付款单的备忘录栏中写上“产品Y的源代码”。
 >
->你还可以在 http://www.example.com/sources/Y/ 找到源代码的副本。此提供方案适用于所有收到此信息的人。
+>你还可以在 [http://www.example.com/sources/Y/](http://www.example.com/sources/Y/) 找到源代码的副本。此提供方案适用于所有收到此信息的人。
 
 There are a few important details about this offer. First, it requires a copying fee. GPLv2 permits "a charge no more than your cost of physically performing source distribution". This fee must be reasonable. If your cost of copying and mailing a CD is more than around \$10, you should perhaps find a cheaper CD stock and shipment method. It is simply not in your interest to try to overcharge the community. Abuse of this provision in order to make a for-profit enterprise of source code provision will likely trigger enforcement action.
 
@@ -5455,7 +5454,7 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
 为此，最安全、最有效的办法是将如下的声明附在每个文件开头，以明确传达免责声明。每个文件应当最少包含一个“版权声明”和一个本许可证的完整声明。
 
-    \<用一行标明程序的名称和作用。 \>
+    `\<用一行标明程序的名称和作用。 \>`
 
     版权所有 (C) \<年份\>  \<作者姓名\>
 
