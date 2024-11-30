@@ -9,6 +9,9 @@ authors:
   - zRich
 ---
 
+AI Magazine 采访了Clyde Seepersad，讨论了创建可持续AI用例和"有目的但耐心"的AI理念。Seepersad强调了Linux基金会在培训、认证和推动负责任AI协作方面的作用，并建议企业应战略性地准备AI发展。
+<!-- truncate -->
+
 # 为AI原生的未来准备工作能力
 
 原文链接：https://aimagazine.com/ai-strategy/preparing-the-workforce-for-an-ai-native-future

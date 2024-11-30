@@ -38,6 +38,7 @@ const config = {
         id: 'yidaoshi',
         routeBasePath: 'yidaoshi',
         path: './yidaoshi',
+        onUntruncatedBlogPosts: 'ignore',
       },
     ],
   ],
